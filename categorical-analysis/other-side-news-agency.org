@@ -12,7 +12,6 @@ Urban Legends Mockumentary Investigative Journalism
 **** TODO как перевести?
 *** Референсы
 **** TODO пояснения к референсам
-**** TODO ссылки на референсы
 **** Основные
 ***** What We Do in the Shadows [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows][movie]] [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)][series]]                                    :video_series:
 ***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
@@ -105,6 +104,7 @@ Urban Legends Mockumentary Investigative Journalism
 **** Преступления и наказания
 * Заметки
 ** Альтернативные названия
-*** Duck hunt/ Утиная охота
-** [[https://en.wikipedia.org/wiki/Newsgame][Newsgame]] — жанр игр, основаных на принципах журналистики.
+*- Duck hunt/ Утиная охота
+** Прочее
+- *[[https://en.wikipedia.org/wiki/Newsgame][Newsgame]] — жанр игр, основаных на принципах журналистики.
 ** TODO Gotham как пример поля действия
