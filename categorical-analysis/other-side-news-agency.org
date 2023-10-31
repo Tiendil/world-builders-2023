@@ -13,7 +13,7 @@ Urban Legends Mockumentary Investigative Journalism
 *** Референсы
 **** TODO пояснения к референсам
 **** Основные
-***** What We Do in the Shadows [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows][movie]] [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)][series]]                                    :video_series:
+***** [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)][What We Do in the Shadows ]]                                                :video_series:
 ***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
