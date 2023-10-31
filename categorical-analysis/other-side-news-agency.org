@@ -14,25 +14,25 @@ Urban Legends Mockumentary Investigative Journalism
 **** TODO пояснения к референсам
 **** TODO ссылки на референсы
 **** Основные
-***** What We Do in the Shadows                                                 :video_series:
-***** Supernatural                                                              :video_series:
-***** SCP Foundation                                                            :game:
-***** X-Files                                                                   :video_series:
-***** Disco Elysium                                                             :game:
+***** What We Do in the Shadows [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows][movie]] [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)][series]]                                    :video_series:
+***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
+***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
+***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
+***** [[https://en.wikipedia.org/wiki/Disco_Elysium][Disco Elysium]]                                                             :game:
 **** Видео
-***** Being Human                                                               :video_series:
-***** Gravity Falls                                                             :animation_series:
-***** Adventure Time                                                            :animation_series:
-***** interview with the vampire                                                :movie:
-***** Ночной дозор                                                              :movie:
+***** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                               :video_series:
+***** [[https://en.wikipedia.org/wiki/Gravity_Falls][Gravity Falls]]                                                             :animation_series:
+***** [[https://en.wikipedia.org/wiki/Adventure_Time][Adventure Time]]                                                            :animation_series:
+***** [[https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)][Interview with the vampire]]                                                :movie:
 **** Игры
-***** eRepublik                                                                 :game:
-***** Headliner: NoviNews                                                       :game:
-***** The Westport Independent                                                  :game:
-***** The Republia Times                                                        :game:
-***** Daily Chthonicle: Editor's Edition                                        :game:
+***** [[https://en.wikipedia.org/wiki/ERepublik][eRepublik]]                                                                 :game:
+***** [[https://store.steampowered.com/app/918820/Headliner_NoviNews/][Headliner: NoviNews]]                                                       :game:
+***** [[https://store.steampowered.com/app/352240/The_Westport_Independent/][The Westport Independent]]                                                  :game:
+***** [[https://dukope.com/trt/play.html][The Republia Times]]                                                        :game:
+***** [[https://store.steampowered.com/app/490980/Daily_Chthonicle_Editors_Edition/][Daily Chthonicle: Editor's Edition]]                                        :game:
 **** TODO детективые произведения
 **** TODO книги
+***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:
 **** TODO комиксы
 *** Герои
 **** Репортёр
