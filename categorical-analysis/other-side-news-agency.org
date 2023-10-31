@@ -9,31 +9,60 @@
 ** Вселенная
 *** Жанр
 Urban Legends Mockumentary Investigative Journalism
+**** TODO как перевести?
 *** Референсы
+**** TODO пояснения к референсам
 **** Основные
 ***** What We Do in the Shadows                                                 :video_series:
 ***** Supernatural                                                              :video_series:
 ***** SCP Foundation                                                            :game:
 ***** X-Files                                                                   :video_series:
 ***** Disco Elysium                                                             :game:
-**** Being Human                                                                :video_series:
-**** Gravity Falls                                                              :animation_series:
-**** Adventure Time                                                             :animation_series:
-**** eRepublik                                                                  :game:
-**** interview with the vampire                                                 :movie:
-**** Ночной дозор                                                               :movie:
-**** Headliner: NoviNews                                                        :game:
-**** The Westport Independent                                                   :game:
-**** The Republia Times                                                         :game:
-**** Daily Chthonicle: Editor's Edition                                         :game:
-**** Brooklyn Nine-Nine                                                         :video_series:
+**** Видео
+***** Being Human                                                               :video_series:
+***** Gravity Falls                                                             :animation_series:
+***** Adventure Time                                                            :animation_series:
+***** interview with the vampire                                                :movie:
+***** Ночной дозор                                                              :movie:
+**** Игры
+***** eRepublik                                                                 :game:
+***** Headliner: NoviNews                                                       :game:
+***** The Westport Independent                                                  :game:
+***** The Republia Times                                                        :game:
+***** Daily Chthonicle: Editor's Edition                                        :game:
 **** TODO детективые произведения
 **** TODO книги
-*** Истории
+**** TODO комиксы
 *** Герои
+**** Репортёр
+***** Матёрый фрилансер
+***** Зелёный новичёк
+***** Пьяный мастер
+***** под крикрытием
+***** Грязный/честный
+**** Vigilant (DC-style)
+***** С этой стороны (человек)
+***** С той стороны (сверхъестественное, со сверх способностями)
+**** Villain (DC-style)
+***** С этой стороны (человек)
+***** С той стороны (сверхъестественное, со сверх способностями)
+**** Сверхъестественное существо
+**** Секретный агент секретной организации/ордена/клана
+***** Охотники на/за
+***** Государственники / спецслужбы
+***** Правохранители и частные детективы
+**** Дама/Джентельмен/Небинарная личность в беде
+**** Гуру/мудрец
+**** Колекционер диковинок
+**** Обыватель
+***** в первый раз столкнувшийся с потусторонним
+***** привыкший жить в этом хаосе
+*** Истории
+****
 *** Признаки
 *** Якоря реального мира
 * Заметки
 ** Альтернативные названия
 *** Duck hunt/ Утиная охота
 ** [[https://en.wikipedia.org/wiki/Newsgame][Newsgame]] — жанр игр, основаных на принципах журналистики.
+** TODO Gotham как пример поля действия
