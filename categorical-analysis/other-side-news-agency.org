@@ -8,16 +8,20 @@
 - Если зрители проголосуют за твою новость, она станет реальностью в мире Urban Legends.
 ** Вселенная
 *** Жанр
-Urban Legends Mockumentary Investigative Journalism
-**** TODO как перевести?
+Paranormal Mockumentary Investigative Journalism
+**** TODO как перевести нормально?
 *** Референсы
-**** TODO пояснения к референсам
 **** Основные
-***** [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)][What We Do in the Shadows ]]                                                :video_series:
-***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
+Наиболее близкий по духу и структуре существующий проект.
 ***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
+Атмосфера «той стороны» — существующующий, но постоянно ускользающий другой мир.
 ***** [[https://en.wikipedia.org/wiki/Disco_Elysium][Disco Elysium]]                                                             :game:
+Расследование в мире на грани между реальностью, бредом и паранормальным.
+***** [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)][What We Do in the Shadows ]]                                                :video_series:
+Общий настрой, мокументарность, юмор.
+***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
+Принцип формирования мира, сюжета, разнообразие. Истоичник характерных сюжетов.
 **** Видео
 ***** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                               :video_series:
 ***** [[https://en.wikipedia.org/wiki/Gravity_Falls][Gravity Falls]]                                                             :animation_series:
