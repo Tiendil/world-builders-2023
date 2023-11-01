@@ -33,19 +33,26 @@ Absurd Sci-Fi Tales of Valor and Unity
 - Absurd Galactic Exploration Chronicles
 *** Референсы
 **** Основные
-***** Star Trek: Deep Space Nine                                                :video_series:
-***** Star Trek: Lower Decks                                                    :video_series:
-***** Doctor Who                                                                :video_series:
-***** Star Gates                                                                :video_series:
-***** Звёздные Дневники Ийона Тихого                                            :book:video_series:
-***** Fairy Tail                                                                :manga:animation_series:
-***** Naruto                                                                    :manga:animation_series:
-***** One Piece                                                                 :manga:animation_series:
+***** [[https://ru.wikipedia.org/wiki/Fairy_Tail][Fairy Tail]]                                                                :manga:animation_series:
+Близкое по духу развитие гильдии и её членов.
+***** [[https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D1%82%D1%8C:_%D0%93%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81_9][Star Trek: Deep Space Nine]]                                                :book:video_series:
+Жизнь космической станции, вокруг которой бурлит жизнь.
+***** [[https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D1%82%D1%8C:_%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B5_%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D1%8B][Star Trek: Lower Decks]]                                                    :video_series:
+Безбашенная пати, которая исследует космос.
+***** [[https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%9A%D1%82%D0%BE][Doctor Who]]                                                                :video_series:
+Модель путешествия и построения сюжетов: телепортируемя в неизвестность, встречаем очередное сумашествие, решаем проблему, возвращаемся.
+***** [[https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B2%D1%80%D0%B0%D1%82%D0%B0][Stargate]]                                                                  :video_series:
+Модель путешествия, источник вдохновения для сюжетов.
+***** [[https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8_%D0%98%D0%B9%D0%BE%D0%BD%D0%B0_%D0%A2%D0%B8%D1%85%D0%BE%D0%B3%D0%BE][Звёздные Дневники Ийона Тихого]]                                            :book:video_series:
+Желаемый уровень абсурности.
+***** [[https://ru.wikipedia.org/wiki/One_Piece._%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BA%D1%83%D1%88][One Piece]]                                                                 :manga:animation_series:video_series:
+Задор руководителя бардака.
 **** Видео
 **** TODO Игры
 **** TODO детективные произведения
 **** TODO книги
-***** Гарри Поттер
+***** [[https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B8%D1%8F_%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2_%D0%BE_%D0%93%D0%B0%D1%80%D1%80%D0%B8_%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%D0%B5][Гарри Поттер]]                                                              :book:video_series:
+***** [[https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D1%83%D1%82%D0%BE][Naruto]]                                                                    :manga:animation_series:
 **** TODO комиксы
 *** Герои
 **** Бармен
@@ -94,6 +101,7 @@ Absurd Sci-Fi Tales of Valor and Unity
 **** Становление и испытание дружбы
 **** Жадность
 **** Diversity/Разнообразие
+**** Black Mirror сюжеты — за вратами может быть любая ситуация из возможно будущего нашего мира
 ** Первый продукт
 *** Одной строкой
 Я построю свою космостанцию с баром и наёмниками.
@@ -113,6 +121,7 @@ Absurd Sci-Fi Tales of Valor and Unity
 - Основной интерес вокруг сроится на максимаьной случайности всего: миров, лута, персонажей для найма, заданий, историй, и т.д.
 - Стиль — pixelart
 ** Заметки
+*** Вынести лишнее из описания продукта в заметки
 *** Async MMO
 
 *** Горы лута от предыдущей цивилизации, никто не знает как оно работает, но его можно соединять
