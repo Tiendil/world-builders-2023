@@ -49,10 +49,10 @@ Paranormal Mockumentary Investigative Journalism
 ***** [[https://store.steampowered.com/app/352240/The_Westport_Independent/][The Westport Independent]]                                                  :game:
 ***** [[https://dukope.com/trt/play.html][The Republia Times]]                                                        :game:
 ***** [[https://store.steampowered.com/app/490980/Daily_Chthonicle_Editors_Edition/][Daily Chthonicle: Editor's Edition]]                                        :game:
-**** TODO детективные произведения
-**** TODO книги
+**** TODO Детективные произведения
+**** TODO Книги
 ***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:
-**** TODO комиксы
+**** TODO Комиксы
 *** Герои
 **** Профессиональный репортёр-расследователь
 Основной тип героя.
@@ -133,8 +133,6 @@ Paranormal Mockumentary Investigative Journalism
 - Сними или напиши новость для Tik Tok, Instagram, Twitter о потустороннем мире.
 - Если зрители проголосуют за твою новость, она станет реальностью в мире Той Стороны.
 ** Заметки
-*** Альтернативные названия
-- Duck hunt/ Утиная охота
-*** Прочее
+- Альтернативное название: Duck hunt/ Утиная охота
 - [[https://en.wikipedia.org/wiki/Newsgame][Newsgame]] — жанр игр, основаных на принципах журналистики.
 - Как варинат маркетинговой стратегии, можно сосредоточиться на клубах ролевиков.
