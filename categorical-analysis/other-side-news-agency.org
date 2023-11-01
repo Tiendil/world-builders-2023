@@ -8,9 +8,14 @@
 
 [[https://tiendil.org/fictional-universe-setting-work-what-the-difference/][Логика описания раскрыта в блоге]].
 
+** Вселенная
+- Наша реальность с широким разнообразием паронормальных явлений.
+- Паранормальность редка, скрыта.
+- Паранормальность артефактов создаётся сильными эмоциями и/или верой массы людей.
+- Паранормальность существ передаётся по наследству + как артефакты.
+- Паранормальность может быть заразна — одни артефакт может пораждать новые.
+- Проявления паранормальности во многом соответствуют классическую фольклору.
 ** Сеттинг
-*** Вселенная
-Наша реальность с широким разнообразием паронормальных явлений.
 *** Время
 Наши дни.
 *** Жанр
@@ -29,7 +34,7 @@ Paranormal Mockumentary Investigative Journalism
 ***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
 Принцип формирования мира, разнообразие. Источник характерных сюжетов.
 ***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:
-Принцип формирования артефактов, истоичник характерных сюжетов.
+Принцип формирования артефактов, источник характерных сюжетов.
 **** Видео
 ***** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                               :video_series:
 ***** [[https://en.wikipedia.org/wiki/Gravity_Falls][Gravity Falls]]                                                             :animation_series:
