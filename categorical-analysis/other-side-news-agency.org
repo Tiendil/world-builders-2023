@@ -1,3 +1,4 @@
+#+TITLE: Other Side News Agency
 * Other Side News Agency / Новостное Агентство Той Стороны
 
 [[https://github.com/Tiendil/world-builders-2023/blob/main/categorical-analysis/other-side-news-agency.org][Исходники]]
