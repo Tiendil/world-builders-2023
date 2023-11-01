@@ -35,6 +35,7 @@ Paranormal Mockumentary Investigative Journalism
 Общий настрой, мокументарность, юмор, простота.
 ***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
 Принцип формирования мира, разнообразие. Источник характерных сюжетов.
+***** TODO warhouse 13
 **** Видео
 ***** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                               :video_series:
 ***** [[https://en.wikipedia.org/wiki/Gravity_Falls][Gravity Falls]]                                                             :animation_series:
