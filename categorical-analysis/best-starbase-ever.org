@@ -1,22 +1,50 @@
-* Best Starbase Ever
-* Notes
-** !!Fun & Humor & Absurdity: Lem, Doctor Who, Star Track, Stargates
-** Fairy Tail, Naruto, Harry Potter
+#+TITLE: Best Starbase Ever
+* Best Starbase Ever / Лучшая Звездная База
+[[https://github.com/Tiendil/world-builders-2023/blob/main/categorical-analysis/best-starbase-ever.org][Исходники]]
 
-** Async MMO
+В документе описано три сущности:
 
-** Pixelart
+- Вселеленная — кратко, для контекста.
+- Сеттинг — категориальный анализ.
+- Продукт — кратко, для контекста.
 
-** Steam
+[[https://tiendil.org/fictional-universe-setting-work-what-the-difference/][Логика описания раскрыта в блоге]].
+** Вселенная
+** Сеттинг
+*** Время
+*** Жанр
+*** Референсы
+**** Основные
+**** Видео
+**** Игры
+**** TODO детективные произведения
+**** TODO книги
+**** TODO комиксы
+*** Герои
+*** Истории
+*** Признаки
+*** Якоря реального мира
+** Первый продукт
+*** Одной строкой
+*** Описание
+** Заметки
+*** !!Fun & Humor & Absurdity: Lem, Doctor Who, Star Track, Stargates
+*** Fairy Tail, Naruto, Harry Potter
 
-** Build your guild and story of its members
+*** Async MMO
 
-** Concepts demo
+*** Pixelart
 
-*** https://docs.google.com/document/d/1VZx_FXRxkH6sk8emXPJGanE4-Tp7pcBoYTGg9Cj2D_8/edit
+*** Steam
 
-*** https://docs.google.com/document/d/1azkT9wSJaip4jWxQa2PTN49R8INRFdJkkjt6lezzl2k/edit
+*** Build your guild and story of its members
 
-*** https://docs.google.com/document/d/1pEJQMSThrcQGkL3qwmLsAgkHB2gl7krKtywPMPlD8y8/edit
+*** Concepts demo
 
-*** https://docs.google.com/document/d/1e0DBh8i6hQMCgflcGNxnczM29RGn_NvbBrshXZE6rLc/edit
+**** https://docs.google.com/document/d/1VZx_FXRxkH6sk8emXPJGanE4-Tp7pcBoYTGg9Cj2D_8/edit
+
+**** https://docs.google.com/document/d/1azkT9wSJaip4jWxQa2PTN49R8INRFdJkkjt6lezzl2k/edit
+
+**** https://docs.google.com/document/d/1pEJQMSThrcQGkL3qwmLsAgkHB2gl7krKtywPMPlD8y8/edit
+
+**** https://docs.google.com/document/d/1e0DBh8i6hQMCgflcGNxnczM29RGn_NvbBrshXZE6rLc/edit
