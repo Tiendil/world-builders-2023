@@ -184,6 +184,7 @@ Paranormal Mockumentary Investigative Journalism
 ****** [[https://dukope.com/trt/play.html][The Republia Times]]                                                       :game:
 *** TODO Продукт 2
 **** Сериал о новостном агентстве
+*** TODO Продукт 3 — менеджер новостного агенства / гильдии разведчиков
 ** Заметки
 - Альтернативное название: Duck hunt/ Утиная охота
 - [[https://en.wikipedia.org/wiki/Newsgame][Newsgame]] — жанр игр, основаных на принципах журналистики.
