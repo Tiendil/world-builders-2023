@@ -43,6 +43,7 @@ Paranormal Mockumentary Investigative Journalism
 ***** [[https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)][Interview with the vampire]]                                                :movie:
 ***** TODO Индиана Джонс?
 ***** TODO Джессика Джонс?
+***** TODO Библиотекари
 **** Второстепенные
 ***** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                               :video_series:
 Жизнь обывателей с той стороны.
@@ -114,6 +115,7 @@ Paranormal Mockumentary Investigative Journalism
 **** Богатые кварталы
 **** Бар
 **** Аукцион артефактов
+**** Хранилище артефактов
 **** TODO Храм/Святилище
 **** Военная база
 **** Заброшенное здание / заброшенный комплекс
