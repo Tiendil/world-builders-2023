@@ -43,12 +43,13 @@ Paranormal Mockumentary Investigative Journalism
 Жизнь обывателей с той стороны.
 ***** [[https://store.steampowered.com/app/490980/Daily_Chthonicle_Editors_Edition/][Daily Chthonicle: Editor's Edition]]                                        :game:
 ***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:movies:
+***** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency ]]                                  :video_series:
 **** TODO Детективные произведения
 **** TODO Книги
 **** TODO Комиксы
 **** TODO Journalists/Investigators from superheroes universes
 *** Герои
-**** Профессиональный репортёр-расследователь
+**** Расследователь журналист/детектив
 Основной тип героя.
 Существует развитое сообщество, соприкасающееся с той стороной.
 Профессия репортёра-исследователя широко им востребована, так как все хотят быть в курсе происходящего.
