@@ -25,31 +25,28 @@ Urban Legends
 Paranormal Mockumentary Investigative Journalism
 *** Референсы
 **** Основные
-***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:
-Принцип формирования артефактов, источник характерных сюжетов.
-***** [[https://en.wikipedia.org/wiki/Grimm_(TV_series)][Grimm ]]                                                                    :video_series:
-***** [[https://en.wikipedia.org/wiki/Constantine_(film)][Constantine ]]                                                              :movie:
 ***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
-Without aliens.
-***** [[https://en.wikipedia.org/wiki/Disco_Elysium][Disco Elysium]]                                                             :game:
-Расследование в мире на грани между реальностью, бредом и паранормальным.
+Без пришельцев.
+***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:
+Характер аномалий. Истории.
+***** [[https://en.wikipedia.org/wiki/Grimm_(TV_series)][Grimm ]]                                                                    :video_series:
+Сообщество той стороны. Интеграция фольклора. Истории.
 ***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
-Принцип формирования мира, разнообразие. Источник характерных сюжетов.
-**** Видео
-***** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                               :video_series:
-***** [[https://en.wikipedia.org/wiki/Gravity_Falls][Gravity Falls]]                                                             :animation_series:
-***** [[https://en.wikipedia.org/wiki/Adventure_Time][Adventure Time]]                                                            :animation_series:
+Сообщество той стороны. Интеграция фольклора. Истории.
+***** [[https://en.wikipedia.org/wiki/Disco_Elysium][Disco Elysium]]                                                             :game:
+Персонажи. Характер аномалий. Типичные проблемы.
+***** [[https://en.wikipedia.org/wiki/Constantine_(film)][Constantine ]]                                                              :movie:comics:
+Персонажи.
 ***** [[https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)][Interview with the vampire]]                                                :movie:
-**** Игры
-***** [[https://en.wikipedia.org/wiki/ERepublik][eRepublik]]                                                                 :game:
-***** [[https://store.steampowered.com/app/918820/Headliner_NoviNews/][Headliner: NoviNews]]                                                       :game:
-***** [[https://store.steampowered.com/app/352240/The_Westport_Independent/][The Westport Independent]]                                                  :game:
-***** [[https://dukope.com/trt/play.html][The Republia Times]]                                                        :game:
+**** Второстепенные
+***** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                               :video_series:
+Жизнь обывателей с той стороны.
 ***** [[https://store.steampowered.com/app/490980/Daily_Chthonicle_Editors_Edition/][Daily Chthonicle: Editor's Edition]]                                        :game:
+***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:movies:
 **** TODO Детективные произведения
 **** TODO Книги
-***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:
 **** TODO Комиксы
+**** TODO Journalists/Investigators from superheroes universes
 *** Герои
 **** Профессиональный репортёр-расследователь
 Основной тип героя.
@@ -134,6 +131,10 @@ Without aliens.
 Близкий по духу и структуре существующий проект.
 ***** [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)][What We Do in the Shadows ]]                                                :video_series:
 Общий настрой, мокументарность, юмор, простота.
+***** [[https://en.wikipedia.org/wiki/ERepublik][eRepublik]]                                                                 :game:
+***** [[https://store.steampowered.com/app/918820/Headliner_NoviNews/][Headliner: NoviNews]]                                                       :game:
+***** [[https://store.steampowered.com/app/352240/The_Westport_Independent/][The Westport Independent]]                                                  :game:
+***** [[https://dukope.com/trt/play.html][The Republia Times]]                                                        :game:
 ** Заметки
 - Альтернативное название: Duck hunt/ Утиная охота
 - [[https://en.wikipedia.org/wiki/Newsgame][Newsgame]] — жанр игр, основаных на принципах журналистики.
