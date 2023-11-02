@@ -12,32 +12,29 @@
 [[https://tiendil.org/fictional-universe-setting-work-what-the-difference/][Логика описания раскрыта в блоге]].
 
 ** Вселенная
-- Наша реальность с широким разнообразием паранормальных явлений.
+- Наша реальность с широким разнообразием [[https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5][паранормальных явлений]].
 - Паранормальность редка, скрыта.
-- Паранормальность артефактов создаётся сильными эмоциями и/или верой массы людей.
-- Паранормальность существ передаётся по наследству + как артефакты.
-- Паранормальность может быть заразна — одни артефакт может пораждать новые.
-- Проявления паранормальности во многом соответствуют классическую фольклору.
+- Паранормальность создаётся сильными эмоциями и/или верой массы людей.
+- Паранормальность может быть заразна, передаваться по наследству.
 ** Сеттинг
+*** Мета сеттинг
+Urban Legends
 *** Время
 Наши дни.
 *** Жанр
 Paranormal Mockumentary Investigative Journalism
-**** TODO как перевести нормально?
 *** Референсы
 **** Основные
-***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
-Близкий по духу и структуре существующий проект.
-***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
-Атмосфера «той стороны» — существующующий, но постоянно ускользающий другой мир.
-***** [[https://en.wikipedia.org/wiki/Disco_Elysium][Disco Elysium]]                                                             :game:
-Расследование в мире на грани между реальностью, бредом и паранормальным.
-***** [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)][What We Do in the Shadows ]]                                                :video_series:
-Общий настрой, мокументарность, юмор, простота.
-***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
-Принцип формирования мира, разнообразие. Источник характерных сюжетов.
 ***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:
 Принцип формирования артефактов, источник характерных сюжетов.
+***** [[https://en.wikipedia.org/wiki/Grimm_(TV_series)][Grimm ]]                                                                    :video_series:
+***** [[https://en.wikipedia.org/wiki/Constantine_(film)][Constantine ]]                                                              :movie:
+***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
+Without aliens.
+***** [[https://en.wikipedia.org/wiki/Disco_Elysium][Disco Elysium]]                                                             :game:
+Расследование в мире на грани между реальностью, бредом и паранормальным.
+***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
+Принцип формирования мира, разнообразие. Источник характерных сюжетов.
 **** Видео
 ***** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                               :video_series:
 ***** [[https://en.wikipedia.org/wiki/Gravity_Falls][Gravity Falls]]                                                             :animation_series:
@@ -132,6 +129,11 @@ Paranormal Mockumentary Investigative Journalism
 - «ММО» песочница для ролевиков создателей контента и их фоловеров.
 - Сними или напиши новость для Tik Tok, Instagram, Twitter о потустороннем мире.
 - Если зрители проголосуют за твою новость, она станет реальностью в мире Той Стороны.
+*** Референсы
+***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
+Близкий по духу и структуре существующий проект.
+***** [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)][What We Do in the Shadows ]]                                                :video_series:
+Общий настрой, мокументарность, юмор, простота.
 ** Заметки
 - Альтернативное название: Duck hunt/ Утиная охота
 - [[https://en.wikipedia.org/wiki/Newsgame][Newsgame]] — жанр игр, основаных на принципах журналистики.
