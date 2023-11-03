@@ -36,6 +36,9 @@ Paranormal Mockumentary Investigative Journalism
 *** TODO нужен ли фольклор
 *** Референсы
 **** Основные
+***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
+***** [[https://en.wikipedia.org/wiki/Disco_Elysium][Disco Elysium]]                                                             :game:
+Персонажи. Характер аномалий. Типичные проблемы.
 ***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
 Персонажи. Без пришельцев.
 ***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:
@@ -44,11 +47,10 @@ Paranormal Mockumentary Investigative Journalism
 Персонажи. Сообщество той стороны. Интеграция фольклора. Истории.
 ***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
 Персонажи. Сообщество той стороны. Интеграция фольклора. Истории.
-***** [[https://en.wikipedia.org/wiki/Disco_Elysium][Disco Elysium]]                                                             :game:
-Персонажи. Характер аномалий. Типичные проблемы.
 ***** [[https://en.wikipedia.org/wiki/Constantine_(film)][Constantine ]]                                                              :movie:comics:
 Персонажи.
 ***** [[https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)][Interview with the vampire]]                                                :movie:
+***** [[https://en.wikipedia.org/wiki/Mieruko-chan][Mieruko Chan ]]                                                             :manga:animation_series:
 ***** TODO Индиана Джонс?
 ***** TODO Джессика Джонс?
 ***** TODO Библиотекари
@@ -64,9 +66,6 @@ Paranormal Mockumentary Investigative Journalism
 **** TODO Книги
 **** TODO Комиксы
 **** TODO Journalists/Investigators from superheroes universes
-**** TODO аниме про девочек, которые могли на ту сторону через двери проходить
-***** TODO Может оказаться очень похоже на всю вселенную!!! Проверить
-**** TODO аниме про девочку, которая видела жуть
 **** TODO Звонок (ужастик)
 *** Герои
 **** Расследователь
