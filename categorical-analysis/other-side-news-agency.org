@@ -12,59 +12,61 @@
 [[https://tiendil.org/fictional-universe-setting-work-what-the-difference/][Логика описания раскрыта в блоге]].
 
 ** Вселенная
-- Наука + шаманизм.
-- Та сторона — параллельное измерение, возникает в ответ на массовые/сильные эмоции.
+- Наука + witchcraft (ритуальная магия + шаманизм).
+- «Та сторона» — параллельное измерение, возникает в ответ на массовые/сильные эмоции.
   => появляется чаще и сильнее с ростом населения и его концетрацией.
   => вызов для цивилизации, как глобальное потепление.
-  => о той стороне уже все знают, все обсуждают, это трендовый вопрос на ближашие десятилетия.
+  => о той стороне уже все знают, это трендовый вопрос на ближашие десятилетия.
+  => ту сторону исследуют и изучают, но безуспешно.
 - Выглядит как копия нашего мира, но без людей.
 - На той стороне можно найти артефакты и притащить в обычный мир.
 - Артефакты полезны, но «радиоактивны» — меняют носителя со времнем.
-- Артефакты можно собирать в механизмы, балансировать их эффекты, etc.
-- Сильно мутировавшие люди становятся опасны и уходят на ту сторону, делая её всё опаснее.
-- Исторический фольклор основа на ранних случаях проявления той стороны.
+- Люди с мутациями объединяются в сообщества и начнают шифроваться.
+- Глубоко мутировавшие люди становятся опасны и уходят на ту сторону, делая её всё опаснее.
+- Фольклор основан на ранних случаях проявления той стороны.
 ** TODO Ещё раз проверить, что разделил сеттинг стилистику/продукт и сеттинг/вселенную
+** TODO Кто знает больше безопасных путей на той стороне, тот рулит
+** TODO ораторы, артисты, новостники получают возможность манипулировать той стороной
+** TODO Новые профессии: «сталкеры», «проходчики», «переводчики», «перевозчики», «продавцы»
+** TODO Картинки
 ** Сеттинг
 *** Мета сеттинг
 Urban Legends
 *** Время
 Наши дни.
-*** Жанр
-Paranormal Mockumentary Investigative Journalism
-*** TODO нужен ли фольклор
 *** Референсы
 **** Основные
 ***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
-***** [[https://en.wikipedia.org/wiki/Disco_Elysium][Disco Elysium]]                                                             :game:
-Персонажи. Характер аномалий. Типичные проблемы.
+Близко по концепции. Персонажи. Та сторона. Попаданцы на ту сторону.
 ***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
-Персонажи. Без пришельцев.
+Без пришельцев. Персонажи. Истории. Пример государственной службы, разбирающиейся с аномалиями.
 ***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:
-Характер аномалий. Истории.
+Артефакты и работа с ними. Истории.
 ***** [[https://en.wikipedia.org/wiki/Grimm_(TV_series)][Grimm ]]                                                                    :video_series:
-Персонажи. Сообщество той стороны. Интеграция фольклора. Истории.
-***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
-Персонажи. Сообщество той стороны. Интеграция фольклора. Истории.
-***** [[https://en.wikipedia.org/wiki/Constantine_(film)][Constantine ]]                                                              :movie:comics:
+Сообщество той стороны. Интеграция фольклора. Истории.
+***** TODO [[https://en.wikipedia.org/wiki/Constantine_(film)][Constantine ]]                                                         :movie:comics:
 Персонажи.
-***** [[https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)][Interview with the vampire]]                                                :movie:
-***** [[https://en.wikipedia.org/wiki/Mieruko-chan][Mieruko Chan ]]                                                             :manga:animation_series:
-***** TODO Индиана Джонс?
 ***** TODO Джессика Джонс?
-***** TODO Библиотекари
+***** TODO шаманизм
+***** TODO Сюзанна кларк
 **** Второстепенные
+***** [[https://en.wikipedia.org/wiki/Mieruko-chan][Mieruko Chan ]]                                                             :manga:animation_series:
+Вариант интеграции той стороны.
+***** [[https://en.wikipedia.org/wiki/Disco_Elysium][Disco Elysium]]                                                             :game:
 ***** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                               :video_series:
 Жизнь обывателей с той стороны.
 ***** [[https://store.steampowered.com/app/490980/Daily_Chthonicle_Editors_Edition/][Daily Chthonicle: Editor's Edition]]                                        :game:
 ***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:movies:
 ***** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency ]]                                  :video_series:
 ***** [[https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%BD%D1%8C_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)][Грань ]]                                                                    :video_series:
-**** TODO аниме
+***** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                              :video_series:
+Персонажи. Сообщество той стороны. Интеграция фольклора. Истории.
+***** [[https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%D1%80%D0%B8][Библиотекари ]]                                                             :video_series:movie:
 **** TODO Детективные произведения
 **** TODO Книги
 **** TODO Комиксы
 **** TODO Journalists/Investigators from superheroes universes
-**** TODO Звонок (ужастик)
+**** TODO Экзорцизм
 *** Герои
 **** Расследователь
 Журналист, детектив, специальный агент.
@@ -166,10 +168,13 @@ Paranormal Mockumentary Investigative Journalism
 **** Равноправие
 **** Сегрегация
 **** Экономическое неравенство
+**** TODO «попросить вселенную»
 ** продукты
 *** TODO Продукт 1
 **** Одной строкой
 Делай новости, создавай легенды, меняй ту сторону.
+**** Жанр
+Paranormal Mockumentary Investigative Journalism
 **** Описание
 - «ММО» песочница для ролевиков создателей контента и их фоловеров.
 - Сними или напиши новость для Tik Tok, Instagram, Twitter о потустороннем мире.
@@ -183,6 +188,7 @@ Paranormal Mockumentary Investigative Journalism
 ****** [[https://store.steampowered.com/app/918820/Headliner_NoviNews/][Headliner: NoviNews]]                                                      :game:
 ****** [[https://store.steampowered.com/app/352240/The_Westport_Independent/][The Westport Independent]]                                                 :game:
 ****** [[https://dukope.com/trt/play.html][The Republia Times]]                                                       :game:
+***** [[https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)][Interview with the vampire]]                                                :movie:
 *** TODO Продукт 2
 **** Сериал о новостном агентстве
 *** TODO Продукт 3 — менеджер новостного агенства / гильдии разведчиков
