@@ -13,10 +13,12 @@
 [[https://tiendil.org/fictional-universe-setting-work-what-the-difference/][Логика описания раскрыта в блоге]].
 
 ** Вселенная
-#+ATTR_HTML: :width 500px
+#+ATTR_HTML: :width 500px :style display: inline-block
 [[./other-side-news-agency-1.png]]
-#+ATTR_HTML: :width 500px
+
+#+ATTR_HTML: :width 500px :style display: inline-block
 [[./other-side-news-agency-2.png]]
+
 - Наука + witchcraft (ритуальная магия + шаманизм).
 - «Та сторона» — параллельное измерение, возникает в ответ на массовые/сильные эмоции.
 - Появляется чаще и сильнее с ростом населения и его концентрацией.
@@ -83,6 +85,7 @@ Not the "Princess Mononoke".
 ***** Член секретной организации
 ***** Военщина
 **** Второстепенные
+***** фамилиар
 ***** Врач
 ***** ПТСР-шник
 Видел то, чего не хотел бы видеть никогда.
