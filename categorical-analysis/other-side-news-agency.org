@@ -185,7 +185,7 @@ Not the "Princess Mononoke".
 **** Контроль государства
 **** Diversity/Разнообразие
 ** продукты
-*** TODO Продукт 1
+*** ММО Other Side News Agency
 **** Одной строкой
 Делай новости, создавай легенды, меняй ту сторону.
 **** Жанр
@@ -204,10 +204,8 @@ Paranormal Mockumentary Investigative Journalism
 ****** [[https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)][Interview with the vampire]]                                               :movie:
 ****** [[https://store.steampowered.com/app/490980/Daily_Chthonicle_Editors_Edition/][Daily Chthonicle: Editor's Edition ]]                                      :game:
 ****** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency ]]                                 :video_series:
-*** TODO Продукт 2
-**** Сериал о новостном агентстве
-*** TODO Продукт 3 — менеджер новостного агенства / гильдии разведчиков
+*** Сериал Other Side News Agency
+*** Игра Other Side News Agency
+*менеджер новостного агенства / гильдии разведчиков
 ** Заметки
-- Альтернативное название: Duck hunt/ Утиная охота
-- [[https://en.wikipedia.org/wiki/Newsgame][Newsgame]] — жанр игр, основаных на принципах журналистики.
 - Как варинат маркетинговой стратегии, можно сосредоточиться на клубах ролевиков.
