@@ -16,6 +16,7 @@
 #+BEGIN_EXPORT html
 <img src="./other-side-news-agency-4.png" style="width: 29em; display: inline-block;"/>
 <img src="./other-side-news-agency-5.png" style="width: 29em; display: inline-block;"/>
+<img src="./other-side-news-agency-6.png" style="width: 29em; display: inline-block;"/>
 <img src="./other-side-news-agency-2.png" style="width: 29em; display: inline-block;"/>
 <img src="./other-side-news-agency-3.png" style="width: 29em; display: inline-block;"/>
 <img src="./other-side-news-agency-1.png" style="width: 29em; display: inline-block;"/>
