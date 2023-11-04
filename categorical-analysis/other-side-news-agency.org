@@ -1,6 +1,5 @@
 #+TITLE: Other Side News Agency
-# Local Variables:
-# org-startup-with-inline-images: nil
+#+STARTUP: noinlineimages
 * Other Side News Agency / Новостное Агентство Той Стороны
 
 [[https://github.com/Tiendil/world-builders-2023/blob/main/categorical-analysis/other-side-news-agency.org][Исходники]]
