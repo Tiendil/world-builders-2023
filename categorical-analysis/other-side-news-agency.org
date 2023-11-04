@@ -1,4 +1,6 @@
 #+TITLE: Other Side News Agency
+# Local Variables:
+# org-startup-with-inline-images: nil
 * Other Side News Agency / Новостное Агентство Той Стороны
 
 [[https://github.com/Tiendil/world-builders-2023/blob/main/categorical-analysis/other-side-news-agency.org][Исходники]]
@@ -12,6 +14,10 @@
 [[https://tiendil.org/fictional-universe-setting-work-what-the-difference/][Логика описания раскрыта в блоге]].
 
 ** Вселенная
+#+ATTR_HTML: :width 300px
+[[./other-side-news-agency-1.png]]
+#+ATTR_HTML: :width 300px
+[[./other-side-news-agency-2.png]]
 - Наука + witchcraft (ритуальная магия + шаманизм).
 - «Та сторона» — параллельное измерение, возникает в ответ на массовые/сильные эмоции.
 - Появляется чаще и сильнее с ростом населения и его концентрацией.
