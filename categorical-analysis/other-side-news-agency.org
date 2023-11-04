@@ -13,11 +13,10 @@
 [[https://tiendil.org/fictional-universe-setting-work-what-the-difference/][Логика описания раскрыта в блоге]].
 
 ** Вселенная
-#+ATTR_HTML: :width 500px :style display: inline-block
-[[./other-side-news-agency-1.png]]
-
-#+ATTR_HTML: :width 500px :style display: inline-block
-[[./other-side-news-agency-2.png]]
+#+BEGIN_EXPORT html
+<img src="./other-side-news-agency-1.png" style="width: 29em; display: inline-block;"/>
+<img src="./other-side-news-agency-2.png" style="width: 29em; display: inline-block;"/>
+#+END_EXPORT
 
 - Наука + witchcraft (ритуальная магия + шаманизм).
 - «Та сторона» — параллельное измерение, возникает в ответ на массовые/сильные эмоции.
