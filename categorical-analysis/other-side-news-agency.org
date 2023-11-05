@@ -60,6 +60,8 @@ Not the "Princess Mononoke".
 ***** [[https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)][The Umbrella Academy ]]                                              :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/Misfits_(TV_series)][Misfits ]]                                                                 :video_series:
 ***** [[https://en.wikipedia.org/wiki/Miss_Peregrine%27s_Home_for_Peculiar_Children_(film)][Miss Peregrine's Home for Peculiar Children  ]]                             :movie:
+***** [[https://en.wikipedia.org/wiki/Utopia_(British_TV_series)][Utopia ]]                                                                 :video_series:
+***** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency ]]                             :video_series:
 **** Дополнительные
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%BA%D0%B5%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)][Сталкер]] Тарковского                                                       :movie:
@@ -85,6 +87,7 @@ Like SCP Foundation.
 Overpowered?
 ***** TODO [[https://en.wikipedia.org/wiki/Heroes_(American_TV_series)][Heroes]]                                                              :video_series:
 Overpowered?
+***** TODO [[https://en.wikipedia.org/wiki/First_Wave_(TV_series)][First Wave]]                                                              :video_series:
 *** Герои
 **** Основные
 ***** Сталкер / чёрный археолог
@@ -230,7 +233,6 @@ Paranormal Mockumentary Investigative Journalism
 ****** [[https://dukope.com/trt/play.html][The Republia Times]]                                                       :game:
 ****** [[https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)][Interview with the vampire]]                                               :movie:
 ****** [[https://store.steampowered.com/app/490980/Daily_Chthonicle_Editors_Edition/][Daily Chthonicle: Editor's Edition ]]                                      :game:
-****** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency ]]                                 :video_series:
 *** Сериал Other Side News Agency
 *** Игра Other Side News Agency
 *менеджер новостного агенства / гильдии разведчиков
