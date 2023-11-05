@@ -73,6 +73,8 @@ Not the "Princess Mononoke".
 ***** TODO [[https://en.wikipedia.org/wiki/The_Booth_at_the_End][The Booth at the End  ]]                                               :video_series:
 ***** [[https://en.wikipedia.org/wiki/The_Expanse_(TV_series)][The Expansed  ]]                                                            :video_series:
 ***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
+***** [[https://en.wikipedia.org/wiki/Hellraiser][Hellraiser   ]]                                                             :movie:comics:
+***** [[https://en.wikipedia.org/wiki/The_Ring_(franchise)][The Ring   ]]                                                               :movie:manga:books:video_series:
 **** Дополнительные
 ***** [[https://en.wikipedia.org/wiki/Preacher_(comics)][Preacher   ]]                                                               :comics:video_series:
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
