@@ -55,6 +55,7 @@ Not the "Princess Mononoke".
 Сообщество той стороны. Интеграция фольклора. Истории.
 ***** [[https://en.wikipedia.org/wiki/Mieruko-chan][Mieruko Chan ]]                                                             :manga:animation_series:
 ***** [[https://en.wikipedia.org/wiki/Mushishi][Mushishi ]]                                                                 :animation_series:manga:
+***** [[https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)][The Umbrella Academy ]]                                              :video_series:comics:
 **** Дополнительные
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%BA%D0%B5%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)][Сталкер]] Тарковского                                                       :movie:
@@ -66,10 +67,16 @@ Not the "Princess Mononoke".
 ***** [[https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%D1%80%D0%B8][Библиотекари ]]                                                             :video_series:movie:
 ***** TODO [[https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell][Jonathan Strange & Mr Norrell ]]                                       :book:video_series:
 Колдунство. Персонажи той стороны.
+***** TODO [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control  ]]                                                            :game:
+Like SCP Foundation.
 ***** TODO Миядзаки                                                             :animation_series:
 ***** TODO GeGeGe no Kitaro                                                     :animation_series:
 ***** TODO [[https://en.wikipedia.org/wiki/Constantine_(film)][John Constantine]]                                                     :movie:comics:
 ***** TODO [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                          :video_series:
+***** TODO [[https://en.wikipedia.org/wiki/Torchwood][Torchwood]]                                                              :video_series:
+***** TODO [[https://en.wikipedia.org/wiki/Wellington_Paranormal][Wellington Paranormal]]                                                     :video_series:
+***** TODO [[https://en.wikipedia.org/wiki/Lockwood_%26_Co._(TV_series)][Lockwood & Co.]]                                                        :video_series:
+***** TODO [[https://en.wikipedia.org/wiki/Infamous_(series)][Infamous]]                                                              :video_game:
 *** Герои
 **** Основные
 ***** Сталкер / чёрный археолог
