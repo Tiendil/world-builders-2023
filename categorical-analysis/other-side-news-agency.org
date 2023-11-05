@@ -37,15 +37,11 @@ Urban Legends
 *** Время
 Наши дни.
 *** Референсы
-**** TODO Больше референсов на witchcraft
 **** TODO для основных референсов добавить сборы/бюджеты
 **** TODO добавить imdb & metacritic
-**** TODO фильмы про пиратов как референсы
-**** TODO Фильмы про мусорщиков как референсы
 **** TODO произведения о репортёрах / детективах паранормального
 **** TODO Фронтир => ковбои
 **** TODO отметить те, что надо прочитать/посмотреть
-**** TODO Проклятые артефакты
 **** Основные
 ***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
 Близко по концепции. Персонажи. Та сторона. Попаданцы на ту сторону.
@@ -75,6 +71,10 @@ Not the "Princess Mononoke".
 ***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
 ***** [[https://en.wikipedia.org/wiki/Hellraiser][Hellraiser   ]]                                                             :movie:comics:
 ***** [[https://en.wikipedia.org/wiki/The_Ring_(franchise)][The Ring   ]]                                                               :movie:manga:books:video_series:
+***** TODO [[https://en.wikipedia.org/wiki/The_Conjuring_Universe][The Conjuring Universe   ]]                                            :movie:
+***** [[https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray][The Picture of Dorian Gray   ]]                                            :book:
+***** [[https://en.wikipedia.org/wiki/The_Craft_(film)][The Craft   ]]                                                               :movie:
+***** TODO [[https://en.wikipedia.org/wiki/Stargate_(film)][Stargate   ]]                                                               :movie:video_series:
 **** Дополнительные
 ***** [[https://en.wikipedia.org/wiki/Preacher_(comics)][Preacher   ]]                                                               :comics:video_series:
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
@@ -109,6 +109,14 @@ Overpowered?
 ***** TODO [[https://en.wikipedia.org/wiki/Spriggan_(manga)][Spriggan ]]                                                            :animation_series:managa:movie:video_game:
 ***** TODO [[https://en.wikipedia.org/wiki/Dark_(TV_series)][Dark ]]                                                                :video_series:
 ***** TODO [[https://en.wikipedia.org/wiki/The_OA][The OA ]]                                                              :video_series:
+***** TODO Светлячёк + Serenity
+***** TODO мандалорец, боба фетт
+***** TODO Foundation
+***** TODO Cowboy Bebop
+***** TODO Farscape
+***** TODO [[https://en.wikipedia.org/wiki/Gateway_(novel)][Gateway ]]                                                              :book:
+***** TODO Матрёшка
+***** TODO [[https://en.wikipedia.org/wiki/The_Lost_Room][The Lost Room ]]                                                          :video_series:
 *** Герои
 **** Основные
 ***** Сталкер / чёрный археолог
@@ -219,6 +227,7 @@ Overpowered?
 ***** Садизм / мазохизм
 *** Прочее
 **** Серая мораль
+**** Культы
 **** Технологии основанные на артефактах
 **** Аномалии
 **** Порталы

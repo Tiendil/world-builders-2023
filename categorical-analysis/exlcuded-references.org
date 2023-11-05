@@ -1,6 +1,11 @@
 
 * Additional
 ** [[https://en.wikipedia.org/wiki/Dead_Man%27s_Gun][Dead Man's Gun ]]                                                              :video_series:
+** [[https://en.wikipedia.org/wiki/The_City_%26_the_City][The City & the City]]                                                      :book:video_series:
+* To research
+** [[https://en.wikipedia.org/wiki/The_Rolling_Stones_(novel)][The Rolling Stones]]                                                      :book:
+* Strange
+** [[https://en.wikipedia.org/wiki/Black_Science_(comics)][Black Science]]                                                            :comics:
 * Excluded:
 ** Alfas / люди альфа
 вторичная штука, два сезона только
