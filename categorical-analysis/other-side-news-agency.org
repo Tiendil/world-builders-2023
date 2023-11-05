@@ -67,6 +67,7 @@ Not the "Princess Mononoke".
 ***** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency  ]]                                 :video_series:
 ***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss ]]                                                            :animation_series:manga:video_game:movie:
 ***** TODO [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell    ]]                                               :animation_series:movie:managa:
+***** TODO [[https://en.wikipedia.org/wiki/The_Booth_at_the_End][The Booth at the End  ]]                                               :video_series:
 **** Дополнительные
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%BA%D0%B5%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)][Сталкер]] Тарковского                                                       :movie:
