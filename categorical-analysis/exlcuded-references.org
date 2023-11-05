@@ -1,17 +1,16 @@
 
-* Alfas / люди альфа
+* Additional
+** [[https://en.wikipedia.org/wiki/Dead_Man%27s_Gun][Dead Man's Gun ]]                                                              :video_series:
+* Excluded:
+** Alfas / люди альфа
 вторичная штука, два сезона только
-
-* Люди в чёрном
+** Люди в чёрном
 не про то
-
-* Inside Job
+** Inside Job
 Слабо отностся к теме.
-
-* Final Fantasy
+** Final Fantasy
 Каждая игра в своей вселенной, которые только очень отдалённо похожи.
 Разные уровни технлогий, разная доля магии.
 Вещь в себе
-
-* The Imperfects
+** The Imperfects
 отменено после первого сезона
