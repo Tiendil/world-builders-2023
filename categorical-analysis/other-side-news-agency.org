@@ -40,6 +40,8 @@ Urban Legends
 **** TODO Больше референсов на witchcraft
 **** TODO для основных референсов добавить сборы/бюджеты
 **** TODO добавить imdb & metacritic
+**** TODO фильмы про пиратов как референсы
+**** TODO Фильмы про мусорщиков как референсы
 **** Основные
 ***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
 Близко по концепции. Персонажи. Та сторона. Попаданцы на ту сторону.
@@ -62,6 +64,8 @@ Not the "Princess Mononoke".
 ***** [[https://en.wikipedia.org/wiki/Miss_Peregrine%27s_Home_for_Peculiar_Children_(film)][Miss Peregrine's Home for Peculiar Children  ]]                             :movie:
 ***** [[https://en.wikipedia.org/wiki/Utopia_(British_TV_series)][Utopia ]]                                                                 :video_series:
 ***** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency ]]                             :video_series:
+***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss ]]                                                             :animation_series:manga:video_game:movie:
+***** TODO [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell ]]                                                       :animation_series:movie:managa:
 **** Дополнительные
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%BA%D0%B5%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)][Сталкер]] Тарковского                                                       :movie:
@@ -88,6 +92,8 @@ Overpowered?
 ***** TODO [[https://en.wikipedia.org/wiki/Heroes_(American_TV_series)][Heroes]]                                                              :video_series:
 Overpowered?
 ***** TODO [[https://en.wikipedia.org/wiki/First_Wave_(TV_series)][First Wave]]                                                              :video_series:
+***** TODO [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D.]]                                                              :video_series:comics:
+***** TODO [[https://en.wikipedia.org/wiki/John_Wick_(franchise)][John Wick]]                                                              :movie:
 *** Герои
 **** Основные
 ***** Сталкер / чёрный археолог
