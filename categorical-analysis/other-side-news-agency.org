@@ -43,6 +43,9 @@ Urban Legends
 **** TODO фильмы про пиратов как референсы
 **** TODO Фильмы про мусорщиков как референсы
 **** TODO произведения о репортёрах / детективах паранормального
+**** TODO Фронтир => ковбои
+**** TODO отметить те, что надо прочитать/посмотреть
+**** TODO Проклятые артефакты
 **** Основные
 ***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
 Близко по концепции. Персонажи. Та сторона. Попаданцы на ту сторону.
@@ -68,7 +71,10 @@ Not the "Princess Mononoke".
 ***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss ]]                                                            :animation_series:manga:video_game:movie:
 ***** TODO [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell    ]]                                               :animation_series:movie:managa:
 ***** TODO [[https://en.wikipedia.org/wiki/The_Booth_at_the_End][The Booth at the End  ]]                                               :video_series:
+***** [[https://en.wikipedia.org/wiki/The_Expanse_(TV_series)][The Expansed  ]]                                                            :video_series:
+***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
 **** Дополнительные
+***** [[https://en.wikipedia.org/wiki/Preacher_(comics)][Preacher   ]]                                                               :comics:video_series:
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%BA%D0%B5%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)][Сталкер]] Тарковского                                                       :movie:
 ***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:
@@ -139,6 +145,7 @@ Overpowered?
 ***** Жизнь изгоев
 ***** Адаптация к ненормальности
 ***** Рост над собой, развитие, становление
+***** TODO Крах централизованной власти?
 **** Сталкинг
 ***** Исследование неизвестного
 ***** Противостояние окружающей среде
@@ -185,7 +192,8 @@ Overpowered?
 **** Редакция, детективное агентство, база сталкеров
 **** Убежище, Бар, церковь
 *** Артефакты
-**** Экипировка из артефактов
+**** Проклятая вещь
+**** Самодельная экипировка «из артефактов и палок»
 **** Экипировка сталкера
 **** Обычная вещь, которая артефакт
 **** «Грааль» / «Игла кощея»
