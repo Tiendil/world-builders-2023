@@ -58,6 +58,7 @@ Like SCP Foundation.
 ***** [[https://en.wikipedia.org/wiki/X-Men][X-Men]] (Marvel)                                                            :comics:movie:video_series:animated_series:
 But low-grade heroes.
 ***** [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D.]]                                                         :video_series:comics:
+***** [TO WATCH] [[https://en.wikipedia.org/wiki/Stranger_Things][Stranger Things]]                                                            :video_series:
 **** Secondary
 ***** [[https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%BD%D0%B5][Пикник на обочине ]]                                                        :book:
 Близко по концепции.
@@ -100,13 +101,6 @@ Not the "Princess Mononoke".
 ***** [[https://en.wikipedia.org/wiki/Constantine_(film)][John Constantine]]                                                     :movie:comics:
 ***** [[https://en.wikipedia.org/wiki/John_Wick_(franchise)][John Wick]]                                                            :movie:
 ***** [[https://en.wikipedia.org/wiki/Spriggan_(manga)][Spriggan ]]                                                            :animation_series:managa:movie:video_game:
-***** TODO Светлячёк + Serenity
-***** TODO мандалорец, боба фетт
-***** TODO Foundation
-***** TODO Cowboy Bebop
-***** TODO Farscape
-***** TODO Матрёшка
-***** TODO Stranger Things
 *** Герои
 **** Основные
 ***** Сталкер / чёрный археолог

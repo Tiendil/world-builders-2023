@@ -12,6 +12,8 @@
 ** [[https://en.wikipedia.org/wiki/Infamous_(series)][Infamous]]                                                                     :video_game:
 ** [[https://en.wikipedia.org/wiki/Speed_Grapher][Speed Grapher  ]]                                                              :animation_series:managa:
 слабые отзывы
+** [[https://en.wikipedia.org/wiki/Russian_Doll_(TV_series)][Russian Doll  ]]                                                              :video_series:
+** [[https://en.wikipedia.org/wiki/Transmetropolitan][Transmetropolitan ]]                                                             :comics:
 * Strange
 ** [[https://en.wikipedia.org/wiki/Black_Science_(comics)][Black Science]]                                                                :comics:
 * Stories
