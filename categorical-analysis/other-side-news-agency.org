@@ -87,28 +87,21 @@ Tremendous influence on X-Files.
 **** Primary
 ***** Adventurer/Freelancer
 ***** Investigator (Journalist, Detective, Special Agent)
-***** Corrupted government worker (Politician, Police, Judge)
-***** Witcher/Witch/Exorcist
-***** Rich gray-moral entrepreneur (Walter White, Tony Stark, Frank Underwood, Raymond Reddington)
 ***** Low-grade super-hero/vilian
 ***** Folclore creature (Vampire, Werewolf, Zombie, Ghost, Demon, Angel, Alien, Mutant)
-***** Illegal trader (Artifacts, Information, Weapons, Drugs)
+***** Representative of power (Government, Secret organization, Corporation)
 ***** Scientist/Engineer/Mechanic specialized in paranormal
-***** Secret organization member
+***** Illegal trader (Artifacts, Information, Weapons, Drugs)
+***** Rich gray-moral entrepreneur (Walter White, Tony Stark, Frank Underwood, Raymond Reddington)
 **** Secondary
-***** фамилиар
-***** Врач
-***** ПТСР-шник
-Видел то, чего не хотел бы видеть никогда.
-***** Изгнанник/отшельник
-***** «Хочу и буду жить простой жизнью»
-- Обычный человек с нормальной стороны, которому постоянно мешает жить та сторона.
-- Мутант, который всеми силами пытается жить как обычный человек.
-***** Бармен
-***** «Призрак»
-***** Мошенник
-***** Заблудившийся на той стороне
-***** TODO Weirdness Magnet
+***** Corrupted government worker (Politician, Police, Judge)
+***** Secret organization member
+***** Familiar/Pet from other side
+***** Doctor/Paramedic
+***** Injured person (mentally or physically): PTSD, amnesia.
+***** Mindless mutant
+***** Con artist
+***** Weirdness Magnet
 *** Истории
 **** Основные
 ***** Столкновение реальности и паранормального / слом устоев
@@ -154,6 +147,9 @@ Tremendous influence on X-Files.
 ***** Дама в беде
 ***** Попытка стать богом
 ***** Последствия поступка
+***** «Хочу и буду жить простой жизнью»
+- Обычный человек с нормальной стороны, которому постоянно мешает жить та сторона.
+- Мутант, который всеми силами пытается жить как обычный человек.
 *** Места действия
 **** Та сторона / параллельное измерение
 **** Городские джунгли
