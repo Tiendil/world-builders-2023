@@ -17,6 +17,7 @@
 слабые отзывы
 ** [[https://en.wikipedia.org/wiki/Russian_Doll_(TV_series)][Russian Doll  ]]                                                              :video_series:
 ** [[https://en.wikipedia.org/wiki/Transmetropolitan][Transmetropolitan ]]                                                             :comics:
+** [[https://en.wikipedia.org/wiki/The_Expanse_(TV_series)][The Expanse  ]]                                                                :video_series:
 * Strange
 ** [[https://en.wikipedia.org/wiki/Black_Science_(comics)][Black Science]]                                                                :comics:
 * Stories
