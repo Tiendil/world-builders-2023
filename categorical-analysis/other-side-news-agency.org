@@ -91,7 +91,7 @@ Tremendous influence on X-Files.
 ***** Adventurer/Freelancer
 ***** Investigator (Journalist, Detective, Special Agent)
 ***** Low-grade super-hero/vilian
-***** Folclore creature (Vampire, Werewolf, Zombie, Ghost, Demon, Angel, Alien, Mutant)
+***** Folclore creature (Vampire, Werewolf, Zombie, Ghost)
 ***** Representative of power (Government, Secret organization, Corporation)
 ***** Scientist/Engineer/Mechanic specialized in paranormal
 ***** Illegal trader (Artifacts, Information, Weapons, Drugs)
