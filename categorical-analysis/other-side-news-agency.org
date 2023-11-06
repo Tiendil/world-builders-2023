@@ -55,11 +55,12 @@ Low-grade superheroes: [[https://en.wikipedia.org/wiki/Jessica_Jones_(TV_series)
 ***** [[https://en.wikipedia.org/wiki/X-Men][X-Men]]                                                                     :comics:movie:video_series:animated_series:
 But low-grade heroes.
 ***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss ]]                                                            :animation_series:manga:video_game:movie:
-***** [TO WATCH] [[https://en.wikipedia.org/wiki/Stranger_Things][Stranger Things]]                                                            :video_series:
-***** [TO WATCH] [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control   ]]                                                     :game:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/John_Constantine][John Constantine ]]                                                         :movie:comics:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Stranger_Things][Stranger Things]]                                                            :video_series:
+***** [RESEARCH] [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control   ]]                                                     :game:
 Like SCP Foundation.
-***** [TO WATCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell]]                                                        :animation_series:movie:managa:
-***** [TO WATCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                                  :video_game:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell]]                                                        :animation_series:movie:managa:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                                  :video_game:
 **** Secondary
 ***** [[https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%BD%D0%B5][Пикник на обочине ]]                                                        :book:
 ***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
@@ -72,24 +73,28 @@ Like SCP Foundation.
 ***** [[https://en.wikipedia.org/wiki/Torchwood][Torchwood]]                                                                 :video_series:
 ***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:movies:
 ***** [[https://en.wikipedia.org/wiki/Utopia_(British_TV_series)][Utopia ]]                                                                   :video_series:
-***** [TO WATCH] [[https://en.wikipedia.org/wiki/Heroes_(American_TV_series)][Heroes]]                                                               :video_series:
-***** [TO WATCH] [[https://en.wikipedia.org/wiki/The_OA][The OA ]]                                                        :video_series:
-***** [TO WATCH] [[https://en.wikipedia.org/wiki/The_Lost_Room][The Lost Room   ]]                                               :video_series:
-***** [TO WATCH] [[https://en.wikipedia.org/wiki/Gateway_(novel)][Gateway ]]                                                       :book:
-***** [TO WATCH] [[https://en.wikipedia.org/wiki/The_Craft_(film)][The Craft   ]]                                                   :movie:
-***** [TO WATCH] [[https://en.wikipedia.org/wiki/The_Boys_(TV_series)][The Boys ]]                                                      :video_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Heroes_(American_TV_series)][Heroes]]                                                               :video_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_OA][The OA ]]                                                        :video_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Lost_Room][The Lost Room   ]]                                               :video_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Gateway_(novel)][Gateway ]]                                                       :book:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Craft_(film)][The Craft   ]]                                                   :movie:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Boys_(TV_series)][The Boys ]]                                                      :video_series:
 ***** [[https://en.wikipedia.org/wiki/Spriggan_(manga)][Spriggan ]]                                                            :animation_series:managa:movie:video_game:
 ***** [[https://en.wikipedia.org/wiki/First_Wave_(TV_series)][First Wave]]                                                                :video_series:
-***** [TO WATCH] [[https://en.wikipedia.org/wiki/John_Wick_(franchise)][John Wick ]]                                                     :movie:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/John_Wick_(franchise)][John Wick ]]                                                     :movie:
 ***** [[https://en.wikipedia.org/wiki/American_Gods][American Gods]]                                                             :book:video_series:
-***** [[https://en.wikipedia.org/wiki/John_Constantine][John Constantine ]]                                                         :movie:comics:
-***** *[TO WATCH] [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                    :video_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                    :video_series:video_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Dresden_Files_(TV_series)][The Dresden Files ]]                                             :video_series:book:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Kolchak:_The_Night_Stalker][Kolchak: The Night Stalker ]]                                        :video_series:
+Tremendous influence on X-Files.
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Twin_Peaks][Twin Peaks ]]                                                             :video_series:
 **** Artifacts/anomalies
 ***** [[https://en.wikipedia.org/wiki/Hellraiser][Hellraiser   ]]                                                             :movie:comics:
 ***** [[https://en.wikipedia.org/wiki/The_Ring_(franchise)][The Ring   ]]                                                               :movie:manga:books:video_series:
 ***** [[https://en.wikipedia.org/wiki/The_Conjuring_Universe][The Conjuring Universe   ]]                                                 :movie:
 ***** [[https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray][The Picture of Dorian Gray   ]]                                            :book:
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
+***** [[https://en.wikipedia.org/wiki/Zodiac_(film)][Zodiac]]                                                                    :movie:
 *** Герои
 **** Основные
 ***** Сталкер / чёрный археолог
