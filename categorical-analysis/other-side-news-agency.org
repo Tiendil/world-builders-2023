@@ -40,26 +40,26 @@ Urban Legends
 **** TODO для основных референсов добавить сборы/бюджеты
 **** TODO добавить imdb & metacritic
 **** TODO произведения о репортёрах / детективах паранормального
-**** TODO отметить те, что надо прочитать/посмотреть
-**** TODO AI, rights of the robots, technology, rapid progress
 **** TODO https://en.wikipedia.org/wiki/New_weird + speculative fiction
 **** Primary
 ***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
 Without aliens.
-***** [[https://en.wikipedia.org/wiki/Fringe_(TV_series)][Fringe  ]]                                                                :video_series:
+***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
 ***** [[https://en.wikipedia.org/wiki/Marvel%27s_Netflix_television_series][Marvel's Netflix television series]]                                        :video_series:comics:
 Low-grade superheroes: [[https://en.wikipedia.org/wiki/Jessica_Jones_(TV_series)][Jessica Jones]], [[https://en.wikipedia.org/wiki/Daredevil_(TV_series)][Daredevil]], [[https://en.wikipedia.org/wiki/Iron_Fist_(TV_series)][Iron Fist]], [[https://en.wikipedia.org/wiki/The_Defenders_(miniseries)][The Defenders]], [[https://en.wikipedia.org/wiki/The_Punisher_(TV_series)][The Punisher]], [[https://en.wikipedia.org/wiki/Luke_Cage_(TV_series)][Luke Cage]]
-***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
-***** [TO WATCH] [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control   ]]                                                     :game:
-Like SCP Foundation.
-***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss ]]                                                            :animation_series:manga:video_game:movie:
+***** [[https://en.wikipedia.org/wiki/Gotham_(TV_series)][Gotham TV series]]                                                            :video_series:
+***** [[https://en.wikipedia.org/wiki/Fringe_(TV_series)][Fringe  ]]                                                                :video_series:
 ***** [[https://en.wikipedia.org/wiki/Stargate_(film)][Stargate   ]]                                                               :movie:video_series:
 ***** [[https://en.wikipedia.org/wiki/Misfits_(TV_series)][Misfits  ]]                                                                 :video_series:
+***** [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D.]]                                                         :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/X-Men][X-Men]]                                                                     :comics:movie:video_series:animated_series:
 But low-grade heroes.
-***** [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D.]]                                                         :video_series:comics:
+***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss ]]                                                            :animation_series:manga:video_game:movie:
 ***** [TO WATCH] [[https://en.wikipedia.org/wiki/Stranger_Things][Stranger Things]]                                                            :video_series:
-***** [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell    ]]                                                    :animation_series:movie:managa:
+***** [TO WATCH] [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control   ]]                                                     :game:
+Like SCP Foundation.
+***** [TO WATCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell]]                                                        :animation_series:movie:managa:
+***** [TO WATCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                                  :video_game:
 **** Secondary
 ***** [[https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%BD%D0%B5][Пикник на обочине ]]                                                        :book:
 ***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
