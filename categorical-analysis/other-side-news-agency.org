@@ -45,20 +45,20 @@ Without aliens.
 ***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
 ***** [[https://en.wikipedia.org/wiki/Marvel%27s_Netflix_television_series][Marvel's Netflix television series]]                                        :video_series:comics:
 Low-grade superheroes: [[https://en.wikipedia.org/wiki/Jessica_Jones_(TV_series)][Jessica Jones]], [[https://en.wikipedia.org/wiki/Daredevil_(TV_series)][Daredevil]], [[https://en.wikipedia.org/wiki/Iron_Fist_(TV_series)][Iron Fist]], [[https://en.wikipedia.org/wiki/The_Defenders_(miniseries)][The Defenders]], [[https://en.wikipedia.org/wiki/The_Punisher_(TV_series)][The Punisher]], [[https://en.wikipedia.org/wiki/Luke_Cage_(TV_series)][Luke Cage]]
-***** [[https://en.wikipedia.org/wiki/Gotham_(TV_series)][Gotham TV series]]                                                            :video_series:
-***** [[https://en.wikipedia.org/wiki/Fringe_(TV_series)][Fringe  ]]                                                                :video_series:
-***** [[https://en.wikipedia.org/wiki/Stargate_(film)][Stargate   ]]                                                               :movie:video_series:
-***** [[https://en.wikipedia.org/wiki/Misfits_(TV_series)][Misfits  ]]                                                                 :video_series:
-***** [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D.]]                                                         :video_series:comics:
+***** [[https://en.wikipedia.org/wiki/Gotham_(TV_series)][Gotham TV series]]                                                          :video_series:
+***** [[https://en.wikipedia.org/wiki/Fringe_(TV_series)][Fringe]]                                                                    :video_series:
+***** [[https://en.wikipedia.org/wiki/Stargate_(film)][Stargate]]                                                                  :movie:video_series:
+***** [[https://en.wikipedia.org/wiki/Misfits_(TV_series)][Misfits]]                                                                   :video_series:
+***** [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D. ]]                                                             :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/X-Men][X-Men]]                                                                     :comics:movie:video_series:animated_series:
 But low-grade heroes.
-***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss ]]                                                            :animation_series:manga:video_game:movie:
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/John_Constantine][John Constantine ]]                                                         :movie:comics:
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/Stranger_Things][Stranger Things]]                                                            :video_series:
-***** [RESEARCH] [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control   ]]                                                     :game:
+***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss]]                                                             :animation_series:manga:video_game:movie:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/John_Constantine][John Constantine]]                                               :movie:comics:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Stranger_Things][Stranger Things]]                                                :video_series:
+***** [RESEARCH] [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control]]                                                        :game:
 Like SCP Foundation.
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell]]                                                        :animation_series:movie:managa:
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                                  :video_game:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell ]]                                            :animation_series:movie:managa:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                        :video_game:
 **** Secondary
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://en.wikipedia.org/wiki/Wellington_Paranormal][Wellington Paranormal]]                                                     :video_series:
@@ -74,8 +74,8 @@ Like SCP Foundation.
 ***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
 ***** [[https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.][S.T.A.L.K.E.R. ]]                                                           :video_game:
 ***** [[https://en.wikipedia.org/wiki/Utopia_(British_TV_series)][Utopia ]]                                                                   :video_series:
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/Spriggan_(manga)][Spriggan ]]                                                            :animation_series:managa:movie:video_game:
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/Heroes_(American_TV_series)][Heroes]]                                                               :video_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Spriggan_(manga)][Spriggan]]                                                       :animation_series:managa:movie:video_game:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Heroes_(American_TV_series)][Heroes]]                                                         :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_OA][The OA ]]                                                        :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Lost_Room][The Lost Room   ]]                                               :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Gateway_(novel)][Gateway ]]                                                       :book:
@@ -84,10 +84,10 @@ Like SCP Foundation.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/John_Wick_(franchise)][John Wick ]]                                                     :movie:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                    :video_series:video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Dresden_Files_(TV_series)][The Dresden Files ]]                                             :video_series:book:
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/Kolchak:_The_Night_Stalker][Kolchak: The Night Stalker ]]                                        :video_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Kolchak:_The_Night_Stalker][Kolchak: The Night Stalker]]                                     :video_series:
 Tremendous influence on X-Files.
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/Twin_Peaks][Twin Peaks ]]                                                             :video_series:
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/Hellraiser][Hellraiser   ]]                                                  :movie:comics:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Twin_Peaks][Twin Peaks]]                                                     :video_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Hellraiser][Hellraiser]]                                                     :movie:comics:
 *** Герои
 **** Основные
 ***** Сталкер / чёрный археолог
