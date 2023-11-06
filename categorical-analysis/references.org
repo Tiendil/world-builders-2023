@@ -25,12 +25,16 @@
 ** [[https://en.wikipedia.org/wiki/The_Booth_at_the_End][The Booth at the End  ]]                                                       :video_series:
 ** [[https://en.wikipedia.org/wiki/Preacher_(comics)][Preacher   ]]                                                                  :comics:video_series:
 ** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                                 :video_series:
+** [[https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray][The Picture of Dorian Gray   ]]                                                :book:
+** [[https://en.wikipedia.org/wiki/Zodiac_(film)][Zodiac]]                                                                       :movie:
+** [[https://en.wikipedia.org/wiki/The_Ring_(franchise)][The Ring   ]]                                                                  :movie:manga:books:video_series:
 * Прозапас
 ** [[https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell][Jonathan Strange & Mr Norrell  ]]                                              :book:video_series:
 ** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                                  :video_series:
 ** [[https://en.wikipedia.org/wiki/Interstate_60][Interstate 60 ]]                                                          :movie:
 ** [[https://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo][The Girl with the Dragon Tattoo ]]                                            :book:movie:
 ** [[https://en.wikipedia.org/wiki/Sin_City_(film)][Sin City ]]                                                                     :movie:
+** [[https://en.wikipedia.org/wiki/The_Conjuring_Universe][The Conjuring Universe   ]]                                                    :movie:
 * Excluded:
 ** Alfas / люди альфа
 вторичная штука, два сезона только

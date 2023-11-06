@@ -39,8 +39,6 @@ Urban Legends
 *** Референсы
 **** TODO для основных референсов добавить сборы/бюджеты
 **** TODO добавить imdb & metacritic
-**** TODO произведения о репортёрах / детективах паранормального
-**** TODO https://en.wikipedia.org/wiki/New_weird + speculative fiction
 **** Primary
 ***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
 Without aliens.
@@ -88,13 +86,8 @@ Like SCP Foundation.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Kolchak:_The_Night_Stalker][Kolchak: The Night Stalker ]]                                        :video_series:
 Tremendous influence on X-Files.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Twin_Peaks][Twin Peaks ]]                                                             :video_series:
-**** Artifacts/anomalies
-***** [[https://en.wikipedia.org/wiki/Hellraiser][Hellraiser   ]]                                                             :movie:comics:
-***** [[https://en.wikipedia.org/wiki/The_Ring_(franchise)][The Ring   ]]                                                               :movie:manga:books:video_series:
-***** [[https://en.wikipedia.org/wiki/The_Conjuring_Universe][The Conjuring Universe   ]]                                                 :movie:
-***** [[https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray][The Picture of Dorian Gray   ]]                                            :book:
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
-***** [[https://en.wikipedia.org/wiki/Zodiac_(film)][Zodiac]]                                                                    :movie:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Hellraiser][Hellraiser   ]]                                                  :movie:comics:
 *** Герои
 **** Основные
 ***** Сталкер / чёрный археолог
