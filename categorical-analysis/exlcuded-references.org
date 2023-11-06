@@ -1,11 +1,26 @@
 
 * Additional
 ** [[https://en.wikipedia.org/wiki/Dead_Man%27s_Gun][Dead Man's Gun ]]                                                              :video_series:
-** [[https://en.wikipedia.org/wiki/The_City_%26_the_City][The City & the City]]                                                      :book:video_series:
+** [[https://en.wikipedia.org/wiki/The_City_%26_the_City][The City & the City]]                                                          :book:video_series:
+** [[https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%BA%D0%B5%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)][Сталкер]] Тарковского                                                          :movie:
+** [[https://en.wikipedia.org/wiki/Dark_(TV_series)][Dark ]]                                                                        :video_series:
 * To research
-** [[https://en.wikipedia.org/wiki/The_Rolling_Stones_(novel)][The Rolling Stones]]                                                      :book:
+** [[https://en.wikipedia.org/wiki/The_Rolling_Stones_(novel)][The Rolling Stones]]                                                           :book:
+** [[https://en.wikipedia.org/wiki/GeGeGe_no_Kitar%C5%8D][GeGeGe no Kitaro]]                                                             :animation_series:
+** [[https://en.wikipedia.org/wiki/Mushishi][Mushishi ]]                                                                    :animation_series:manga:
+** [[https://en.wikipedia.org/wiki/Lockwood_%26_Co._(TV_series)][Lockwood & Co.]]                                                               :video_series:
+** [[https://en.wikipedia.org/wiki/Infamous_(series)][Infamous]]                                                                     :video_game:
+** [[https://en.wikipedia.org/wiki/Speed_Grapher][Speed Grapher  ]]                                                              :animation_series:managa:
+слабые отзывы
 * Strange
-** [[https://en.wikipedia.org/wiki/Black_Science_(comics)][Black Science]]                                                            :comics:
+** [[https://en.wikipedia.org/wiki/Black_Science_(comics)][Black Science]]                                                                :comics:
+* Stories
+** [[https://en.wikipedia.org/wiki/The_Booth_at_the_End][The Booth at the End  ]]                                                       :video_series:
+** [[https://en.wikipedia.org/wiki/Preacher_(comics)][Preacher   ]]                                                                  :comics:video_series:
+* Прозапас
+** [[https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell][Jonathan Strange & Mr Norrell  ]]                                              :book:video_series:
+** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                                  :video_series:
+** [[https://en.wikipedia.org/wiki/Interstate_60][Interstate 60 ]]                                                          :movie:
 * Excluded:
 ** Alfas / люди альфа
 вторичная штука, два сезона только
