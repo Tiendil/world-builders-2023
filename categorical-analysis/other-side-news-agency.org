@@ -55,6 +55,7 @@ Like SCP Foundation.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell ]]                                            :animation_series:movie:managa:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                        :video_game:
 **** Secondary
+***** [[https://en.wikipedia.org/wiki/Carnival_Row_(TV_series)][Carnival Row ]]                                                             :video_series:
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://en.wikipedia.org/wiki/Wellington_Paranormal][Wellington Paranormal]]                                                     :video_series:
 ***** [[https://en.wikipedia.org/wiki/American_Gods][American Gods]]                                                             :book:video_series:
@@ -102,50 +103,33 @@ Tremendous influence on X-Files.
 ***** Mindless mutant
 ***** Con artist
 ***** Weirdness Magnet
-*** Истории
-**** Основные
-***** Столкновение реальности и паранормального / слом устоев
-***** Сталкеринг / чёрная археология
-***** Выбраться из аномалии / выжить
-***** Борьба за власть
-***** Жизнь изгоев
-***** Адаптация к ненормальности
-***** Рост над собой, развитие, становление
-***** TODO Крах централизованной власти?
-**** Сталкинг
-***** Исследование неизвестного
-***** Противостояние окружающей среде
-***** Поиск сокровищ
-***** Заблудиться и найтись
-**** Социальные турбулентности
-***** Конспирации vs публичность
-***** Благо общества vs благо индивида
-***** Искушение / corruption
-***** Пандемия паранормального
-**** Личностные
-***** Самопожертвование
-***** Возвращение к нормальности
-***** Потеря рассудка / изменение морали
-***** Борьба с зависимостью / с собой
-***** Принятие изменений в себе
-***** Мой друг/брат/муж — мутант
-**** «Профессиональные»
-***** Изучение артефакта
-***** Опыты на людях
-***** Расследование происшествия
-***** Расследование серии происшествий / поиск кукловода
+***** Powerful Being with alogical goals
+*** Stories
+**** Primary
+***** Hired for Dangerous job
+***** Investigation of the incident(s)
+***** Fall of the state institutions
+***** Adapting to paranormal
+***** Expedition to the unknown / Treasure hunting
+***** Vigilantes vs Criminals
+***** City bands fighting for power
+***** Segregation
+***** Fight for the right of "non-humans" (mutants, cyborgs, AI, other-side-beings)
+***** Conspiracy vs Publicity
+***** The good of society vs the good of the individual
+**** Secondary
+***** Self-sacrifice
+***** Changing of person's moral
+***** My friend/brother/husband is a mutant
+***** Experiments on (non-)humans
+***** Quest for (unlimited) superpowers
 ***** Жизнь отдела расследований
 Редакции газеты, детективного агентства.
 ***** «Пиратский корабль»/«Предприятие»
 Мы делаем «стартап» в незарегулированной опасной области.
-***** От соперничества к дружбе
-***** Предательство/подстава
+***** Con
+***** Damsel in distress
 **** Прочие
-***** Месть
-***** Любопытство убило кота
-***** Хотели как лучше, получилось как всегда
-***** Дама в беде
-***** Попытка стать богом
 ***** Последствия поступка
 ***** «Хочу и буду жить простой жизнью»
 - Обычный человек с нормальной стороны, которому постоянно мешает жить та сторона.
