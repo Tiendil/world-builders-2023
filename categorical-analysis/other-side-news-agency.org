@@ -12,7 +12,7 @@
 
 [[https://tiendil.org/fictional-universe-setting-work-what-the-difference/][Логика описания раскрыта в блоге]].
 
-** Вселенная
+** Unvierse
 #+BEGIN_EXPORT html
 <img src="./other-side-news-agency-4.png" style="width: 29em; display: inline-block;"/>
 <img src="./other-side-news-agency-5.png" style="width: 29em; display: inline-block;"/>
@@ -26,12 +26,12 @@
 - «Та сторона» — параллельное измерение, возникает в ответ на массовые/сильные эмоции.
 - Измерение и вещи из него изменяют людей физически и ментально.
 - Фольклор основан на ранних случаях проявления той стороны.
-** Сеттинг
-*** Мета сеттинг
+** Setting
+*** Meta
 Urban Legends
-*** Время
+*** Time
 Наши дни.
-*** Референсы
+*** References
 **** TODO для основных референсов добавить сборы/бюджеты
 **** TODO добавить imdb & metacritic
 **** Primary
@@ -83,23 +83,19 @@ Like SCP Foundation.
 Tremendous influence on X-Files.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Twin_Peaks][Twin Peaks]]                                                     :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Hellraiser][Hellraiser]]                                                     :movie:comics:
-*** Герои
-**** Основные
-***** Сталкер / чёрный археолог
-***** Расследователь
-Журналист, детектив, специальный агент.
-***** Коррумпированный политик
-***** Колдун/экзорцист
-***** Бизнесмен с большими ресурсами (Бэтмен, Тони Старк, Лекс Лютор)
-***** Коллекционер диковинок / Торговец артефактами
-***** Торговец информацией
-***** Учёный/инженер/механик самоучка
-***** (почти супер)герой (мутант)
-***** (почти супер)злодей (мутант)
-***** Существо из (нео)фольклора (мутант)
-***** Член секретной организации
-***** Военщина
-**** Второстепенные
+*** Heroes
+**** Primary
+***** Adventurer/Freelancer
+***** Investigator (Journalist, Detective, Special Agent)
+***** Corrupted government worker (Politician, Police, Judge)
+***** Witcher/Witch/Exorcist
+***** Rich gray-moral entrepreneur (Walter White, Tony Stark, Frank Underwood, Raymond Reddington)
+***** Low-grade super-hero/vilian
+***** Folclore creature (Vampire, Werewolf, Zombie, Ghost, Demon, Angel, Alien, Mutant)
+***** Illegal trader (Artifacts, Information, Weapons, Drugs)
+***** Scientist/Engineer/Mechanic specialized in paranormal
+***** Secret organization member
+**** Secondary
 ***** фамилиар
 ***** Врач
 ***** ПТСР-шник
@@ -194,6 +190,7 @@ Tremendous influence on X-Files.
 ***** Садизм / мазохизм
 *** Прочее
 **** Серая мораль
+**** Военщина
 **** Культы
 **** Технологии основанные на артефактах
 **** Аномалии
