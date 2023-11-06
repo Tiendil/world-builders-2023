@@ -60,33 +60,33 @@ Like SCP Foundation.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell]]                                                        :animation_series:movie:managa:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                                  :video_game:
 **** Secondary
+***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
+***** [[https://en.wikipedia.org/wiki/Wellington_Paranormal][Wellington Paranormal]]                                                     :video_series:
+***** [[https://en.wikipedia.org/wiki/American_Gods][American Gods]]                                                             :book:video_series:
+***** [[https://en.wikipedia.org/wiki/Mononoke_(TV_series)][Mononoke]] don't be confused with "Princess Mononoke"                       :animation_series:
+***** [[https://en.wikipedia.org/wiki/Mieruko-chan][Mieruko Chan ]]                                                             :manga:animation_series:
+***** [[https://en.wikipedia.org/wiki/Miss_Peregrine%27s_Home_for_Peculiar_Children_(film)][Miss Peregrine's Home for Peculiar Children  ]]                             :movie:
+***** [[https://en.wikipedia.org/wiki/Torchwood][Torchwood]]                                                                 :video_series:
+***** [[https://en.wikipedia.org/wiki/First_Wave_(TV_series)][First Wave]]                                                                :video_series:
+***** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency  ]]                                 :video_series:
+***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:movies:
 ***** [[https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%BD%D0%B5][Пикник на обочине ]]                                                        :book:
 ***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
 ***** [[https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.][S.T.A.L.K.E.R. ]]                                                           :video_game:
-***** [[https://en.wikipedia.org/wiki/Wellington_Paranormal][Wellington Paranormal]]                                                     :video_series:
-***** [[https://en.wikipedia.org/wiki/Mononoke_(TV_series)][Mononoke]] don't be confused with "Princess Mononoke"                       :animation_series:
-***** [[https://en.wikipedia.org/wiki/Mieruko-chan][Mieruko Chan ]]                                                             :manga:animation_series:
-***** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency  ]]                                 :video_series:
-***** [[https://en.wikipedia.org/wiki/Miss_Peregrine%27s_Home_for_Peculiar_Children_(film)][Miss Peregrine's Home for Peculiar Children  ]]                             :movie:
-***** [[https://en.wikipedia.org/wiki/Torchwood][Torchwood]]                                                                 :video_series:
-***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:movies:
 ***** [[https://en.wikipedia.org/wiki/Utopia_(British_TV_series)][Utopia ]]                                                                   :video_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Spriggan_(manga)][Spriggan ]]                                                            :animation_series:managa:movie:video_game:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Heroes_(American_TV_series)][Heroes]]                                                               :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_OA][The OA ]]                                                        :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Lost_Room][The Lost Room   ]]                                               :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Gateway_(novel)][Gateway ]]                                                       :book:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Craft_(film)][The Craft   ]]                                                   :movie:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Boys_(TV_series)][The Boys ]]                                                      :video_series:
-***** [[https://en.wikipedia.org/wiki/Spriggan_(manga)][Spriggan ]]                                                            :animation_series:managa:movie:video_game:
-***** [[https://en.wikipedia.org/wiki/First_Wave_(TV_series)][First Wave]]                                                                :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/John_Wick_(franchise)][John Wick ]]                                                     :movie:
-***** [[https://en.wikipedia.org/wiki/American_Gods][American Gods]]                                                             :book:video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                    :video_series:video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Dresden_Files_(TV_series)][The Dresden Files ]]                                             :video_series:book:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Kolchak:_The_Night_Stalker][Kolchak: The Night Stalker ]]                                        :video_series:
 Tremendous influence on X-Files.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Twin_Peaks][Twin Peaks ]]                                                             :video_series:
-***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Hellraiser][Hellraiser   ]]                                                  :movie:comics:
 *** Герои
 **** Основные
