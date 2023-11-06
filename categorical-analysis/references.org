@@ -29,6 +29,8 @@
 ** [[https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell][Jonathan Strange & Mr Norrell  ]]                                              :book:video_series:
 ** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                                  :video_series:
 ** [[https://en.wikipedia.org/wiki/Interstate_60][Interstate 60 ]]                                                          :movie:
+** [[https://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo][The Girl with the Dragon Tattoo ]]                                            :book:movie:
+** [[https://en.wikipedia.org/wiki/Sin_City_(film)][Sin City ]]                                                                     :movie:
 * Excluded:
 ** Alfas / люди альфа
 вторичная штука, два сезона только
