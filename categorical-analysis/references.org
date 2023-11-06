@@ -5,8 +5,9 @@
 ** [[https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%BA%D0%B5%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)][Сталкер]] Тарковского                                                          :movie:
 ** [[https://en.wikipedia.org/wiki/Dark_(TV_series)][Dark ]]                                                                        :video_series:
 ** [[https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%D1%80%D0%B8][Библиотекари ]]                                                                :video_series:movie:
-*** [[https://en.wikipedia.org/wiki/Grimm_(TV_series)][Grimm ]]                                                                      :video_series:
+** [[https://en.wikipedia.org/wiki/Grimm_(TV_series)][Grimm ]]                                                                       :video_series:
 Сообщество той стороны. Интеграция фольклора. Истории.
+** [[https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)][The Umbrella Academy  ]]                                                       :video_series:comics:
 * To research
 ** [[https://en.wikipedia.org/wiki/The_Rolling_Stones_(novel)][The Rolling Stones]]                                                           :book:
 ** [[https://en.wikipedia.org/wiki/GeGeGe_no_Kitar%C5%8D][GeGeGe no Kitaro]]                                                             :animation_series:

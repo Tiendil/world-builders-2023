@@ -87,7 +87,6 @@ But low-grade heroes.
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 **** Основные
 ***** [[https://en.wikipedia.org/wiki/American_Gods][American Gods]]                                                             :book:video_series:
-***** [[https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)][The Umbrella Academy  ]]                                                    :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell    ]]                                                    :animation_series:movie:managa:
 ***** [[https://en.wikipedia.org/wiki/Constantine_(film)][John Constantine]]                                                     :movie:comics:
 ***** [[https://en.wikipedia.org/wiki/John_Wick_(franchise)][John Wick]]                                                            :movie:
