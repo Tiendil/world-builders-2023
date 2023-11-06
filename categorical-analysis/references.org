@@ -4,6 +4,9 @@
 ** [[https://en.wikipedia.org/wiki/The_City_%26_the_City][The City & the City]]                                                          :book:video_series:
 ** [[https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%BA%D0%B5%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)][Сталкер]] Тарковского                                                          :movie:
 ** [[https://en.wikipedia.org/wiki/Dark_(TV_series)][Dark ]]                                                                        :video_series:
+** [[https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%D1%80%D0%B8][Библиотекари ]]                                                                :video_series:movie:
+*** [[https://en.wikipedia.org/wiki/Grimm_(TV_series)][Grimm ]]                                                                      :video_series:
+Сообщество той стороны. Интеграция фольклора. Истории.
 * To research
 ** [[https://en.wikipedia.org/wiki/The_Rolling_Stones_(novel)][The Rolling Stones]]                                                           :book:
 ** [[https://en.wikipedia.org/wiki/GeGeGe_no_Kitar%C5%8D][GeGeGe no Kitaro]]                                                             :animation_series:
@@ -19,6 +22,7 @@
 * Stories
 ** [[https://en.wikipedia.org/wiki/The_Booth_at_the_End][The Booth at the End  ]]                                                       :video_series:
 ** [[https://en.wikipedia.org/wiki/Preacher_(comics)][Preacher   ]]                                                                  :comics:video_series:
+** [[https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)][Supernatural]]                                                                 :video_series:
 * Прозапас
 ** [[https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell][Jonathan Strange & Mr Norrell  ]]                                              :book:video_series:
 ** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                                  :video_series:
