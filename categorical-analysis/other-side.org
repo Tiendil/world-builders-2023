@@ -83,6 +83,7 @@ Tremendous influence on X-Files.
 ***** Low-grade hero/villain
 ***** Folclore creature (vampire, werewolf, zombie, ghost)
 ***** Representative of power (boss at work, agent of government/secret organization/corporation)
+***** Puppeteer / Smoking man
 ***** Scientist/engineer/mechanic specialized in paranormal
 ***** Illegal trader (artifacts, information, weapons, drugs)
 ***** Rich gray-moral entrepreneur (Walter White, Tony Stark, Frank Underwood, Raymond Reddington)
@@ -95,6 +96,7 @@ Tremendous influence on X-Files.
 ***** Familiar/pet from the other side
 ***** Mindless mutant
 ***** Con artist
+***** Double agent
 ***** Weirdness magnet
 ***** Cyborg/AI
 ***** Dangerous prisoner
