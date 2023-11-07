@@ -96,6 +96,7 @@ Tremendous influence on X-Files.
 ***** Mindless mutant
 ***** Con artist
 ***** Weirdness magnet
+***** Cyborg/AI
 ***** Dangerous prisoner
 ***** Powerful being with alogical goals
 ***** Incidental companion
@@ -145,6 +146,7 @@ Fangs, increased hairiness, changed eye color, horns, tail.
 ***** Manifestations of the other side
 Ideal beauty/ugliness, wings, hooves, noticeable changes in the skin, breathing fire, ghost body.
 ***** Strong allergy
+***** Prostheses/body build with artifacts
 **** Psychological anomalies
 **** Other
 ***** Gray morality
