@@ -120,54 +120,46 @@ Days of the department of investigations, newspaper editorial office, detective 
 ***** Quest for unlimited powers
 ***** Long tail of the past
 Consequences of the past actions/mistakes.
-*** Места действия
-**** Та сторона / параллельное измерение
-**** Отдел снабжения / лаборатория
-**** Городские джунгли
-Субурбия, бедные кварталы, богатые кварталы, заброшенный завод
-**** Аукцион артефактов
-**** Хранилище артефактов
-**** Лаборатория / мастерская
-**** Военная база, база секретного ордена
-**** Редакция, детективное агентство, база сталкеров
-**** Убежище, Бар, церковь
-*** Артефакты
-**** Проклятая вещь
-**** Самодельная экипировка «из артефактов и палок»
-**** Экипировка сталкера
-**** Обычная вещь, которая артефакт
-**** «Грааль» / «Игла кощея»
-Мощный артефакт, который порождает специфическую мутацию. Например, вампиризм.
-**** Атрибутика расследователя
-Доска расследования, одежда, блокнот, ручка
-**** Карта той стороны
-*** Биологические аномалии
-**** Приобретённые уродства
-**** Небольшие мутации
-Клыки, повышенная шерстистость, изменённый цвет глаз, рожки, хвост.
-**** Манифестации той стороны
-Идеальная красота, идеальное уродство, крылья, копыта, заметные изменения кожи, дыхание огнём, тело призрака.
-**** Аллергия
-На свет, серебро, воду, музыку.
-**** Психические расстройства
-***** Паранойя
-***** Каннибализм
-***** Раздвоение личности
-***** Шизофрения
-***** Садизм / мазохизм
-*** Прочее
-**** Серая мораль
-**** Военщина
-**** Культы
-**** Технологии основанные на артефактах
-**** Аномалии
-**** Порталы
-**** Алогичные явления
-**** Необычная физика
-**** Секретные организации
-**** Секреты: знаки, шифры, коды, пароли, дневники
-**** Полтергейст
-**** Dirty job
+*** Signs
+**** Locations
+***** Concrete jungles
+***** Business/editorial/detective office
+***** Other side
+***** Secret hideout
+***** Laboratory/workshop/warehouse
+***** Hospital
+***** Safe house
+**** Artifacts
+***** Investigator's equipment
+Mood board, clothes, notebook, pen.
+***** Cursed thing
+***** Homemade equipment from artifacts
+***** Special military/force equipment
+***** Ordinary thing that is an artifact
+***** Witch equipment
+***** Legendary artifact: graal / needle of Koschei
+***** Map of the other side
+**** Biological anomalies
+***** Acquired deformities
+***** Small mutations
+Fangs, increased hairiness, changed eye color, horns, tail.
+***** Manifestations of the other side
+Ideal beauty/ugliness, wings, hooves, noticeable changes in the skin, breathing fire, ghost body.
+***** Allergy
+**** Psychological anomalies
+**** Other
+***** Gray morality
+***** Military stuff
+***** Cults
+***** Technology based on artifacts
+***** Anomalies
+***** Portals
+***** Illogical phenomena
+***** Broken physics
+***** Secret organizations
+***** Secrets: signs, ciphers, codes, passwords, diaries
+***** Dirty job
+***** Dark market
 *** Якоря реального мира
 **** Реальные места действия (города, страны, места)
 **** Известные фольклорные сущности
