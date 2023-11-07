@@ -160,7 +160,7 @@ Ideal beauty/ugliness, wings, hooves, noticeable changes in the skin, breathing 
 **** Equality
 **** Diversity
 ** Products
-*** Journalist's MMO
-*** TV/Web series about other side news agency
-*** Game about other side news agency
-*** Roguelike about researching the other side
+*** Journalism MMO
+*** Web series about other side news agency
+*** Game: the other side news agency managment
+*** Game: roguelike about researching the other side
