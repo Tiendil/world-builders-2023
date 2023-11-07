@@ -58,6 +58,7 @@ Like SCP Foundation.
 ***** [[https://en.wikipedia.org/wiki/Torchwood][Torchwood]]                                                                 :video_series:
 ***** [[https://en.wikipedia.org/wiki/First_Wave_(TV_series)][First Wave]]                                                                :video_series:
 ***** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency  ]]                                 :video_series:
+***** [[https://en.wikipedia.org/wiki/The_Blacklist_(TV_series)][The Blacklist ]]                                                            :video_series:
 ***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:movies:
 ***** [[https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%BD%D0%B5][Пикник на обочине ]]                                                        :book:
 ***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
@@ -76,12 +77,12 @@ Like SCP Foundation.
 Tremendous influence on X-Files.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Twin_Peaks][Twin Peaks]]                                                     :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Hellraiser][Hellraiser]]                                                     :movie:comics:
-**** [[https://tiendil.github.io/world-builders-2023/categorical-analysis/references.html][Other references]]
+**** [[https://tiendil.github.io/world-builders-2023/categorical-analysis/references.html][Other references]] on a separate page.
 *** Heroes
 **** Primary
 ***** Adventurer/freelancer
 ***** Investigator (journalist, detective, special agent)
-***** Low-grade (super-)hero/vilian
+***** Low-grade hero/vilian
 ***** Folclore creature (vampire, werewolf, zombie, ghost)
 ***** Representative of power (boss at work, agent of government/secret organization/corporation)
 ***** Scientist/engineer/mechanic specialized in paranormal
@@ -132,13 +133,12 @@ Consequences of the past actions/mistakes.
 **** Artifacts
 ***** Investigator's equipment
 Mood board, clothes, notebook, pen.
-***** Cursed thing
-***** Homemade equipment from artifacts
 ***** Special military/force equipment
 ***** Ordinary thing that is an artifact
-***** Witch equipment
-***** Legendary artifact: graal / needle of Koschei
+***** Homemade equipment from artifacts
+***** Cursed thing
 ***** Map of the other side
+***** Legendary artifact: graal / needle of Koschei
 **** Biological anomalies
 ***** Acquired deformities
 ***** Small mutations
@@ -160,16 +160,13 @@ Ideal beauty/ugliness, wings, hooves, noticeable changes in the skin, breathing 
 ***** Secrets: signs, ciphers, codes, passwords, diaries
 ***** Dirty job
 ***** Dark market
-*** Якоря реального мира
-**** Реальные места действия (города, страны, места)
-**** Известные фольклорные сущности
-**** Порочные политики
-**** Вопросы доверия
-**** Равноправие
-**** Сегрегация
-**** Рост над собой, развитие
-**** Контроль государства
-**** Diversity/Разнообразие
+*** Real world anchors
+**** Real places
+**** Folklore creatures
+**** Corrupted politicians
+**** Trust issues
+**** Equality
+**** Diversity
 ** Продукты
 *** ММО Other Side News Agency
 **** Одной строкой
