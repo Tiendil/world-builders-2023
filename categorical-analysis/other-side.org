@@ -130,7 +130,7 @@ Consequences of the past actions/mistakes.
 ***** Secret hideout
 ***** Laboratory/workshop/warehouse
 ***** Hospital
-***** Safehouse
+***** Safehouse / neutral territory
 **** Artifacts
 ***** Investigator's equipment
 Mood board, clothes, notebook, pen, badge.
