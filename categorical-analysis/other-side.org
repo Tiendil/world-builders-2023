@@ -59,6 +59,7 @@ Like SCP Foundation.
 ***** [[https://en.wikipedia.org/wiki/Doom_Patrol_(TV_series)][Doom Patrol ]]                                                              :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/Watchmen_(film)][Watchmen]]                                                                  :movie:
 ***** [[https://en.wikipedia.org/wiki/Sin_City_(film)][Sin City]]                                                                  :movie:
+***** [[https://en.wikipedia.org/wiki/Blade_(1998_film)][Blade ]]                                                                    :movie:comics:
 ***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:movies:
 ***** [[https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%BD%D0%B5][Пикник на обочине ]]                                                        :book:
 ***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
@@ -85,6 +86,7 @@ Tremendous influence on X-Files.
 ***** Investigator (journalist, detective, special agent)
 ***** Low-grade hero/villain (mutants, psychic)
 ***** Folclore creature (vampire, werewolf, zombie, ghost)
+***** Mentor/experienced leader
 ***** Representative of power (boss at work, agent of government/secret organization/corporation)
 ***** Puppeteer / Smoking man
 ***** Scientist/engineer/mechanic specialized in paranormal
@@ -107,6 +109,7 @@ Tremendous influence on X-Files.
 ***** Powerful being with alogical goals
 ***** Incidental companion
 ***** Priest/exorcist
+***** Reformed villain
 *** Stories
 **** Primary
 ***** Dangerous and dirty job to be done
@@ -123,6 +126,7 @@ Days of the FBI, newspaper editorial office, detective agency.
 ***** Rescue mission
 ***** Damsel in distress
 ***** Changing of person's moral / corruption
+***** Tentions between countries because of powerfull artifacts
 ***** Quest for unlimited powers
 ***** Long tail of the past
 Consequences of the past actions/mistakes.
@@ -135,7 +139,7 @@ Consequences of the past actions/mistakes.
 ***** Business/editorial/detective office
 ***** Other side
 ***** Secret hideout
-***** Laboratory/workshop/warehouse (legal/illegal/secret)
+***** Laboratory/workshop/warehouse (legal/illegal/secret/abadoned/gigantic)
 ***** Hospital
 ***** Safehouse / neutral territory
 **** Artifacts
@@ -157,6 +161,7 @@ Fangs, increased hairiness, changed eye color, horns, tail.
 Ideal beauty/ugliness, wings, hooves, noticeable changes in the skin, breathing fire, ghost body.
 ***** Strong allergy
 ***** Prostheses/body build with artifacts
+***** Genetic heritage of mutations
 **** Psychological anomalies
 **** Other
 ***** Gray morality
@@ -170,6 +175,7 @@ Ideal beauty/ugliness, wings, hooves, noticeable changes in the skin, breathing 
 ***** Police cordons
 ***** Military operations
 ***** Special transport
+***** Burocracy attributes: papers, outdated equipment, old cars, old buildings
 *** Real world anchors
 **** Real places
 **** Folklore creatures
