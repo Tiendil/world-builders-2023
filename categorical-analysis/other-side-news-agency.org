@@ -1,16 +1,8 @@
-#+TITLE: Other Side News Agency
+#+TITLE: Other Side
 #+STARTUP: noinlineimages
-* Other Side News Agency / Новостное Агентство Той Стороны
+* Other Side
 
-[[https://github.com/Tiendil/world-builders-2023/blob/main/categorical-analysis/other-side-news-agency.org][Исходники]]
-
-В документе описано три сущности:
-
-- Вселеленная — кратко, для контекста.
-- Сеттинг — категориальный анализ.
-- Продукты — кратко, для контекста.
-
-[[https://tiendil.org/fictional-universe-setting-work-what-the-difference/][Логика описания раскрыта в блоге]].
+[[https://github.com/Tiendil/world-builders-2023/blob/main/categorical-analysis/other-side-news-agency.org][Source code]]
 
 ** Unvierse
 #+BEGIN_EXPORT html
@@ -22,29 +14,27 @@
 <img src="./other-side-news-agency-1.png" style="width: 29em; display: inline-block;"/>
 #+END_EXPORT
 
-- Наука + witchcraft (ритуальная магия + шаманизм).
-- «Та сторона» — параллельное измерение, возникает в ответ на массовые/сильные эмоции.
-- Измерение и вещи из него изменяют людей физически и ментально.
-- Фольклор основан на ранних случаях проявления той стороны.
-*** TODO transalte
+- Science + witchcraft (ритуальная магия + шаманизм).
+- Parallel dimension appears in response to mass/strong emotions.
+- Dimension and things from it change people physically and mentally.
+- Folclore is an example of early manifestations of the dimension.
 *** TODO rename title
 ** Setting
 *** Meta
-Urban Legends
+Urban Legends with low-grade superheroes.
 *** Time
-Наши дни.
+Our time.
 *** References
 **** TODO для основных референсов добавить сборы/бюджеты
 **** TODO добавить imdb & metacritic
 **** Primary
 ***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
 Without aliens.
-***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
 ***** [[https://en.wikipedia.org/wiki/Marvel%27s_Netflix_television_series][Marvel's Netflix television series]]                                        :video_series:comics:
 Low-grade superheroes: [[https://en.wikipedia.org/wiki/Jessica_Jones_(TV_series)][Jessica Jones]], [[https://en.wikipedia.org/wiki/Daredevil_(TV_series)][Daredevil]], [[https://en.wikipedia.org/wiki/Iron_Fist_(TV_series)][Iron Fist]], [[https://en.wikipedia.org/wiki/The_Defenders_(miniseries)][The Defenders]], [[https://en.wikipedia.org/wiki/The_Punisher_(TV_series)][The Punisher]], [[https://en.wikipedia.org/wiki/Luke_Cage_(TV_series)][Luke Cage]]
 ***** [[https://en.wikipedia.org/wiki/Gotham_(TV_series)][Gotham TV series]]                                                          :video_series:
+***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
 ***** [[https://en.wikipedia.org/wiki/Fringe_(TV_series)][Fringe]]                                                                    :video_series:
-***** [[https://en.wikipedia.org/wiki/Stargate_(film)][Stargate]]                                                                  :movie:video_series:
 ***** [[https://en.wikipedia.org/wiki/Misfits_(TV_series)][Misfits]]                                                                   :video_series:
 ***** [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D. ]]                                                             :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/X-Men][X-Men]]                                                                     :comics:movie:video_series:animated_series:
@@ -61,6 +51,7 @@ Like SCP Foundation.
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://en.wikipedia.org/wiki/Wellington_Paranormal][Wellington Paranormal]]                                                     :video_series:
 ***** [[https://en.wikipedia.org/wiki/American_Gods][American Gods]]                                                             :book:video_series:
+***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:video_series:
 ***** [[https://en.wikipedia.org/wiki/Mononoke_(TV_series)][Mononoke]] don't be confused with "Princess Mononoke"                       :animation_series:
 ***** [[https://en.wikipedia.org/wiki/Mieruko-chan][Mieruko Chan ]]                                                             :manga:animation_series:
 ***** [[https://en.wikipedia.org/wiki/Miss_Peregrine%27s_Home_for_Peculiar_Children_(film)][Miss Peregrine's Home for Peculiar Children  ]]                             :movie:
@@ -80,12 +71,12 @@ Like SCP Foundation.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Craft_(film)][The Craft   ]]                                                   :movie:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Boys_(TV_series)][The Boys ]]                                                      :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/John_Wick_(franchise)][John Wick ]]                                                     :movie:
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                    :video_series:video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Dresden_Files_(TV_series)][The Dresden Files ]]                                             :video_series:book:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Kolchak:_The_Night_Stalker][Kolchak: The Night Stalker]]                                     :video_series:
 Tremendous influence on X-Files.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Twin_Peaks][Twin Peaks]]                                                     :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Hellraiser][Hellraiser]]                                                     :movie:comics:
+**** [[https://tiendil.github.io/world-builders-2023/categorical-analysis/references.html][Other references]]
 *** Heroes
 **** Primary
 ***** Adventurer/Freelancer

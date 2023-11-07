@@ -35,6 +35,7 @@
 ** [[https://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo][The Girl with the Dragon Tattoo ]]                                            :book:movie:
 ** [[https://en.wikipedia.org/wiki/Sin_City_(film)][Sin City ]]                                                                     :movie:
 ** [[https://en.wikipedia.org/wiki/The_Conjuring_Universe][The Conjuring Universe   ]]                                                    :movie:
+** [[https://en.wikipedia.org/wiki/Stargate_(film)][Stargate]]                                                                     :movie:video_series:
 * Excluded:
 ** Alfas / люди альфа
 вторичная штука, два сезона только
