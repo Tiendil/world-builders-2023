@@ -60,8 +60,8 @@ Like SCP Foundation.
 ***** [[https://en.wikipedia.org/wiki/Watchmen_(film)][Watchmen]]                                                                  :movie:
 ***** [[https://en.wikipedia.org/wiki/Sin_City_(film)][Sin City]]                                                                  :movie:
 ***** [[https://en.wikipedia.org/wiki/Blade_(1998_film)][Blade ]]                                                                    :movie:comics:
-***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:movies:
-***** [[https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%BD%D0%B5][Пикник на обочине ]]                                                        :book:
+***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Night_Watch]]                                                               :book:movies:
+***** [[https://en.wikipedia.org/wiki/Roadside_Picnic][Roadside Picnic]]                                                           :book:
 ***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
 ***** [[https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.][S.T.A.L.K.E.R. ]]                                                           :video_game:
 ***** [[https://en.wikipedia.org/wiki/Utopia_(British_TV_series)][Utopia ]]                                                                   :video_series:
@@ -91,7 +91,7 @@ Tremendous influence on X-Files.
 ***** Puppeteer / Smoking man
 ***** Scientist/engineer/mechanic specialized in paranormal
 ***** Illegal trader (artifacts, information, weapons, drugs)
-***** Rich gray-moral entrepreneur (Walter White, Tony Stark, Frank Underwood, Raymond Reddington)
+***** Rich gray-moral entrepreneur (Tony Stark, Raymond Reddington)
 **** Secondary
 ***** Corrupted worker (politician, policeman, judge, priest)
 ***** Lone wolf
@@ -126,7 +126,7 @@ Days of the FBI, newspaper editorial office, detective agency.
 ***** Rescue mission
 ***** Damsel in distress
 ***** Changing of person's moral / corruption
-***** Tentions between countries because of powerfull artifacts
+***** Tensions between countries because of powerful artifacts
 ***** Quest for unlimited powers
 ***** Long tail of the past
 Consequences of the past actions/mistakes.
