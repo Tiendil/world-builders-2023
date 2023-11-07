@@ -118,11 +118,8 @@ Days of the department of investigations, newspaper editorial office, detective 
 ***** Segregation
 ***** Incidental companion
 ***** Quest for unlimited powers
-**** Прочие
-***** Последствия поступка
-***** «Хочу и буду жить простой жизнью»
-- Обычный человек с нормальной стороны, которому постоянно мешает жить та сторона.
-- Мутант, который всеми силами пытается жить как обычный человек.
+***** Long tail of the past
+Consequences of the past actions/mistakes.
 *** Места действия
 **** Та сторона / параллельное измерение
 **** Отдел снабжения / лаборатория
