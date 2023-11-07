@@ -17,7 +17,7 @@
 - Science + witchcraft.
 - Parallel dimension appears in response to mass/strong emotions.
 - Dimension and things from it change people physically and mentally.
-- Folclore is an example of early manifestations of the dimension.
+- Folclore is an early manifestations of the dimension.
 ** Setting
 *** Meta
 Urban Legends with low-grade superheroes.
@@ -45,12 +45,11 @@ Like SCP Foundation.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell ]]                                            :animation_series:movie:manga:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                        :video_game:
 **** Secondary
-***** [[https://en.wikipedia.org/wiki/Carnival_Row_(TV_series)][Carnival Row ]]                                                             :video_series:
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://en.wikipedia.org/wiki/Wellington_Paranormal][Wellington Paranormal]]                                                     :video_series:
 ***** [[https://en.wikipedia.org/wiki/American_Gods][American Gods]]                                                             :book:video_series:
 ***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:video_series:
-***** [[https://en.wikipedia.org/wiki/Mononoke_(TV_series)][Mononoke]] don't be confused with "Princess Mononoke"                       :animation_series:
+***** [[https://en.wikipedia.org/wiki/Mononoke_(TV_series)][Mononoke]] don't confuse with "Princess Mononoke"                           :animation_series:
 ***** [[https://en.wikipedia.org/wiki/Mieruko-chan][Mieruko Chan ]]                                                             :manga:animation_series:
 ***** [[https://en.wikipedia.org/wiki/Miss_Peregrine%27s_Home_for_Peculiar_Children_(film)][Miss Peregrine's Home for Peculiar Children  ]]                             :movie:
 ***** [[https://en.wikipedia.org/wiki/Torchwood][Torchwood]]                                                                 :video_series:
@@ -62,6 +61,7 @@ Like SCP Foundation.
 ***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
 ***** [[https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.][S.T.A.L.K.E.R. ]]                                                           :video_game:
 ***** [[https://en.wikipedia.org/wiki/Utopia_(British_TV_series)][Utopia ]]                                                                   :video_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Carnival_Row_(TV_series)][Carnival Row ]]                                                             :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Spriggan_(manga)][Spriggan]]                                                       :animation_series:managa:movie:video_game:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Heroes_(American_TV_series)][Heroes]]                                                         :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_OA][The OA ]]                                                        :video_series:
@@ -91,34 +91,34 @@ Tremendous influence on X-Files.
 ***** Doctor/paramedic
 ***** Permanently injured person (mentally or physically): PTSD, amnesia.
 ***** Person with two lives / alter ego
-***** Familiar/Pet from the other side
+***** Familiar/pet from the other side
 ***** Mindless mutant
 ***** Con artist
 ***** Weirdness magnet
 ***** Dangerous prisoner
 ***** Powerful being with alogical goals
+***** Incidental companion
 *** Stories
 **** Primary
 ***** Dangerous and dirty job to be done
 ***** Investigation of the incident(s)
 ***** Vigilantes vs criminals
 ***** Expedition to the unknown / treasure hunting
-***** Conspiracy vs Publicity
-***** City bands fighting for power
+***** Conspiracy vs publicity
+***** City bands fighting for control over the city
 ***** Fall of the state institutions
 **** Secondary
-***** Life of "Pirate Ship"
-Days of the department of investigations, newspaper editorial office, detective agency.
+***** Life of a "Pirate Ship"
+Days of the FBI, newspaper editorial office, detective agency.
 ***** Damsel in distress
-***** The good of a society vs the good of an individual
 ***** Con
 ***** Adapting to paranormal
 ***** Changing of person's moral / corruption
 ***** Segregation
-***** Incidental companion
 ***** Quest for unlimited powers
 ***** Long tail of the past
 Consequences of the past actions/mistakes.
+***** The good of a society vs the good of an individual
 *** Signs
 **** Locations
 ***** Concrete jungles
@@ -130,25 +130,24 @@ Consequences of the past actions/mistakes.
 ***** Safehouse
 **** Artifacts
 ***** Investigator's equipment
-Mood board, clothes, notebook, pen.
+Mood board, clothes, notebook, pen, badge.
 ***** Special military/force equipment
-***** Ordinary thing that is an artifact
+***** Ordinary thing that is an (cursed) artifact
 ***** Homemade equipment from artifacts
-***** Cursed thing
 ***** Map of the other side
-***** Legendary artifact: graal / needle of Koschei
+***** Legendary artifact: Holy Grail, Pandora's Box, Philosopher's Stone, Excalibur, etc.
 **** Biological anomalies
 ***** Acquired deformities
 ***** Small mutations
 Fangs, increased hairiness, changed eye color, horns, tail.
 ***** Manifestations of the other side
 Ideal beauty/ugliness, wings, hooves, noticeable changes in the skin, breathing fire, ghost body.
-***** Allergy
+***** Strong allergy
 **** Psychological anomalies
 **** Other
-***** Anomalies
 ***** Gray morality
 ***** Technology based on artifacts
+***** Physical/logical anomalies
 ***** Dark market
 ***** Secret organizations
 ***** Portals
