@@ -148,46 +148,21 @@ Ideal beauty/ugliness, wings, hooves, noticeable changes in the skin, breathing 
 ***** Allergy
 **** Psychological anomalies
 **** Other
-***** Gray morality
-***** Military stuff
-***** Cults
-***** Technology based on artifacts
 ***** Anomalies
-***** Portals
-***** Illogical phenomena
-***** Broken physics
-***** Secret organizations
-***** Secrets: signs, ciphers, codes, passwords, diaries
-***** Dirty job
+***** Gray morality
+***** Technology based on artifacts
 ***** Dark market
+***** Secret organizations
+***** Portals
+***** Secrets: signs, ciphers, codes, passwords, diaries
+***** Military operations
 *** Real world anchors
 **** Real places
 **** Folklore creatures
-**** Corrupted politicians
-**** Trust issues
+**** Corruption
 **** Equality
 **** Diversity
-** Продукты
-*** ММО Other Side News Agency
-**** Одной строкой
-Делай новости, создавай легенды, меняй ту сторону.
-**** Жанр
-Paranormal Mockumentary Investigative Journalism
-**** Описание
-- «ММО» песочница для ролевиков создателей контента и их фоловеров.
-- Сними или напиши новость для Tik Tok, Instagram, Twitter о потустороннем мире.
-- Если зрители проголосуют за твою новость, она станет реальностью в мире Той Стороны.
-**** Референсы
-****** [[https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)][What We Do in the Shadows ]]                                               :video_series:
-Общий настрой, мокументарность, юмор, простота.
-****** [[https://en.wikipedia.org/wiki/ERepublik][eRepublik]]                                                                :game:
-****** [[https://store.steampowered.com/app/918820/Headliner_NoviNews/][Headliner: NoviNews]]                                                      :game:
-****** [[https://store.steampowered.com/app/352240/The_Westport_Independent/][The Westport Independent]]                                                 :game:
-****** [[https://dukope.com/trt/play.html][The Republia Times]]                                                       :game:
-****** [[https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)][Interview with the vampire]]                                               :movie:
-****** [[https://store.steampowered.com/app/490980/Daily_Chthonicle_Editors_Edition/][Daily Chthonicle: Editor's Edition ]]                                      :game:
-*** Сериал Other Side News Agency
-*** Игра Other Side News Agency
-*менеджер новостного агенства / гильдии разведчиков
-** Заметки
-- Как варинат маркетинговой стратегии, можно сосредоточиться на клубах ролевиков.
+** Products
+*** Journalist's MMO
+*** TV/Web series about other side news agency
+*** Game about other side news agency
