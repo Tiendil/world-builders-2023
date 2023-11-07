@@ -35,7 +35,6 @@ Low-grade superheroes: [[https://en.wikipedia.org/wiki/Jessica_Jones_(TV_series)
 ***** [[https://en.wikipedia.org/wiki/Fringe_(TV_series)][Fringe]]                                                                    :video_series:
 ***** [[https://en.wikipedia.org/wiki/Misfits_(TV_series)][Misfits]]                                                                   :video_series:
 ***** [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D. ]]                                                             :video_series:comics:
-***** [[https://en.wikipedia.org/wiki/X-Men][X-Men]]                                                                     :comics:movie:video_series:animated_series:
 But low-grade heroes.
 ***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss]]                                                             :animation_series:manga:video_game:movie:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/John_Constantine][John Constantine]]                                               :movie:comics:
@@ -50,12 +49,13 @@ Like SCP Foundation.
 ***** [[https://en.wikipedia.org/wiki/American_Gods][American Gods]]                                                             :book:video_series:
 ***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:video_series:
 ***** [[https://en.wikipedia.org/wiki/Mononoke_(TV_series)][Mononoke]] don't confuse with "Princess Mononoke"                           :animation_series:
-***** [[https://en.wikipedia.org/wiki/Mieruko-chan][Mieruko Chan ]]                                                             :manga:animation_series:
-***** [[https://en.wikipedia.org/wiki/Miss_Peregrine%27s_Home_for_Peculiar_Children_(film)][Miss Peregrine's Home for Peculiar Children  ]]                             :movie:
 ***** [[https://en.wikipedia.org/wiki/Torchwood][Torchwood]]                                                                 :video_series:
 ***** [[https://en.wikipedia.org/wiki/First_Wave_(TV_series)][First Wave]]                                                                :video_series:
-***** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency  ]]                                 :video_series:
 ***** [[https://en.wikipedia.org/wiki/The_Blacklist_(TV_series)][The Blacklist ]]                                                            :video_series:
+***** [[https://en.wikipedia.org/wiki/Mieruko-chan][Mieruko Chan ]]                                                             :manga:animation_series:
+***** [[https://en.wikipedia.org/wiki/Miss_Peregrine%27s_Home_for_Peculiar_Children_(film)][Miss Peregrine's Home for Peculiar Children  ]]                             :movie:
+***** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency  ]]                                 :video_series:
+***** [[https://en.wikipedia.org/wiki/X-Men][X-Men]]                                                                     :comics:movie:video_series:animated_series:
 ***** [[https://en.wikipedia.org/wiki/Doom_Patrol_(TV_series)][Doom Patrol ]]                                                              :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/Watchmen_(film)][Watchmen]]                                                                  :movie:
 ***** [[https://en.wikipedia.org/wiki/Sin_City_(film)][Sin City]]                                                                  :movie:
@@ -106,7 +106,6 @@ Tremendous influence on X-Files.
 ***** Weirdness magnet
 ***** Cyborg/AI
 ***** Dangerous prisoner
-***** Powerful being with alogical goals
 ***** Incidental companion
 ***** Priest/exorcist
 ***** Reformed villain
@@ -116,6 +115,7 @@ Tremendous influence on X-Files.
 ***** Investigation of the anomaly incident(s)
 ***** Expedition to the unknown / treasure hunting
 ***** Vigilantes vs criminals
+***** Find and neutralize/store
 ***** Conspiracy vs publicity
 ***** Con
 ***** City bands/cults fighting for control over the city
