@@ -91,6 +91,7 @@ Tremendous influence on X-Files.
 ***** Corrupted worker (politician, policeman, judge, priest)
 ***** Lone wolf
 ***** Doctor/paramedic
+***** Hacker
 ***** Permanently injured person (mentally or physically): PTSD, amnesia.
 ***** Person with two lives / alter ego
 ***** Familiar/pet from the other side
@@ -138,10 +139,12 @@ Consequences of the past actions/mistakes.
 Mood board, clothes, notebook, pen, badge.
 ***** Special military/force equipment
 ***** Ordinary thing that is an (cursed) artifact
+***** Hi-tech implants
 ***** Homemade equipment from artifacts
 ***** Map of the other side
 ***** Legendary artifact: Holy Grail, Pandora's Box, Philosopher's Stone, Excalibur, etc.
 ***** Superpower drugs
+***** Computers with AI and artifacts
 **** Biological anomalies
 ***** Acquired deformities
 ***** Small mutations
