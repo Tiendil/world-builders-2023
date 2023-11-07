@@ -4,7 +4,7 @@
 
 [[https://github.com/Tiendil/world-builders-2023/blob/main/categorical-analysis/other-side-news-agency.org][Source code]]
 
-** Unvierse
+** Universe
 #+BEGIN_EXPORT html
 <img src="./other-side-news-agency-4.png" style="width: 29em; display: inline-block;"/>
 <img src="./other-side-news-agency-5.png" style="width: 29em; display: inline-block;"/>
@@ -14,19 +14,17 @@
 <img src="./other-side-news-agency-1.png" style="width: 29em; display: inline-block;"/>
 #+END_EXPORT
 
-- Science + witchcraft (ритуальная магия + шаманизм).
+- Science + witchcraft.
 - Parallel dimension appears in response to mass/strong emotions.
 - Dimension and things from it change people physically and mentally.
 - Folclore is an example of early manifestations of the dimension.
-*** TODO rename title
 ** Setting
 *** Meta
 Urban Legends with low-grade superheroes.
 *** Time
 Our time.
 *** References
-**** TODO для основных референсов добавить сборы/бюджеты
-**** TODO добавить imdb & metacritic
+**** TODO Нужны ли бюджеты/оценки для основных референсов?
 **** Primary
 ***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
 Without aliens.
@@ -44,7 +42,7 @@ But low-grade heroes.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Stranger_Things][Stranger Things]]                                                :video_series:
 ***** [RESEARCH] [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control]]                                                        :game:
 Like SCP Foundation.
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell ]]                                            :animation_series:movie:managa:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell ]]                                            :animation_series:movie:manga:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                        :video_game:
 **** Secondary
 ***** [[https://en.wikipedia.org/wiki/Carnival_Row_(TV_series)][Carnival Row ]]                                                             :video_series:
@@ -82,7 +80,7 @@ Tremendous influence on X-Files.
 **** Primary
 ***** Adventurer/freelancer
 ***** Investigator (journalist, detective, special agent)
-***** Low-grade hero/vilian
+***** Low-grade hero/villain
 ***** Folclore creature (vampire, werewolf, zombie, ghost)
 ***** Representative of power (boss at work, agent of government/secret organization/corporation)
 ***** Scientist/engineer/mechanic specialized in paranormal
@@ -93,7 +91,7 @@ Tremendous influence on X-Files.
 ***** Doctor/paramedic
 ***** Permanently injured person (mentally or physically): PTSD, amnesia.
 ***** Person with two lives / alter ego
-***** Familiar/Pet from other side
+***** Familiar/Pet from the other side
 ***** Mindless mutant
 ***** Con artist
 ***** Weirdness magnet
@@ -129,7 +127,7 @@ Consequences of the past actions/mistakes.
 ***** Secret hideout
 ***** Laboratory/workshop/warehouse
 ***** Hospital
-***** Safe house
+***** Safehouse
 **** Artifacts
 ***** Investigator's equipment
 Mood board, clothes, notebook, pen.
