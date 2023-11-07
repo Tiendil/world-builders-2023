@@ -33,11 +33,13 @@ Low-grade superheroes: [[https://en.wikipedia.org/wiki/Jessica_Jones_(TV_series)
 ***** [[https://en.wikipedia.org/wiki/Gotham_(TV_series)][Gotham TV series]]                                                          :video_series:
 ***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
 ***** [[https://en.wikipedia.org/wiki/Fringe_(TV_series)][Fringe]]                                                                    :video_series:
+***** [[https://en.wikipedia.org/wiki/American_Gods][American Gods]]                                                             :book:video_series:
+***** [[https://en.wikipedia.org/wiki/John_Constantine][John Constantine]]                                                          :movie:comics:
+***** [[https://en.wikipedia.org/wiki/Happy!_(TV_series)][Happy!]]                                                                    :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/Misfits_(TV_series)][Misfits]]                                                                   :video_series:
 ***** [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D. ]]                                                             :video_series:comics:
 But low-grade heroes.
 ***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss]]                                                             :animation_series:manga:video_game:movie:
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/John_Constantine][John Constantine]]                                               :movie:comics:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Stranger_Things][Stranger Things]]                                                :video_series:
 ***** [RESEARCH] [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control]]                                                        :game:
 Like SCP Foundation.
@@ -46,7 +48,6 @@ Like SCP Foundation.
 **** Secondary
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://en.wikipedia.org/wiki/Wellington_Paranormal][Wellington Paranormal]]                                                     :video_series:
-***** [[https://en.wikipedia.org/wiki/American_Gods][American Gods]]                                                             :book:video_series:
 ***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:video_series:
 ***** [[https://en.wikipedia.org/wiki/Mononoke_(TV_series)][Mononoke]] don't confuse with "Princess Mononoke"                           :animation_series:
 ***** [[https://en.wikipedia.org/wiki/Torchwood][Torchwood]]                                                                 :video_series:
@@ -109,6 +110,7 @@ Tremendous influence on X-Files.
 ***** Incidental companion
 ***** Priest/exorcist
 ***** Reformed villain
+***** Spirit of the city
 *** Stories
 **** Primary
 ***** Dangerous and dirty job to be done
@@ -177,6 +179,7 @@ Ideal beauty/ugliness, wings, hooves, noticeable changes in the skin, breathing 
 ***** Military operations
 ***** Special transport
 ***** Burocracy attributes: papers, outdated equipment, old cars, old buildings
+***** Collective consciousness breakthrough into the real world
 *** Real world anchors
 **** Real places
 **** Folklore creatures
