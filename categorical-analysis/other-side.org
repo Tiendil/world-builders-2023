@@ -80,7 +80,7 @@ Tremendous influence on X-Files.
 **** Primary
 ***** Adventurer/freelancer
 ***** Investigator (journalist, detective, special agent)
-***** Low-grade hero/villain
+***** Low-grade hero/villain (mutants, psychic)
 ***** Folclore creature (vampire, werewolf, zombie, ghost)
 ***** Representative of power (boss at work, agent of government/secret organization/corporation)
 ***** Puppeteer / Smoking man
@@ -103,6 +103,7 @@ Tremendous influence on X-Files.
 ***** Dangerous prisoner
 ***** Powerful being with alogical goals
 ***** Incidental companion
+***** Priest/Exorcist
 *** Stories
 **** Primary
 ***** Dangerous and dirty job to be done
