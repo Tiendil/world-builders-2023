@@ -56,6 +56,9 @@ Like SCP Foundation.
 ***** [[https://en.wikipedia.org/wiki/First_Wave_(TV_series)][First Wave]]                                                                :video_series:
 ***** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency  ]]                                 :video_series:
 ***** [[https://en.wikipedia.org/wiki/The_Blacklist_(TV_series)][The Blacklist ]]                                                            :video_series:
+***** [[https://en.wikipedia.org/wiki/Doom_Patrol_(TV_series)][Doom Patrol ]]                                                              :video_series:comics:
+***** [[https://en.wikipedia.org/wiki/Watchmen_(film)][Watchmen]]                                                                  :movie:
+***** [[https://en.wikipedia.org/wiki/Sin_City_(film)][Sin City]]                                                                  :movie:
 ***** [[https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)][Ночной дозор]]                                                              :book:movies:
 ***** [[https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%BD%D0%B5][Пикник на обочине ]]                                                        :book:
 ***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
@@ -103,11 +106,11 @@ Tremendous influence on X-Files.
 ***** Dangerous prisoner
 ***** Powerful being with alogical goals
 ***** Incidental companion
-***** Priest/Exorcist
+***** Priest/exorcist
 *** Stories
 **** Primary
 ***** Dangerous and dirty job to be done
-***** Investigation of the incident(s)
+***** Investigation of the anomaly incident(s)
 ***** Vigilantes vs criminals
 ***** Expedition to the unknown / treasure hunting
 ***** Conspiracy vs publicity
@@ -119,20 +122,20 @@ Days of the FBI, newspaper editorial office, detective agency.
 ***** Rescue mission
 ***** Damsel in distress
 ***** Con
-***** Adapting to paranormal
+***** Adapting to paranormal / taming new powers
 ***** Changing of person's moral / corruption
-***** Segregation
 ***** Quest for unlimited powers
 ***** Long tail of the past
 Consequences of the past actions/mistakes.
 ***** The good of a society vs the good of an individual
+***** Segregation
 *** Signs
 **** Locations
 ***** Concrete jungles
 ***** Business/editorial/detective office
 ***** Other side
 ***** Secret hideout
-***** Laboratory/workshop/warehouse
+***** Laboratory/workshop/warehouse (legal/illegal/secret)
 ***** Hospital
 ***** Safehouse / neutral territory
 **** Artifacts
@@ -166,6 +169,7 @@ Ideal beauty/ugliness, wings, hooves, noticeable changes in the skin, breathing 
 ***** Access levels
 ***** Police cordons
 ***** Military operations
+***** Special transport
 *** Real world anchors
 **** Real places
 **** Folklore creatures
