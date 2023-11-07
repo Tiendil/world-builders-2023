@@ -79,24 +79,25 @@ Tremendous influence on X-Files.
 **** [[https://tiendil.github.io/world-builders-2023/categorical-analysis/references.html][Other references]]
 *** Heroes
 **** Primary
-***** Adventurer/Freelancer
-***** Investigator (Journalist, Detective, Special Agent)
-***** Low-grade super-hero/vilian
-***** Folclore creature (Vampire, Werewolf, Zombie, Ghost)
-***** Representative of power (Government, Secret organization, Corporation)
-***** Scientist/Engineer/Mechanic specialized in paranormal
-***** Illegal trader (Artifacts, Information, Weapons, Drugs)
+***** Adventurer/freelancer
+***** Investigator (journalist, detective, special agent)
+***** Low-grade (super-)hero/vilian
+***** Folclore creature (vampire, werewolf, zombie, ghost)
+***** Representative of power (boss at work, agent of government/secret organization/corporation)
+***** Scientist/engineer/mechanic specialized in paranormal
+***** Illegal trader (artifacts, information, weapons, drugs)
 ***** Rich gray-moral entrepreneur (Walter White, Tony Stark, Frank Underwood, Raymond Reddington)
 **** Secondary
-***** Corrupted government worker (Politician, Police, Judge)
-***** Secret organization member
+***** Corrupted worker (politician, policeman, judge, priest)
+***** Doctor/paramedic
+***** Permanently injured person (mentally or physically): PTSD, amnesia.
+***** Person with two lives / alter ego
 ***** Familiar/Pet from other side
-***** Doctor/Paramedic
-***** Injured person (mentally or physically): PTSD, amnesia.
 ***** Mindless mutant
 ***** Con artist
-***** Weirdness Magnet
-***** Powerful Being with alogical goals
+***** Weirdness magnet
+***** Dangerous prisoner
+***** Powerful being with alogical goals
 *** Stories
 **** Primary
 ***** Hired for Dangerous job
@@ -122,6 +123,7 @@ Tremendous influence on X-Files.
 Мы делаем «стартап» в незарегулированной опасной области.
 ***** Con
 ***** Damsel in distress
+***** «Случайный пассажир»
 **** Прочие
 ***** Последствия поступка
 ***** «Хочу и буду жить простой жизнью»
@@ -129,6 +131,7 @@ Tremendous influence on X-Files.
 - Мутант, который всеми силами пытается жить как обычный человек.
 *** Места действия
 **** Та сторона / параллельное измерение
+**** Отдел снабжения / лаборатория
 **** Городские джунгли
 Субурбия, бедные кварталы, богатые кварталы, заброшенный завод
 **** Аукцион артефактов
@@ -173,6 +176,7 @@ Tremendous influence on X-Files.
 **** Секретные организации
 **** Секреты: знаки, шифры, коды, пароли, дневники
 **** Полтергейст
+**** Dirty job
 *** Якоря реального мира
 **** Реальные места действия (города, страны, места)
 **** Известные фольклорные сущности
