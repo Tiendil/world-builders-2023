@@ -181,3 +181,5 @@ Ideal beauty/ugliness, wings, hooves, noticeable changes in the skin, breathing 
 *** Web series about other side news agency
 *** Game: the other side news agency managment
 *** Game: roguelike about researching the other side
+*** Game: tabletop about exploration
+*** Game: tabletop about investigation
