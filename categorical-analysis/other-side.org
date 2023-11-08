@@ -34,7 +34,6 @@ Low-grade superheroes: [[https://en.wikipedia.org/wiki/Jessica_Jones_(TV_series)
 ***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
 ***** [[https://en.wikipedia.org/wiki/Happy!_(TV_series)][Happy!]]                                                                    :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/American_Gods][American Gods]]                                                             :book:video_series:
-***** [[https://en.wikipedia.org/wiki/John_Constantine][John Constantine]]                                                          :movie:comics:
 ***** [[https://en.wikipedia.org/wiki/Fringe_(TV_series)][Fringe]]                                                                    :video_series:
 ***** [[https://en.wikipedia.org/wiki/Misfits_(TV_series)][Misfits]]                                                                   :video_series:
 ***** [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D. ]]                                                             :video_series:comics:
@@ -52,6 +51,7 @@ Like SCP Foundation.
 ***** [[https://en.wikipedia.org/wiki/Doom_Patrol_(TV_series)][Doom Patrol ]]                                                              :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/Wellington_Paranormal][Wellington Paranormal]]                                                     :video_series:
 ***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:video_series:
+***** [[https://en.wikipedia.org/wiki/John_Constantine][John Constantine]]                                                          :movie:comics:
 ***** [[https://en.wikipedia.org/wiki/Mononoke_(TV_series)][Mononoke]] don't confuse with "Princess Mononoke"                           :animation_series:
 ***** [[https://en.wikipedia.org/wiki/Blade_(1998_film)][Blade ]]                                                                    :movie:comics:
 ***** [[https://en.wikipedia.org/wiki/Watchmen_(film)][Watchmen]]                                                                  :movie:
