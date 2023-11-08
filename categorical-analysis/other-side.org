@@ -6,12 +6,12 @@
 
 ** Universe
 #+BEGIN_EXPORT html
-<img src="./other-side-4.png" style="width: 29em; display: inline-block;"/>
-<img src="./other-side-5.png" style="width: 29em; display: inline-block;"/>
-<img src="./other-side-6.png" style="width: 29em; display: inline-block;"/>
-<img src="./other-side-2.png" style="width: 29em; display: inline-block;"/>
-<img src="./other-side-3.png" style="width: 29em; display: inline-block;"/>
-<img src="./other-side-1.png" style="width: 29em; display: inline-block;"/>
+<img src="./other-side-4.jpg" style="width: 29em; display: inline-block;"/>
+<img src="./other-side-5.jpg" style="width: 29em; display: inline-block;"/>
+<img src="./other-side-6.jpg" style="width: 29em; display: inline-block;"/>
+<img src="./other-side-2.jpg" style="width: 29em; display: inline-block;"/>
+<img src="./other-side-3.jpg" style="width: 29em; display: inline-block;"/>
+<img src="./other-side-1.jpg" style="width: 29em; display: inline-block;"/>
 #+END_EXPORT
 
 - Science + witchcraft.
