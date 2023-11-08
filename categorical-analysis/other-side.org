@@ -143,8 +143,9 @@ Consequences of the past actions/mistakes.
 ***** Parallel dimension
 ***** Secret hideout
 ***** Laboratory/workshop/warehouse (legal/illegal/secret/abadoned/gigantic)
-***** Hospital
-***** Safehouse / neutral territory
+***** Hospital/psychiatric hospital
+***** Safehouse
+***** "Neutral" territory
 ***** Library
 **** Artifacts
 ***** Special military/force equipment
