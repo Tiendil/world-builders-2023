@@ -40,7 +40,7 @@ Low-grade superheroes: [[https://en.wikipedia.org/wiki/Jessica_Jones_(TV_series)
 But low-grade heroes.
 ***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss]]                                                             :animation_series:manga:video_game:movie:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Stranger_Things][Stranger Things]]                                                :video_series:
-***** [RESEARCH] [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control]]                                                        :game:
+***** [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control]]                                                        :game:
 Like SCP Foundation.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell ]]                                            :animation_series:movie:manga:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                        :video_game:
@@ -151,7 +151,7 @@ Consequences of the past actions/mistakes.
 **** Artifacts
 ***** Special military/force equipment
 ***** Investigator's equipment
-Mood board, clothes, notebook, pen, badge.
+Mood board, white board, clothes, notebook, pen, badge.
 ***** Ordinary thing that is an (cursed) artifact
 ***** Homemade equipment from artifacts
 ***** Map of the other side
