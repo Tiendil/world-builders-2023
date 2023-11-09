@@ -4,7 +4,6 @@
 
 [[https://github.com/Tiendil/world-builders-2023/blob/main/categorical-analysis/other-side.org][Source code]]
 
-** Universe
 #+BEGIN_EXPORT html
 <img src="./other-side-4.jpg" style="width: 29em; display: inline-block;"/>
 <img src="./other-side-5.jpg" style="width: 29em; display: inline-block;"/>
@@ -14,6 +13,11 @@
 <img src="./other-side-1.jpg" style="width: 29em; display: inline-block;"/>
 #+END_EXPORT
 
+** Universe
+
+*** One line
+
+*** Properties
 - Science + witchcraft.
 - Parallel dimension appears from collective unconscious.
 - Dimension and things from it change people physically and mentally.
@@ -24,7 +28,6 @@ Urban Legends with low-grade superheroes.
 *** Time
 Our time.
 *** References
-**** TODO Нужны ли бюджеты/оценки для основных референсов?
 **** Primary
 ***** [[https://en.wikipedia.org/wiki/The_X-Files][X-Files]]                                                                   :video_series:
 Without aliens.
