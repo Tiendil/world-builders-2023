@@ -16,6 +16,9 @@
 ** Universe
 *** One line
 The urban legends world with an open future which displays our fears and hopes in all their glory.
+*** Alternatives:
+- Urban legends about street-level heroes with display of our fears and hopes in all their glory.
+- Urban legends displaying our fears and hopes in all their glory.
 *** Properties
 - Science + witchcraft.
 - Parallel dimension appears from collective unconscious.
@@ -47,6 +50,7 @@ Like SCP Foundation.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell ]]                                            :animation_series:movie:manga:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                        :video_game:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Alan_Wake][Alan Wake]]                                                      :video_game:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Unbreakable_(film)][Unbreakable ]]                                                   :movie:
 **** Secondary
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://en.wikipedia.org/wiki/Mieruko-chan][Mieruko Chan ]]                                                             :manga:animation_series:
