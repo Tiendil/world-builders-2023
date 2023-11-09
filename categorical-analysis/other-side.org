@@ -14,9 +14,8 @@
 #+END_EXPORT
 
 ** Universe
-
 *** One line
-
+The urban legends world with an open future which displays civilization's fears and hopes in all their glory.
 *** Properties
 - Science + witchcraft.
 - Parallel dimension appears from collective unconscious.
