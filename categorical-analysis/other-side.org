@@ -16,10 +16,8 @@
 ** Universe
 *** One line
 The urban legends world with an open future which displays our fears, hopes and fantasies in all their glory.
-*** Alternatives:
-- Urban legends about street-level heroes with display of our fears and hopes in all their glory.
-- Urban legends displaying our fears and hopes in all their glory.
-- Street-level heroes in urban legends world with an open future which displays our fears and hopes in all their glory.
+*** Alternatives one-lines:
+- Urban legends about street-level heroes with stories about our fears, hopes and fantasies in all their glory.
 *** Properties
 - Science + witchcraft.
 - Parallel dimension appears from collective unconscious.
@@ -44,10 +42,8 @@ Low-grade superheroes: [[https://en.wikipedia.org/wiki/Jessica_Jones_(TV_series)
 ***** [[https://en.wikipedia.org/wiki/Misfits_(TV_series)][Misfits]]                                                                   :video_series:
 ***** [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D. ]]                                                             :video_series:comics:
 But low-grade heroes.
-***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss]]                                                             :animation_series:manga:video_game:movie:
+***** [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control ]]                                                                  :game:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Stranger_Things][Stranger Things]]                                                :video_series:
-***** [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control]]                                                        :game:
-Like SCP Foundation.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell ]]                                            :animation_series:movie:manga:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                        :video_game:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Alan_Wake][Alan Wake]]                                                      :video_game:
@@ -66,6 +62,7 @@ Like SCP Foundation.
 ***** [[https://en.wikipedia.org/wiki/First_Wave_(TV_series)][First Wave]]                                                                :video_series:
 ***** [[https://en.wikipedia.org/wiki/The_Blacklist_(TV_series)][The Blacklist ]]                                                            :video_series:
 ***** [[https://en.wikipedia.org/wiki/Sin_City_(film)][Sin City]]                                                                  :movie:
+***** [[https://en.wikipedia.org/wiki/Made_in_Abyss][Made in Abyss]]                                                             :animation_series:manga:video_game:movie:
 ***** [[https://en.wikipedia.org/wiki/Miss_Peregrine%27s_Home_for_Peculiar_Children_(film)][Miss Peregrine's Home for Peculiar Children  ]]                             :movie:
 ***** [[https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency_(TV_series)][Dirk Gently's Holistic Detective Agency  ]]                                 :video_series:
 ***** [[https://en.wikipedia.org/wiki/X-Men][X-Men]]                                                                     :comics:movie:video_series:animated_series:
@@ -74,7 +71,7 @@ Like SCP Foundation.
 ***** [[https://en.wikipedia.org/wiki/Metro_(franchise)][Metro 2033-x  ]]                                                            :video_game:book:
 ***** [[https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.][S.T.A.L.K.E.R. ]]                                                           :video_game:
 ***** [[https://en.wikipedia.org/wiki/Utopia_(British_TV_series)][Utopia ]]                                                                   :video_series:
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/Carnival_Row_(TV_series)][Carnival Row ]]                                                             :video_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/Carnival_Row_(TV_series)][Carnival Row ]]                                                  :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Spriggan_(manga)][Spriggan]]                                                       :animation_series:managa:movie:video_game:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Heroes_(American_TV_series)][Heroes]]                                                         :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_OA][The OA ]]                                                        :video_series:
@@ -91,21 +88,27 @@ Tremendous influence on X-Files.
 **** [[https://tiendil.github.io/world-builders-2023/categorical-analysis/references.html][Other references]] on a separate page.
 *** Heroes
 **** Primary
-***** Adventurer/freelancer
-***** Investigator (journalist, detective, special agent)
+***** Investigator (journalist, detective, special agent, advocate, lawyer)
+[[https://en.wikipedia.org/wiki/Fox_Mulder][Fox Mulder]], [[https://en.wikipedia.org/wiki/Dana_Scully][Dana Scully]], [[https://en.wikipedia.org/wiki/Jessica_Jones][Jessica Jones]], [[https://en.wikipedia.org/wiki/Jim_Gordon_(character)][Jim Gordon]], [[https://en.wikipedia.org/wiki/Harvey_Bullock_(character)][Harvey Bullock]], Nick Sax (Happy!)
 ***** Low-grade hero/villain (mutants, psychic)
-***** Folclore creature (vampire, werewolf, zombie, ghost)
+[[https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)][Daredevil]], [[https://en.wikipedia.org/wiki/Harley_Quinn][Harvey Quinn]], [[https://en.wikipedia.org/wiki/Punisher][Punisher]], Shadow Moon (American Gods)
+***** Adventurer/freelancer
+[[https://en.wikipedia.org/wiki/The_Lone_Gunmen][The Lone Gunmen]] (X-Files), [[https://en.wikipedia.org/wiki/Iron_Fist_(character)][Iron Fist]], [[https://en.wikipedia.org/wiki/Selina_Kyle_(Gotham_character)][Selina Kyle]]
 ***** Mentor/experienced leader
-***** Representative of power (boss at work, agent of government/secret organization/corporation)
-***** Puppeteer / Smoking man
+[[https://en.wikipedia.org/wiki/Phil_Coulson][Phil Coulson]], [[https://en.wikipedia.org/wiki/Walter_Skinner][Walter Skinner]], [[https://en.wikipedia.org/wiki/Alfred_Pennyworth][Alfred Pennyworth]]
+***** Puppeteer
+[[https://en.wikipedia.org/wiki/Cigarette_Smoking_Man][Smoking Man]], [[https://en.wikipedia.org/wiki/Riddler][Riddler]], [[https://en.wikipedia.org/wiki/List_of_The_Blacklist_characters#Raymond_Reddington][Raymond Reddington]], Mr. Wednesday (American Gods), [[https://en.wikipedia.org/wiki/Ra%27s_al_Ghul][Ra's al Ghul]]
 ***** Scientist/engineer/mechanic specialized in paranormal
-***** Illegal trader (artifacts, information, weapons, drugs)
-***** Gray-moral entrepreneur (Tony Stark, Raymond Reddington, Saul Goodman)
+[[https://en.wikipedia.org/wiki/Walter_Bishop_(Fringe)][Walter Bishop]], [[https://en.wikipedia.org/wiki/Leo_Fitz][Leo Fitz]], [[https://en.wikipedia.org/wiki/Jemma_Simmons][Jemma Simmons]]
+***** Folclore creature (vampire, werewolf, zombie, ghost)
+Mad Sweeney (American Gods), Happy
 **** Secondary
 ***** Corrupted worker (politician, policeman, judge, priest)
 ***** Mindless mutant
 ***** Lone wolf
 ***** Con artist
+***** Illegal trader (artifacts, information, weapons, drugs)
+***** Gray-moral entrepreneur (Tony Stark, Raymond Reddington, Saul Goodman)
 ***** Hacker
 ***** Doctor/paramedic
 ***** Person with two lives / alter ego
@@ -119,6 +122,7 @@ Tremendous influence on X-Files.
 ***** Priest/exorcist/cultist
 ***** Reformed villain
 ***** Spirit of the place (city, building, bridge, forest, etc.)
+***** Representative of power (boss at work, agent of government/secret organization/corporation)
 *** Stories
 **** Primary
 ***** Dangerous and dirty job to be done
