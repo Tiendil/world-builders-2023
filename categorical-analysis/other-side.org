@@ -93,24 +93,25 @@ Tremendous influence on X-Files.
 ***** Low-grade hero/villain (mutants, psychic)
 [[https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)][Daredevil]], [[https://en.wikipedia.org/wiki/Harley_Quinn][Harvey Quinn]], [[https://en.wikipedia.org/wiki/Punisher][Punisher]], Shadow Moon (American Gods)
 ***** Adventurer/freelancer
-[[https://en.wikipedia.org/wiki/The_Lone_Gunmen][The Lone Gunmen]] (X-Files), [[https://en.wikipedia.org/wiki/Iron_Fist_(character)][Iron Fist]], [[https://en.wikipedia.org/wiki/Selina_Kyle_(Gotham_character)][Selina Kyle]]
+[[https://en.wikipedia.org/wiki/The_Lone_Gunmen][The Lone Gunmen]] (X-Files), [[https://en.wikipedia.org/wiki/Iron_Fist_(character)][Iron Fist]], [[https://en.wikipedia.org/wiki/Selina_Kyle_(Gotham_character)][Selina Kyle]], Sorawo Kamikoshi (Otherside Picnic)
 ***** Mentor/experienced leader
 [[https://en.wikipedia.org/wiki/Phil_Coulson][Phil Coulson]], [[https://en.wikipedia.org/wiki/Walter_Skinner][Walter Skinner]], [[https://en.wikipedia.org/wiki/Alfred_Pennyworth][Alfred Pennyworth]]
 ***** Puppeteer
-[[https://en.wikipedia.org/wiki/Cigarette_Smoking_Man][Smoking Man]], [[https://en.wikipedia.org/wiki/Riddler][Riddler]], [[https://en.wikipedia.org/wiki/List_of_The_Blacklist_characters#Raymond_Reddington][Raymond Reddington]], Mr. Wednesday (American Gods), [[https://en.wikipedia.org/wiki/Ra%27s_al_Ghul][Ra's al Ghul]]
+[[https://en.wikipedia.org/wiki/Cigarette_Smoking_Man][Smoking Man]], [[https://en.wikipedia.org/wiki/Riddler][Riddler]], [[https://en.wikipedia.org/wiki/List_of_The_Blacklist_characters#Raymond_Reddington][Raymond Reddington]], Mr. Wednesday (American Gods), [[https://en.wikipedia.org/wiki/Ra%27s_al_Ghul][Ra's al Ghul]], [[https://en.wikipedia.org/wiki/Purple_Man][Purple Man]]
 ***** Scientist/engineer/mechanic specialized in paranormal
-[[https://en.wikipedia.org/wiki/Walter_Bishop_(Fringe)][Walter Bishop]], [[https://en.wikipedia.org/wiki/Leo_Fitz][Leo Fitz]], [[https://en.wikipedia.org/wiki/Jemma_Simmons][Jemma Simmons]]
+[[https://en.wikipedia.org/wiki/Walter_Bishop_(Fringe)][Walter Bishop]], [[https://en.wikipedia.org/wiki/Leo_Fitz][Leo Fitz]], [[https://en.wikipedia.org/wiki/Jemma_Simmons][Jemma Simmons]], [[https://en.wikipedia.org/wiki/Hugo_Strange][Hugo Strange]]
 ***** Folclore creature (vampire, werewolf, zombie, ghost)
-Mad Sweeney (American Gods), Happy
+Mad Sweeney (leprecon), Happy (imagenery friend), [[https://en.wikipedia.org/wiki/Solomon_Grundy_(character)][Solomon Grundy]] (zombie)
 **** Secondary
 ***** Corrupted worker (politician, policeman, judge, priest)
 ***** Mindless mutant
-***** Lone wolf
 ***** Con artist
 ***** Illegal trader (artifacts, information, weapons, drugs)
 ***** Gray-moral entrepreneur (Tony Stark, Raymond Reddington, Saul Goodman)
 ***** Hacker
+***** Representative of power (boss at work, agent of government/secret organization/corporation)
 ***** Doctor/paramedic
+[[https://en.wikipedia.org/wiki/Claire_Temple_(Marvel_Cinematic_Universe)][Clairy Temple]], [[https://en.wikipedia.org/wiki/Leslie_Thompkins][Leslie Thompkins]]
 ***** Person with two lives / alter ego
 ***** Permanently injured person (mentally or physically): PTSD, amnesia.
 ***** Familiar/pet from the other side
@@ -122,7 +123,6 @@ Mad Sweeney (American Gods), Happy
 ***** Priest/exorcist/cultist
 ***** Reformed villain
 ***** Spirit of the place (city, building, bridge, forest, etc.)
-***** Representative of power (boss at work, agent of government/secret organization/corporation)
 *** Stories
 **** Primary
 ***** Dangerous and dirty job to be done
