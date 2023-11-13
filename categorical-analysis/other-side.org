@@ -16,8 +16,6 @@
 ** Universe
 *** One line
 The urban legends world with an open future which displays our fears, hopes and fantasies in all their glory.
-*** Alternatives one-lines:
-- Urban legends about street-level heroes with stories about our fears, hopes and fantasies in all their glory.
 *** Properties
 - Science + witchcraft.
 - Parallel dimension appears from collective unconscious.
