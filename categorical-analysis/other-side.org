@@ -50,6 +50,7 @@ But low-grade heroes.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Unbreakable_(film)][Unbreakable ]]                                                   :movie:
 **** Secondary
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
+***** [[https://en.wikipedia.org/wiki/The_Craft_(film)][The Craft   ]]                                                              :movie:
 ***** [[https://en.wikipedia.org/wiki/Mieruko-chan][Mieruko Chan ]]                                                             :manga:animation_series:
 ***** [[https://en.wikipedia.org/wiki/Doom_Patrol_(TV_series)][Doom Patrol ]]                                                              :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/Wellington_Paranormal][Wellington Paranormal]]                                                     :video_series:
@@ -77,7 +78,6 @@ But low-grade heroes.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_OA][The OA ]]                                                        :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Lost_Room][The Lost Room   ]]                                               :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Gateway_(novel)][Gateway ]]                                                       :book:
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Craft_(film)][The Craft   ]]                                                   :movie:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Boys_(TV_series)][The Boys ]]                                                      :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/John_Wick_(franchise)][John Wick ]]                                                     :movie:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Dresden_Files_(TV_series)][The Dresden Files ]]                                             :video_series:book:
