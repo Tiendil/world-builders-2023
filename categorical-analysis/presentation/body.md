@@ -28,7 +28,7 @@ class: center, top
 
 ## Slightly Hyperbolic
 
-Hate is deeper, friendship is stronger, colors are brighter.
+Hate is deeper, friendship is stronger, hopes are brighter.
 
 <div style="display: flex; justify-content: space-between;">
     <img src="./hyperbolic-1.jpg" width="30%">
@@ -51,94 +51,43 @@ class: center, top
 
 ### References
 
-- `[video series]` X-Files <br/><small>Without aliens</small>
-- `[video series][comics]` Marvel's Netflix television series <br/><small>Jessica Jones, Daredevil, The Punisher</small>
-- `[video series]` Gotham TV series
-- `[anime series]` Otherside Picnic
-- `[video series][comics]` Happy!
-- `[video series][book]` American Gods
-- `[video series]` Fringe
-- `[video series]` Misfits
-- `[video series][comics]` S.H.I.E.L.D.
-- `[video game]` Control
+- X-Files `[video series]`<br/><small>Without aliens</small>
+- Marvel's Netflix television series `[video series][comics]`<br/><small>Jessica Jones, Daredevil, The Punisher</small>
+- Gotham TV series `[video series]`
+- Otherside Picnic `[anime series]`
+- Happy! `[video series][comics]`
+- American Gods `[video series][book]`
+- Fringe `[video series]`
+- Misfits `[video series]`
+- S.H.I.E.L.D. `[video series][comics]`
+- Control `[video game]`
 
 #### To research
 
-- `[video game]` Stranger Things
-- `[anime series][movie][manga]` Ghost in the Shell
-- `[video game]` Deus Ex
-- `[video game]` Alan Wake
-- `[movie]` Unbreakable
+- Stranger Things `[video game]`
+- Ghost in the Shell `[anime series][movie][manga]`
+- Deus Ex `[video game]`
+- Alan Wake `[video game]`
+- Unbreakable `[movie]`
 
 ---
 
 ## Heroes
 
-### Investigator
-Journalist, detective, special agent, advocate, lawyer.
-
-- [Fox Mulder](https://en.wikipedia.org/wiki/Fox_Mulder)
-- [Dana Scully](https://en.wikipedia.org/wiki/Dana_Scully)
-- [Jessica Jones](https://en.wikipedia.org/wiki/Jessica_Jones)
-- [Jim Gordon](https://en.wikipedia.org/wiki/Jim_Gordon_(character))
-- [Harvey Bullock](https://en.wikipedia.org/wiki/Harvey_Bullock_(character))
-- Nick Sax (Happy!)
-
----
-
-### Low-grade hero/villain
-Mutants, psychic.
-
-- [Daredevil](https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character))
-- [Harley Quinn](https://en.wikipedia.org/wiki/Harley_Quinn)
-- [Punisher](https://en.wikipedia.org/wiki/Punisher)
-- Shadow Moon (American Gods)
-
----
-
-### Adventurer/freelancer
-
-- [The Lone Gunmen](https://en.wikipedia.org/wiki/The_Lone_Gunmen) (X-Files)
-- [Iron Fist](https://en.wikipedia.org/wiki/Iron_Fist_(character))
-- [Selina Kyle](https://en.wikipedia.org/wiki/Selina_Kyle_(Gotham_character))
-- Sorawo Kamikoshi (Otherside Picnic)
-
----
-
-### Mentor/experienced leader
-
-- [Phil Coulson](https://en.wikipedia.org/wiki/Phil_Coulson)
-- [Walter Skinner](https://en.wikipedia.org/wiki/Walter_Skinner)
-- [Alfred Pennyworth](https://en.wikipedia.org/wiki/Alfred_Pennyworth)
-
----
-
-### Puppeteer
-
-- [Smoking Man](https://en.wikipedia.org/wiki/Cigarette_Smoking_Man)
-- [Riddler](https://en.wikipedia.org/wiki/Riddler)
-- [Raymond Reddington](https://en.wikipedia.org/wiki/List_of_The_Blacklist_characters#Raymond_Reddington)
-- Mr. Wednesday (American Gods)
-- [Ra's al Ghul](https://en.wikipedia.org/wiki/Ra%27s_al_Ghul)
-- [Purple Man](https://en.wikipedia.org/wiki/Purple_Man)
-
----
-
-### Scientist/engineer/mechanic specialized in paranormal
-
-- [Walter Bishop](https://en.wikipedia.org/wiki/Walter_Bishop_(Fringe))
-- [Leo Fitz](https://en.wikipedia.org/wiki/Leo_Fitz)
-- [Jemma Simmons](https://en.wikipedia.org/wiki/Jemma_Simmons)
-- [Hugo Strange](https://en.wikipedia.org/wiki/Hugo_Strange)
-
----
-
-### Folklore creature
-Vampire, werewolf, zombie, ghost.
-
-- Mad Sweeney (leprechaun)
-- Happy (imaginary friend)
-- [Solomon Grundy](https://en.wikipedia.org/wiki/Solomon_Grundy_(character)) (zombie)
+- **Investigator**: Journalist, detective, special agent, advocate, lawyer<br/>
+  <small>Fox Mulder, Dana Scully, Jessica Jones, Jim Gordon, Harvey Bullock, Nick Sax (Happy!)</small>
+- **Low-grade hero/villain**: mutants, psychics<br/>
+  <small>Daredevil, Harley Quinn, Punisher, Shadow Moon (American Gods)</small>
+- **Adventurer/freelancer**<br/>
+  <small>The Lone Gunmen (X-Files), Iron Fist, Selina Kyle, Sorawo Kamikoshi (Otherside Picnic)</small>
+- **Mentor/experienced leader**<br/>
+  <small>Phil Coulson, Walter Skinner, Alfred Pennyworth</small>
+- **Puppeteer**<br/>
+  <small>Smoking Man, Riddler, Raymond Reddington, Mr. Wednesday (American Gods), Ra's al Ghul, Purple Man</small>
+- **Scientist/engineer/mechanic specialized in paranormal**<br/>
+  <small>Walter Bishop, Leo Fitz, Jemma Simmons, Hugo Strange</small>
+- **Folklore creature**: Vampire, werewolf, zombie, ghost
+  <small>Mad Sweeney (leprechaun), Happy (imaginary friend), Solomon Grundy (zombie)</small>
 
 ---
 
@@ -154,11 +103,11 @@ Vampire, werewolf, zombie, ghost.
 - City bands/cults fighting for control over the city
 - Adapting to paranormal / taming new powers
 
+.center[<img src="./stories-1.jpg" style="height: 17rem;">]
+
 ---
 
-## Signs
-
-### Locations
+## Locations
 - Concrete jungles
 - Business/editorial/detective office
 - Parallel dimension
@@ -169,50 +118,70 @@ Vampire, werewolf, zombie, ghost.
 - "Neutral" territory
 - Library
 
+.center[<img src="./locations-1.jpg" style="height: 17rem;">]
+
 ---
 
-### Artifacts
+## Artifacts
 - Special military/force equipment
-- Investigator's equipment
-- Ordinary thing that is an (cursed) artifact
+- Investigator's equipment<br/>
+  <small>mood board, clothes, notebook, badge</small>
+- Ordinary thing that is an artifact
 - Homemade equipment from artifacts
 - Map of the other side
 - Hi-tech implants
 - Superpower drugs
-- Legendary artifact
+- Legendary artifact<br/>
+  <small>Holy Grail, Philosopher's Stone, Excalibur, etc.</small>
 - Computers with AI based on artifacts
+
+.center[<img src="./artifacts-1.jpg" style="height: 15rem;">]
 
 ---
 
-### Biological anomalies
+## Biological anomalies
 - Acquired deformities
-- Small mutations
-- Manifestations of the paranormal
+- Small mutations<br/>
+  <small>fangs, increased hairiness, horns, tail</small>
+- Manifestations of the paranormal<br/>
+  <small>ideal beauty, wings, hooves, ghost body</small>
 - Strong allergy on something
 - Prostheses/body built with artifacts
 - Genetic heritage of mutations
 
----
-
-### Psychological anomalies
+.center[<img src="./byology-1.jpg" style="height: 19rem;">]
 
 ---
 
-### Other
+## Psychological anomalies
+
+- Popular mental disorders
+- Hallucinations
+- Obsession
+- Addiction
+
+.center[<img src="./psychological-1.jpg" style="height: 25rem;">]
+
+---
+
+## Other signs
 - Gray morality
 - A Price to pay for a power/wish
 - Technology based on artifacts
 - Physical/logical anomalies
 - Dark market
 - Secret organizations
-- Bureaucracy attributes
+- Bureaucracy attributes<br/>
+  <small>papers, outdated equipment, old cars, old buildings</small>
 - Portals
-- Secrets
+- Secrets<br/>
+  <small>signs, ciphers, codes, passwords, diaries</small>
 - Access levels
 - Police cordons
 - Military operations
 - Special transport
-- Life of a "Pirate Ship"
+- Life of a "Pirate Ship"<br/>
+  <small>days of the FBI, newspaper editorial office, detective agency.</small>
 - Collective consciousness breakthrough into the real world
 
 ---
