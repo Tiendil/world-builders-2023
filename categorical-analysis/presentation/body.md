@@ -74,7 +74,7 @@ class: center, top
 
 ## Heroes
 
-- **Investigator**: Journalist, detective, special agent, advocate, lawyer<br/>
+- **Investigator**: journalist, detective, special agent, advocate, lawyer<br/>
   <small>Fox Mulder, Dana Scully, Jessica Jones, Jim Gordon, Harvey Bullock, Nick Sax (Happy!)</small>
 - **Low-grade hero/villain**: mutants, psychics<br/>
   <small>Daredevil, Harley Quinn, Punisher, Shadow Moon (American Gods)</small>
@@ -86,7 +86,7 @@ class: center, top
   <small>Smoking Man, Riddler, Raymond Reddington, Mr. Wednesday (American Gods), Ra's al Ghul, Purple Man</small>
 - **Scientist/engineer/mechanic specialized in paranormal**<br/>
   <small>Walter Bishop, Leo Fitz, Jemma Simmons, Hugo Strange</small>
-- **Folklore creature**: Vampire, werewolf, zombie, ghost
+- **Folklore creature**: vampire, werewolf, zombie, ghost
   <small>Mad Sweeney (leprechaun), Happy (imaginary friend), Solomon Grundy (zombie)</small>
 
 ---
