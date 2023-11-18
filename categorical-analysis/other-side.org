@@ -154,8 +154,7 @@ Consequences of the past actions/mistakes.
 ***** Secret hideout
 ***** Laboratory/workshop/warehouse (legal/illegal/secret/abadoned/gigantic)
 ***** Hospital/psychiatric hospital
-***** Safehouse
-***** "Neutral" territory
+***** Safehouse/"neutral" territory
 ***** Library
 **** Artifacts
 ***** Special military/force equipment
