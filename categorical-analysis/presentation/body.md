@@ -9,14 +9,14 @@ The urban legends world with an open future which displays our fears, hopes, and
 ---
 class: center, top
 
-## Our time / nearest future
+## Our time
 
 <img src="./our-time.jpg" style="height: 20em;">
 
 ---
 class: center, top
 
-## Open future
+## Civilization at a crossroads
 
 <div style="display: flex; justify-content: space-between;">
     <img src="./open-future-1.jpg" width="45%">
@@ -54,13 +54,13 @@ class: center, top
 - X-Files `[video series]`<br/><small>Without aliens</small>
 - Marvel's Netflix television series `[video series][comics]`<br/><small>Jessica Jones, Daredevil, The Punisher</small>
 - Gotham TV series `[video series]`
-- Otherside Picnic `[anime series]`
-- Happy! `[video series][comics]`
 - American Gods `[video series][book]`
+- Happy! `[video series][comics]`
 - Fringe `[video series]`
 - Misfits `[video series]`
 - S.H.I.E.L.D. `[video series][comics]`
 - Control `[video game]`
+- Otherside Picnic `[anime series]`
 
 #### To research
 
