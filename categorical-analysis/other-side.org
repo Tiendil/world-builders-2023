@@ -33,9 +33,8 @@ Without aliens.
 ***** [[https://en.wikipedia.org/wiki/Marvel%27s_Netflix_television_series][Marvel's Netflix television series]]                                        :video_series:comics:
 Low-grade superheroes: [[https://en.wikipedia.org/wiki/Jessica_Jones_(TV_series)][Jessica Jones]], [[https://en.wikipedia.org/wiki/Daredevil_(TV_series)][Daredevil]], [[https://en.wikipedia.org/wiki/Iron_Fist_(TV_series)][Iron Fist]], [[https://en.wikipedia.org/wiki/The_Defenders_(miniseries)][The Defenders]], [[https://en.wikipedia.org/wiki/The_Punisher_(TV_series)][The Punisher]], [[https://en.wikipedia.org/wiki/Luke_Cage_(TV_series)][Luke Cage]]
 ***** [[https://en.wikipedia.org/wiki/Gotham_(TV_series)][Gotham TV series]]                                                          :video_series:
-***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
-***** [[https://en.wikipedia.org/wiki/Happy!_(TV_series)][Happy!]]                                                                    :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/American_Gods][American Gods]]                                                             :book:video_series:
+***** [[https://en.wikipedia.org/wiki/Happy!_(TV_series)][Happy!]]                                                                    :video_series:comics:
 ***** [[https://en.wikipedia.org/wiki/Fringe_(TV_series)][Fringe]]                                                                    :video_series:
 ***** [[https://en.wikipedia.org/wiki/Misfits_(TV_series)][Misfits]]                                                                   :video_series:
 ***** [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D. ]]                                                             :video_series:comics:
@@ -46,6 +45,7 @@ But low-grade heroes.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                        :video_game:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Alan_Wake][Alan Wake]]                                                      :video_game:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Unbreakable_(film)][Unbreakable ]]                                                   :movie:
+***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
 **** Secondary
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://en.wikipedia.org/wiki/The_Craft_(film)][The Craft   ]]                                                              :movie:
