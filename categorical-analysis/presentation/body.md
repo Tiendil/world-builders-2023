@@ -114,8 +114,7 @@ class: center, top
 - Secret hideout
 - Laboratory/workshop/warehouse
 - Hospital/psychiatric hospital
-- Safehouse
-- "Neutral" territory
+- Safehouse/"neutral" territory
 - Library
 
 .center[<img src="./locations-1.jpg" style="height: 17rem;">]
