@@ -2,7 +2,7 @@ class: center, top
 
 # Other Side
 
-The urban legends world with an open future which displays our fears, hopes, and fantasies in all their glory.
+The urban legends world with an open future which displays our fears, hopes, and fantasies in all their variety.
 
 <img src="./main.jpg" style="width: 20em; height: 20em;"/>
 
