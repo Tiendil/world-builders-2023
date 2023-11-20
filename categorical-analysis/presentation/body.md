@@ -4,14 +4,33 @@ class: center, top
 
 The urban legends world with an open future which displays our fears, hopes, and fantasies in all their glory.
 
-<img src="./main.jpg" style="width: 20em; height: 20em;">
+<img src="./main.jpg" style="width: 20em; height: 20em;"/>
 
 ---
 class: center, top
 
 ## Our time
 
-<img src="./our-time.jpg" style="height: 20em;">
+<img src="./our-time.jpg" style="height: 20em;"/>
+
+---
+class: center, top
+
+## Collective subconscious breaks into reality
+
+<img src="./collective-subconscious-01.jpg" style="height: 20em;"/>
+
+---
+class: center, top
+
+## Science & Paranormal change people
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="./science-and-paranormal-1.jpg" width="30%" style="margin-bottom: 5em;"/>
+    <img src="./science-and-paranormal-3.jpg" width="30%" style="margin-top: 5em;"/>
+    <img src="./science-and-paranormal-2.jpg" width="30%" style="margin-bottom: 5em;"/>
+</div>
+
 
 ---
 class: center, top
@@ -19,8 +38,8 @@ class: center, top
 ## Civilization at a crossroads
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="./open-future-1.jpg" width="45%">
-    <img src="./open-future-2.jpg" width="45%">
+    <img src="./open-future-1.jpg" width="45%"/>
+    <img src="./open-future-2.jpg" width="45%"/>
 </div>
 
 ---
@@ -31,20 +50,9 @@ class: center, top
 Hate is deeper, friendship is stronger, hopes are brighter.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="./hyperbolic-1.jpg" width="30%">
-    <img src="./hyperbolic-2.jpg" width="30%">
-    <img src="./hyperbolic-3.jpg" width="30%">
-</div>
-
----
-class: center, top
-
-## Science & Paranormal change people
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="./science-and-paranormal-1.jpg" width="30%" style="margin-bottom: 5em;">
-    <img src="./science-and-paranormal-3.jpg" width="30%" style="margin-top: 5em;">
-    <img src="./science-and-paranormal-2.jpg" width="30%" style="margin-bottom: 5em;">
+    <img src="./hyperbolic-1.jpg" width="30%"/>
+    <img src="./hyperbolic-2.jpg" width="30%"/>
+    <img src="./hyperbolic-3.jpg" width="30%"/>
 </div>
 
 ---
