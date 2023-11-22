@@ -40,12 +40,13 @@ Low-grade superheroes: [[https://en.wikipedia.org/wiki/Jessica_Jones_(TV_series)
 ***** [[https://en.wikipedia.org/wiki/S.H.I.E.L.D.][S.H.I.E.L.D. ]]                                                             :video_series:comics:
 But low-grade heroes.
 ***** [[https://store.steampowered.com/app/870780/Control_Ultimate_Edition/][Control ]]                                                                  :game:
+***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Stranger_Things][Stranger Things]]                                                :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell][Ghost in the Shell ]]                                            :animation_series:movie:manga:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Deus_Ex][Deus Ex]]                                                        :video_game:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Alan_Wake][Alan Wake]]                                                      :video_game:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Unbreakable_(film)][Unbreakable ]]                                                   :movie:
-***** [[https://en.wikipedia.org/wiki/Otherside_Picnic][Otherside Picnic ]]                                                         :manga:animation_series:
+***** [RESEARCH] [[https://en.wikipedia.org/wiki/A_Master_of_Djinn][A Master of Djinn]]                                              :book:
 **** Secondary
 ***** [[https://scp-wiki.wikidot.com/][SCP Foundation]]                                                            :game:
 ***** [[https://en.wikipedia.org/wiki/The_Craft_(film)][The Craft   ]]                                                              :movie:
