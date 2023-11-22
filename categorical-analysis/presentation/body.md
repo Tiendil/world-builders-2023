@@ -206,5 +206,5 @@ Hate is deeper, friendship is stronger, hopes are brighter.
 ## Conflicts
 
 1. Old ways vs new ways<br/><small>Civilization on the edge of phase shift because of disruptive changes</small>
-2. Institutions & organizations vs each other
-3. Personal-level conflicts
+2. Institutions & organizations fight over control on society.<br/><small>Nobody should take total advantage</small>
+3. Personal-level conflicts<br/><small>How almost common people deal with the changes.</small>
