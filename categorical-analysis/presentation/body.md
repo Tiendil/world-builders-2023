@@ -200,3 +200,11 @@ Hate is deeper, friendship is stronger, hopes are brighter.
 - Corruption
 - Equality
 - Diversity
+
+---
+
+## Conflicts
+
+1. Old ways vs new ways: civilization on the edge of phase shift because of disruptive changes
+2. Institutions & organizations vs each other
+3. Personal-level conflicts
