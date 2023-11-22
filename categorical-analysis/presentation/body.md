@@ -153,7 +153,7 @@ Hate is deeper, friendship is stronger, hopes are brighter.
 - Manifestations of the paranormal<br/>
   <small>ideal beauty, wings, hooves, ghost body</small>
 - Strong allergy on something
-- Prostheses/body built with artifacts
+- Prostheses/body built with artifacts/technologies
 - Genetic heritage of mutations
 
 .center[<img src="./byology-1.jpg" style="height: 19rem;">]
@@ -196,7 +196,7 @@ Hate is deeper, friendship is stronger, hopes are brighter.
 ## Real world anchors
 - Real places
 - Folklore creatures
-- Memes as the modern folklore / manifestation of paranormal
+- Memes and trends as the manifestation of paranormal
 - Corruption
 - Equality
 - Diversity
