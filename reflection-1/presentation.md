@@ -1,28 +1,33 @@
 class: top
 
-# Aliaksei Yaletski (Tiendil)
+# Елецкий Алексей (Tiendil)
 
 <img src="./avatara.jpg" style="height: 20em; float: right;"/>
 
 - Занимаюсь разработкой ПО:
-  - программированием/лидством
-  - всем остальным тоже, но чуть меньше
-- Пишу блог о разработке игр, мышлении и книгах
-- Хочу делать собственные полезные продукты и зарабатывать на них деньги
-- В программе потому что хочу подтянуть скилы, она пересекается с моими интересами, одну IP уже сделал, почему бы не попробовать сделать следующую круче.
+  - программированием/лидством;
+  - всем остальным тоже, но чуть меньше;
+  - в основном бэкенд и геймдев.
+- Веду блог о разработке игр, мышлении и книгах.
+- Хочу делать собственные полезные продукты и зарабатывать на них деньги.
+- В программе потому что:
+  - хочу подтянуть скилы;
+  - она пересекается с моими интересами и планами;
+  - почему бы и нет — одну "IP" уже сделал, следующая должна выйти лучше.
+
+<!-- Написать 3 предложения о себе. "Занимаюсь/увлекаюсь [тем-то], когда вырасту хочу делать [то-то], в программе потому что [вот так вот]".   -->
 
 ---
 class: top
 
 # Other Side Universe
 
-The urban legends world with an open future which displays our fears, hopes, and fantasies in all their variety
+The urban legends world with an open future which displays our fears, hopes, and fantasies in all their variety.
 
-- our time
-- Collective subconscious breaks into reality
-- Science & Paranormal change people
-- Civilization at a crossroads
-- Slightly Hyperbolic Hate is deeper, friendship is stronger, hopes are brighter.
+- Our time.
+- Collective subconscious breaks into reality.
+- Science & Paranormal change people.
+- Conflicts built around reogranization of institutions, organizations and society.
 
 <!-- Слайд 2: Написать одно-два предложения про то самое за что мы бились на прошлой неделе "что за парк я строю и какой в нем главный аттракцион". "Я строю Sci-Fi вселенную в недалеком будущем, в которую из пространственно-временной аномалии постоянно валится всякая дичь".-->
 
@@ -31,8 +36,8 @@ class: top
 
 # Путь идеи
 
-1. Изначальная идея: нагенерировать идей и продуктов, итерационно выбрать лучшие
-2. После фидбека объединил идеи в одну вселенную
+1. Изначальная идея: создать нескольо вариантов вселенных и продуктов, выбрать лучшие.
+2. После фидбека объединил идеи в одну вселенную.
 3. Итерационно убрал лишнее, добавил нужное.
 4. ????
 5. Profit
