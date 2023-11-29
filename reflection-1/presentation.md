@@ -29,10 +29,10 @@ class: top
 
 The urban legends world with an open future which displays our fears, hopes, and fantasies in all their variety.
 
-- Our time.
-- Collective subconscious breaks into reality.
-- Science & Paranormal change people.
-- Conflicts built around reogranization of institutions, organizations and society.
+- Наше время.
+- Коллективное подсознательное прорывается в реальный мир.
+- Наука и паранормальное меняют людей.
+- Цивилизация адаптируется к новой реальности.
 
 <!-- Слайд 2: Написать одно-два предложения про то самое за что мы бились на прошлой неделе "что за парк я строю и какой в нем главный аттракцион". "Я строю Sci-Fi вселенную в недалеком будущем, в которую из пространственно-временной аномалии постоянно валится всякая дичь".-->
 
