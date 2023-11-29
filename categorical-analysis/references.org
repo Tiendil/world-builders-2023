@@ -28,6 +28,9 @@
 ** [[https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray][The Picture of Dorian Gray   ]]                                                :book:
 ** [[https://en.wikipedia.org/wiki/Zodiac_(film)][Zodiac]]                                                                       :movie:
 ** [[https://en.wikipedia.org/wiki/The_Ring_(franchise)][The Ring   ]]                                                                  :movie:manga:books:video_series:
+* Paranormal
+** [[https://en.wikipedia.org/wiki/The_OA][The OA ]]                                                                      :video_series:
+** [[https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)][The Fall of the House of Usher ]]                                              :video_series:
 * Прозапас
 ** [[https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell][Jonathan Strange & Mr Norrell  ]]                                              :book:video_series:
 ** [[https://en.wikipedia.org/wiki/Being_Human_(North_American_TV_series)][Being Human]]                                                                  :video_series:

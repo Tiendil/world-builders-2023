@@ -74,7 +74,6 @@ But low-grade heroes.
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Carnival_Row_(TV_series)][Carnival Row ]]                                                  :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Spriggan_(manga)][Spriggan]]                                                       :animation_series:managa:movie:video_game:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Heroes_(American_TV_series)][Heroes]]                                                         :video_series:
-***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_OA][The OA ]]                                                        :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Lost_Room][The Lost Room   ]]                                               :video_series:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/Gateway_(novel)][Gateway ]]                                                       :book:
 ***** [RESEARCH] [[https://en.wikipedia.org/wiki/The_Boys_(TV_series)][The Boys ]]                                                      :video_series:
