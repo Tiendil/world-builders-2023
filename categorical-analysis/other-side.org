@@ -15,12 +15,13 @@
 
 ** Universe
 *** One line
-The urban legends world with an open future which displays our fears, hopes and fantasies in all their glory.
+The urban legends world with an open future which displays our fears, hopes, and fantasies in all their variety.
 *** Properties
-- Science + witchcraft.
-- Parallel dimension appears from collective unconscious.
-- Dimension and things from it change people physically and mentally.
-- Folclore is an early manifestations of the dimension.
+- Our time.
+- Collective subconscious breaks into reality.
+- Science & Paranormal change people.
+- Civilization at a crossroads.
+- Slightly Hyperbolic: hate is deeper, friendship is stronger, hopes are brighter.
 ** Setting
 *** Meta
 Urban Legends with low-grade superheroes.
@@ -177,6 +178,10 @@ Ideal beauty/ugliness, wings, hooves, noticeable changes in the skin, breathing 
 ***** Prostheses/body built with artifacts
 ***** Genetic heritage of mutations
 **** Psychological anomalies
+*****  Popular mental disorders
+***** Hallucinations
+***** Obsessions
+***** Addiction
 **** Other
 ***** Gray morality
 ***** A Price to pay for a power/wish
@@ -201,10 +206,10 @@ Days of the FBI, newspaper editorial office, detective agency.
 **** Corruption
 **** Equality
 **** Diversity
-** Products
-*** Web series about other side news agency
-*** Game: the other side news agency managment
-*** Game: roguelike about researching the other side
-*** Game: tabletop about exploration
-*** Game: tabletop about investigation
-*** Game: Journalism MMO
+*** Conflicts
+**** Old ways vs new ways
+Civilization on the edge of phase shift because of disruptive changes.
+**** Institutions & organizations fight over control on society.
+Nobody should take total advantage.
+**** Personal-level conflicts
+How almost common people deal with the changes.
