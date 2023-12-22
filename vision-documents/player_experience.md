@@ -12,6 +12,8 @@
 
 # Player actions
 
+Vibe of the world:
+
 ## Workers interaction
 
 - hire inverstigator
@@ -62,6 +64,7 @@
 - review expected changes in newspaper popularity
 - review expected changes of public opinion
 - review expected changes in actors relations
+- review expected changes in organizations relations
 - publish newspaper
 - accept advertisement to publish
 - accept braib for hiding news
@@ -74,6 +77,7 @@
 - review current public opinion in the city
 - review current public opinion in the districts
 - review current actors relations
+- review current organizations relations
 - bargain with actors
 - make alliance with actor
 - declare "war" to actor
@@ -94,6 +98,8 @@
 
 ## Paranormal
 
+- research artifact
+- read record of artifact in the catalog
 - sell artifact
 - give artifact to investigator
 - use artifacts
