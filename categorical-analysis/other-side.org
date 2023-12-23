@@ -57,6 +57,7 @@ But low-grade heroes.
 ***** [[https://en.wikipedia.org/wiki/Warehouse_13][Warhouse 13]]                                                               :video_series:video_series:
 ***** [[https://en.wikipedia.org/wiki/John_Constantine][John Constantine]]                                                          :movie:comics:
 ***** [[https://en.wikipedia.org/wiki/Mononoke_(TV_series)][Mononoke]] don't confuse with "Princess Mononoke"                           :animation_series:
+***** [[https://en.wikipedia.org/wiki/Lockwood_%26_Co._(TV_series)][Lockwood & Co.]]                                                            :video_series:
 ***** [[https://en.wikipedia.org/wiki/Blade_(1998_film)][Blade ]]                                                                    :movie:comics:
 ***** [[https://en.wikipedia.org/wiki/Watchmen_(film)][Watchmen]]                                                                  :movie:
 ***** [[https://en.wikipedia.org/wiki/Torchwood][Torchwood]]                                                                 :video_series:
