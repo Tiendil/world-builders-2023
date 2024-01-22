@@ -1,0 +1,69 @@
+
+* World
+
+** Semantic neighbourhood analysis: https://tiendil.github.io/world-builders-2023/categorical-analysis/presentation/index.html
+
+** In a few words
+
+*** The urban legends world with an open future which displays our fears, hopes, and fantasies in all their variety.
+
+*** A near future mystic sci-fi world on the edge of crisis where government, media, secret organizations, and business clash over mysteries and anomalies that started to manifest themselves more frequently than anybody would want.
+
+** Top references
+
+- X-Files
+- American Gods
+- Marvel's Netflix television series
+- Gotham TV series
+- Happy!
+
+** Heroes: Investigator, Low-grade hero/villain, Puppeteer
+
+** Stories:
+- Investigation of the anomaly incident(s)
+- Expedition to the unknown / treasure hunting
+- Vigilantes vs criminals
+- Conspiracy vs publicity
+- Con
+- City bands/cults fighting for control over the city
+- Adapting to paranormal / taming new powers
+
+** Mechanics
+
+- Paranormal as manifistation of collective subconscious
+- Paranormal & Science radically changing the world
+- Every received advantage has a bigger price
+- Social institutions are on the edge of collapse
+- Peoples characters are slightly above average: Hate is deeper, friendship is stronger, hopes are brighter.
+- Adapt or lose.
+
+** Conflicts
+
+1. Old ways vs new ways. Civilization on the edge of phase shift because of disruptive changes.
+2. Institutions & organizations fight over control on society. Nobody should take total advantage.
+3. Personal-level conflicts. How almost common people deal with the changes.
+
+* Game
+
+** Vision: https://miro.com/app/board/uXjVNHD9gRQ=/
+
+** News agency manager
+
+*** Steam, singleplayer
+
+*** story-driven tycoon/strategy game
+
+**** Stories will introduce significant actors
+
+**** Management will teach the rules of the world.
+
+*** References:
+
+- This Is Police
+- Frostpunk
+
+** In a few words
+
+*** Manage the city newspaper, undertaking investigations of the mysteries and anomalies, making decisions to publish (or not) things you’ve uncovered, and dealing with the consequences in the form of legal, criminal, political, mystical and public pressure.
+
+** Loop: ->investigate->publish->adapt->
