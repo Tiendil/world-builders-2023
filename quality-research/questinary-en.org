@@ -23,10 +23,11 @@
 **** How much time do you spend on games per week?
 
 **** How much do you "give it your all" when playing games?
+***** How much effort do you spend when playing?
 
 **** Most favorite games
 
-**** What tycoon / economic / managerial games have you played recently?
+**** What tycoon / economic / management games have you played recently?
 
 ** Perception of the genre as a whole
 
@@ -114,17 +115,17 @@ Mechanics: send reporters on assignments for stories (artifacts, compromising ma
 
 *** How would your "game day" go?
 
-*** What needs to change between approaches to the game / sessions for you to want to return and start the game again?
+*** What changes do you expect between game sessions to return and start the game again?
 
-*** Never do this in this game...
+*** Never make in this game...
 
-*** Just for me, do this cool thing in this game...
+*** Just for me, implement this cool thing...
 
 *** Just for me, make this kind of story...
 
-*** I would buy this game if it had...
+*** I would buy this game if it has...
 
-*** I would decide to try a demo / pirate it, if it had...
+*** I would decide to try a demo, if it has...
 
 ** Retrospective questions
 
@@ -132,7 +133,7 @@ Mechanics: send reporters on assignments for stories (artifacts, compromising ma
 
 *** Would it be interesting to learn more about the world of the game?
 
-*** Do you have acquaintances whom you would recommend such a game?
+*** Do you have friends whom you could recommend such a game?
 
 *** If you were playing the game with someone
 
