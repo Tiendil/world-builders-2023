@@ -1,0 +1,146 @@
+* Questions we want to answer or gain insights on
+
+* Intro
+- There are no right/wrong answers, your personal opinion is important
+
+- You can answer inaccurately, you can fantasize, etc.
+
+- You don't need to think long about the answer, the first-second thing that comes to mind
+
+* Cheat sheet
+** Social profile of the respondent
+
+*** Age
+
+*** What do you do in life
+
+*** Describe your gaming experience
+
+**** How many years have you been playing games?
+
+**** What games have you played in the last year
+
+**** How much time do you spend on games per week?
+
+**** How much do you "give it your all" when playing games?
+***** How much effort do you spend when playing?
+
+**** Most favorite games
+
+**** What tycoon / economic / management games have you played recently?
+
+** Perception of the genre as a whole
+
+*** What is a tycoon of something
+
+**** When you hear about a management simulator:
+
+***** what games come to mind?
+
+***** what types of organizations come to mind?
+
+**** Remember the most memorable game mechanics from tycoon / economic games, or a story that happened to you in such a game
+
+*** What is a tycoon with a story / with RPG elements
+
+**** When you hear about a strong role of the story in tycoon:
+
+***** what stories come to mind?
+
+***** what games come to mind?
+
+**** What should be the role of the story in the game for you to be interested in playing?
+
+**** What is more interesting for you: one big story vs many small stories vs several medium ones?
+
+**** Remember the most memorable plot moment in a game (priority: tycoon, strategy, any game)
+
+**** The most memorable moment caused by mechanics in the game (priority: tycoon, strategy, any game)
+
+** Perception of the game before the description of mechanics and world
+
+*** If we are making a game about a news agency in the modern world:
+
+**** The agency should be: a newspaper, TV news, a news portal, a YouTube channel, a Telegram channel, something else?
+
+***** What are the differences between the two-three chosen options?
+
+**** What out of these would be the most interesting for you to play
+
+***** most interesting
+
+***** least interesting
+
+*** If you were playing as the chief editor of a newspaper / website
+
+**** What would you consider an achievement by winning/completing such a game?
+
+**** What decisions, as the chief editor, would you make?
+
+**** How do you see the preparation of a news release (newspaper, portal, or whatever the respondent chooses)
+
+**** What things would you need to balance to manage X?
+
+** Description of the game and world
+
+Our time, paranormal phenomena begin to emerge, for paranormal abilities usually a higher price than for advantages, society and institutions are shaking (aka the 90s)
+
+Paranormal phenomena: a world of weak heroes, artifacts give small powers but affect mental and physical health, the more people believe in something, the stronger it is
+
+References: X-Files, American Gods, Marvel's Netflix television series, Gotham TV series, Happy!
+
+Main cycle: ->investigate->publish->adapt->
+
+Mechanics: send reporters on assignments for stories (artifacts, compromising material, new employees), choose what and how to tell in the news, change public opinion about different things, popularity of the newspaper in different areas of the city, the attitude of corporations to the newspaper, suffering from the consequences of all this.
+
+** Perception of the game after the description of mechanics and world
+
+*** What from the description looks unclear or uninteresting to you?
+
+*** What did I forget to mention that could make the game or world more interesting?
+
+*** What similar games come to your mind?
+
+*** Suggest a couple of interesting headlines for reports in such a game
+
+*** List the qualities of the story/stories for such a game in short definitions (funny, realistic, fast, deep, etc.)
+
+*** What specific decisions would you have to make, being an editor in such a world?
+
+*** How would your decisions as an editor affect
+
+**** the external world
+
+**** the organization
+
+*** How would your "game day" go?
+
+*** What changes do you expect between game sessions to return and start the game again?
+
+*** Never make in this game...
+
+*** Just for me, implement this cool thing...
+
+*** Just for me, make this kind of story...
+
+*** I would buy this game if it has...
+
+*** I would decide to try a demo, if it has...
+
+** Retrospective questions
+
+*** Does the emerging picture of the game look interesting to you?
+
+*** Would it be interesting to learn more about the world of the game?
+
+*** Do you have friends whom you could recommend such a game?
+
+*** If you were playing the game with someone
+
+**** Who could it be?
+
+**** What role would you give him/her?
+
+**** How would you interact?
+
+*** Any of your thoughts after the conversation
