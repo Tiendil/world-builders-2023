@@ -51,7 +51,7 @@
 
 *** Steam, singleplayer
 
-*** story-driven tycoon/strategy game
+*** tycoon/strategy game with RPG elements and stories
 
 **** Stories will introduce significant actors
 
@@ -67,3 +67,33 @@
 *** Manage the city newspaper, undertaking investigations of the mysteries and anomalies, making decisions to publish (or not) things you’ve uncovered, and dealing with the consequences in the form of legal, criminal, political, mystical and public pressure.
 
 ** Loop: ->investigate->publish->adapt->
+
+* Mechanic requirements
+
+** Emergent mechanics — must have.
+
+** Customizable starting conditions.
+
+** Materials from different sources: journalists, informers, police, government, readers (common people), etc.
+
+** Time-pressing is a general requirement for strategies and tycoons.
+
+** Editor MUST be able to change public opinion => change the world state.
+
+* Stories requirements
+
+** Mechanics first, stories second.
+
+** Emergent stories in background, based on changing of the world state by mechanics.
+
+** Reaction on player's actions in form of letters from readers.
+
+** Stories must be variable / non-linear.
+
+* Implementation requirements
+
+** Moddable.
+
+* Not To Do
+
+** Gonzo Journalism is for RPG, not for tycoon. <- the idea for the future.
