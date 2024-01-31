@@ -70,6 +70,8 @@
 
 * Mechanic requirements
 
+** Singleplayer
+
 ** Emergent mechanics — must have.
 
 ** Customizable starting conditions.
@@ -97,3 +99,11 @@
 * Not To Do
 
 ** Gonzo Journalism is for RPG, not for tycoon. <- the idea for the future.
+
+** Mechanic of horizontal grow of agency:
+- require a different story,
+- require a different scale of the game
+- require much bigger budget to do it right
+- require more info about the world, that we could give
+- require more difficult mechanics, to make a deep game
+- most stories in TV series, comics, etc. are going in a single town
