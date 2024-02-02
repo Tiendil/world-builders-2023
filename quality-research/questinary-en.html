@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-02-02 Fr 10:53 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="author" content="tiendil" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org4bd976f">1. Questions we want to answer or gain insights on</a></li>
+<li><a href="#org6d45b91">2. Intro</a></li>
+<li><a href="#orgee16b36">3. Cheat sheet</a>
+<ul>
+<li><a href="#org3662525">3.1. Social profile of the respondent</a>
+<ul>
+<li><a href="#orga8ad923">3.1.1. Age</a></li>
+<li><a href="#org5929b1d">3.1.2. What do you do in life</a></li>
+<li><a href="#org484ee5d">3.1.3. Describe your gaming experience</a></li>
+</ul>
+</li>
+<li><a href="#org165adfe">3.2. Perception of the genre as a whole</a>
+<ul>
+<li><a href="#org58d1950">3.2.1. What is a tycoon of something</a></li>
+<li><a href="#orgf7ebc31">3.2.2. What is a tycoon with a story / with RPG elements</a></li>
+</ul>
+</li>
+<li><a href="#org004abcb">3.3. Perception of the game before the description of mechanics and world</a>
+<ul>
+<li><a href="#org79dfd00">3.3.1. If we are making a game about a news agency in the modern world:</a></li>
+<li><a href="#org6f7451a">3.3.2. If you were playing as the chief editor of a newspaper / website</a></li>
+</ul>
+</li>
+<li><a href="#orgbacff30">3.4. Description of the game and world</a></li>
+<li><a href="#org4e7dc17">3.5. Perception of the game after the description of mechanics and world</a>
+<ul>
+<li><a href="#orgada4c7b">3.5.1. What from the description looks unclear or uninteresting to you?</a></li>
+<li><a href="#org60f70ac">3.5.2. What did I forget to mention that could make the game or world more interesting?</a></li>
+<li><a href="#orgf254174">3.5.3. What similar games come to your mind?</a></li>
+<li><a href="#orgdc69cbd">3.5.4. Suggest a couple of interesting headlines for reports in such a game</a></li>
+<li><a href="#org420fc69">3.5.5. List the qualities of the story/stories for such a game in short definitions (funny, realistic, fast, deep, etc.)</a></li>
+<li><a href="#org6bbdecb">3.5.6. What specific decisions would you have to make, being an editor in such a world?</a></li>
+<li><a href="#org8e6f00d">3.5.7. How would your decisions as an editor affect</a></li>
+<li><a href="#orgb28fbc4">3.5.8. How would your "game day" go?</a></li>
+<li><a href="#org24bc2f0">3.5.9. What changes do you expect between game sessions to return and start the game again?</a></li>
+<li><a href="#org3af2299">3.5.10. Never make in this game&#x2026;</a></li>
+<li><a href="#org1210532">3.5.11. Just for me, implement this cool thing&#x2026;</a></li>
+<li><a href="#orgcfc9e81">3.5.12. Just for me, make this kind of story&#x2026;</a></li>
+<li><a href="#org9649557">3.5.13. I would buy this game if it has&#x2026;</a></li>
+<li><a href="#org5b1aaec">3.5.14. I would decide to try a demo, if it has&#x2026;</a></li>
+</ul>
+</li>
+<li><a href="#org3ab647b">3.6. Retrospective questions</a>
+<ul>
+<li><a href="#orgc15bbae">3.6.1. Does the emerging picture of the game look interesting to you?</a></li>
+<li><a href="#org694ecf6">3.6.2. Would it be interesting to learn more about the world of the game?</a></li>
+<li><a href="#org0820486">3.6.3. Do you have friends whom you could recommend such a game?</a></li>
+<li><a href="#org89078ed">3.6.4. If you were playing the game with someone</a></li>
+<li><a href="#org96e2e4d">3.6.5. Any of your thoughts after the conversation</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org4bd976f" class="outline-2">
+<h2 id="org4bd976f"><span class="section-number-2">1.</span> Questions we want to answer or gain insights on</h2>
+</div>
+
+<div id="outline-container-org6d45b91" class="outline-2">
+<h2 id="org6d45b91"><span class="section-number-2">2.</span> Intro</h2>
+<div class="outline-text-2" id="text-2">
+<ul class="org-ul">
+<li>There are no right/wrong answers, your personal opinion is important</li>
+
+<li>You can answer inaccurately, you can fantasize, etc.</li>
+
+<li>You don't need to think long about the answer, the first-second thing that comes to mind</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgee16b36" class="outline-2">
+<h2 id="orgee16b36"><span class="section-number-2">3.</span> Cheat sheet</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org3662525" class="outline-3">
+<h3 id="org3662525"><span class="section-number-3">3.1.</span> Social profile of the respondent</h3>
+<div class="outline-text-3" id="text-3-1">
+</div>
+<div id="outline-container-orga8ad923" class="outline-4">
+<h4 id="orga8ad923"><span class="section-number-4">3.1.1.</span> Age</h4>
+</div>
+
+<div id="outline-container-org5929b1d" class="outline-4">
+<h4 id="org5929b1d"><span class="section-number-4">3.1.2.</span> What do you do in life</h4>
+</div>
+
+<div id="outline-container-org484ee5d" class="outline-4">
+<h4 id="org484ee5d"><span class="section-number-4">3.1.3.</span> Describe your gaming experience</h4>
+<div class="outline-text-4" id="text-3-1-3">
+</div>
+<ol class="org-ol">
+<li><a id="org3b49b65"></a>How many years have you been playing games?<br /></li>
+
+<li><a id="org3f2e670"></a>What games have you played in the last year<br /></li>
+
+<li><a id="org325b11c"></a>How much time do you spend on games per week?<br /></li>
+
+<li><a id="org07bac67"></a>How much do you "give it your all" when playing games?<br />
+<ol class="org-ol">
+<li><a id="org51733dc"></a>How much effort do you spend when playing?<br /></li>
+</ol>
+</li>
+<li><a id="org3a1eb67"></a>Most favorite games<br /></li>
+
+<li><a id="orgeb0d614"></a>What tycoon / economic / management games have you played recently?<br /></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org165adfe" class="outline-3">
+<h3 id="org165adfe"><span class="section-number-3">3.2.</span> Perception of the genre as a whole</h3>
+<div class="outline-text-3" id="text-3-2">
+</div>
+<div id="outline-container-org58d1950" class="outline-4">
+<h4 id="org58d1950"><span class="section-number-4">3.2.1.</span> What is a tycoon of something</h4>
+<div class="outline-text-4" id="text-3-2-1">
+</div>
+<ol class="org-ol">
+<li><a id="orgf21f0ff"></a>When you hear about a management simulator:<br />
+<ol class="org-ol">
+<li><a id="org1953129"></a>what games come to mind?<br /></li>
+
+<li><a id="orgd7f62ca"></a>what types of organizations come to mind?<br /></li>
+</ol>
+</li>
+<li><a id="org0c54577"></a>Remember the most memorable game mechanics from tycoon / economic games, or a story that happened to you in such a game<br /></li>
+</ol>
+</div>
+<div id="outline-container-orgf7ebc31" class="outline-4">
+<h4 id="orgf7ebc31"><span class="section-number-4">3.2.2.</span> What is a tycoon with a story / with RPG elements</h4>
+<div class="outline-text-4" id="text-3-2-2">
+</div>
+<ol class="org-ol">
+<li><a id="orge2796fe"></a>When you hear about a strong role of the story in tycoon:<br />
+<ol class="org-ol">
+<li><a id="orgb6cb39b"></a>what stories come to mind?<br /></li>
+
+<li><a id="org0cfccce"></a>what games come to mind?<br /></li>
+</ol>
+</li>
+<li><a id="org01bcf6c"></a>What should be the role of the story in the game for you to be interested in playing?<br /></li>
+
+<li><a id="org4a5c18d"></a>What is more interesting for you: one big story vs many small stories vs several medium ones?<br /></li>
+
+<li><a id="orga313dee"></a>Remember the most memorable plot moment in a game (priority: tycoon, strategy, any game)<br /></li>
+
+<li><a id="org2e8ae28"></a>The most memorable moment caused by mechanics in the game (priority: tycoon, strategy, any game)<br /></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org004abcb" class="outline-3">
+<h3 id="org004abcb"><span class="section-number-3">3.3.</span> Perception of the game before the description of mechanics and world</h3>
+<div class="outline-text-3" id="text-3-3">
+</div>
+<div id="outline-container-org79dfd00" class="outline-4">
+<h4 id="org79dfd00"><span class="section-number-4">3.3.1.</span> If we are making a game about a news agency in the modern world:</h4>
+<div class="outline-text-4" id="text-3-3-1">
+</div>
+<ol class="org-ol">
+<li><a id="orga20c951"></a>The agency should be: a newspaper, TV news, a news portal, a YouTube channel, a Telegram channel, something else?<br />
+<ol class="org-ol">
+<li><a id="orgcfb6283"></a>What are the differences between the two-three chosen options?<br /></li>
+</ol>
+</li>
+<li><a id="org808170b"></a>What out of these would be the most interesting for you to play<br />
+<ol class="org-ol">
+<li><a id="orge33010e"></a>most interesting<br /></li>
+
+<li><a id="org9ff92d3"></a>least interesting<br /></li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-org6f7451a" class="outline-4">
+<h4 id="org6f7451a"><span class="section-number-4">3.3.2.</span> If you were playing as the chief editor of a newspaper / website</h4>
+<div class="outline-text-4" id="text-3-3-2">
+</div>
+<ol class="org-ol">
+<li><a id="orgeffc3f6"></a>What would you consider an achievement by winning/completing such a game?<br /></li>
+
+<li><a id="org0b0b1e6"></a>What decisions, as the chief editor, would you make?<br /></li>
+
+<li><a id="org52106cc"></a>How do you see the preparation of a news release (newspaper, portal, or whatever the respondent chooses)<br /></li>
+
+<li><a id="org558da2a"></a>What things would you need to balance to manage X?<br /></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgbacff30" class="outline-3">
+<h3 id="orgbacff30"><span class="section-number-3">3.4.</span> Description of the game and world</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+Our time, paranormal phenomena begin to emerge, for paranormal abilities usually a higher price than for advantages, society and institutions are shaking (aka the 90s)
+</p>
+
+<p>
+Paranormal phenomena: a world of weak heroes, artifacts give small powers but affect mental and physical health, the more people believe in something, the stronger it is
+</p>
+
+<p>
+References: X-Files, American Gods, Marvel's Netflix television series, Gotham TV series, Happy!
+</p>
+
+<p>
+Main cycle: -&gt;investigate-&gt;publish-&gt;adapt-&gt;
+</p>
+
+<p>
+Mechanics: send reporters on assignments for stories (artifacts, compromising material, new employees), choose what and how to tell in the news, change public opinion about different things, popularity of the newspaper in different areas of the city, the attitude of corporations to the newspaper, suffering from the consequences of all this.
+</p>
+</div>
+</div>
+<div id="outline-container-org4e7dc17" class="outline-3">
+<h3 id="org4e7dc17"><span class="section-number-3">3.5.</span> Perception of the game after the description of mechanics and world</h3>
+<div class="outline-text-3" id="text-3-5">
+</div>
+<div id="outline-container-orgada4c7b" class="outline-4">
+<h4 id="orgada4c7b"><span class="section-number-4">3.5.1.</span> What from the description looks unclear or uninteresting to you?</h4>
+</div>
+
+<div id="outline-container-org60f70ac" class="outline-4">
+<h4 id="org60f70ac"><span class="section-number-4">3.5.2.</span> What did I forget to mention that could make the game or world more interesting?</h4>
+</div>
+
+<div id="outline-container-orgf254174" class="outline-4">
+<h4 id="orgf254174"><span class="section-number-4">3.5.3.</span> What similar games come to your mind?</h4>
+</div>
+
+<div id="outline-container-orgdc69cbd" class="outline-4">
+<h4 id="orgdc69cbd"><span class="section-number-4">3.5.4.</span> Suggest a couple of interesting headlines for reports in such a game</h4>
+</div>
+
+<div id="outline-container-org420fc69" class="outline-4">
+<h4 id="org420fc69"><span class="section-number-4">3.5.5.</span> List the qualities of the story/stories for such a game in short definitions (funny, realistic, fast, deep, etc.)</h4>
+</div>
+
+<div id="outline-container-org6bbdecb" class="outline-4">
+<h4 id="org6bbdecb"><span class="section-number-4">3.5.6.</span> What specific decisions would you have to make, being an editor in such a world?</h4>
+</div>
+
+<div id="outline-container-org8e6f00d" class="outline-4">
+<h4 id="org8e6f00d"><span class="section-number-4">3.5.7.</span> How would your decisions as an editor affect</h4>
+<div class="outline-text-4" id="text-3-5-7">
+</div>
+<ol class="org-ol">
+<li><a id="orgfdfd5dc"></a>the external world<br /></li>
+
+<li><a id="orgc5087bf"></a>the organization<br /></li>
+</ol>
+</div>
+<div id="outline-container-orgb28fbc4" class="outline-4">
+<h4 id="orgb28fbc4"><span class="section-number-4">3.5.8.</span> How would your "game day" go?</h4>
+</div>
+
+<div id="outline-container-org24bc2f0" class="outline-4">
+<h4 id="org24bc2f0"><span class="section-number-4">3.5.9.</span> What changes do you expect between game sessions to return and start the game again?</h4>
+</div>
+
+<div id="outline-container-org3af2299" class="outline-4">
+<h4 id="org3af2299"><span class="section-number-4">3.5.10.</span> Never make in this game&#x2026;</h4>
+</div>
+
+<div id="outline-container-org1210532" class="outline-4">
+<h4 id="org1210532"><span class="section-number-4">3.5.11.</span> Just for me, implement this cool thing&#x2026;</h4>
+</div>
+
+<div id="outline-container-orgcfc9e81" class="outline-4">
+<h4 id="orgcfc9e81"><span class="section-number-4">3.5.12.</span> Just for me, make this kind of story&#x2026;</h4>
+</div>
+
+<div id="outline-container-org9649557" class="outline-4">
+<h4 id="org9649557"><span class="section-number-4">3.5.13.</span> I would buy this game if it has&#x2026;</h4>
+</div>
+
+<div id="outline-container-org5b1aaec" class="outline-4">
+<h4 id="org5b1aaec"><span class="section-number-4">3.5.14.</span> I would decide to try a demo, if it has&#x2026;</h4>
+</div>
+</div>
+<div id="outline-container-org3ab647b" class="outline-3">
+<h3 id="org3ab647b"><span class="section-number-3">3.6.</span> Retrospective questions</h3>
+<div class="outline-text-3" id="text-3-6">
+</div>
+<div id="outline-container-orgc15bbae" class="outline-4">
+<h4 id="orgc15bbae"><span class="section-number-4">3.6.1.</span> Does the emerging picture of the game look interesting to you?</h4>
+</div>
+
+<div id="outline-container-org694ecf6" class="outline-4">
+<h4 id="org694ecf6"><span class="section-number-4">3.6.2.</span> Would it be interesting to learn more about the world of the game?</h4>
+</div>
+
+<div id="outline-container-org0820486" class="outline-4">
+<h4 id="org0820486"><span class="section-number-4">3.6.3.</span> Do you have friends whom you could recommend such a game?</h4>
+</div>
+
+<div id="outline-container-org89078ed" class="outline-4">
+<h4 id="org89078ed"><span class="section-number-4">3.6.4.</span> If you were playing the game with someone</h4>
+<div class="outline-text-4" id="text-3-6-4">
+</div>
+<ol class="org-ol">
+<li><a id="org3b885a5"></a>Who could it be?<br /></li>
+
+<li><a id="org528fa92"></a>What role would you give him/her?<br /></li>
+
+<li><a id="org5a2dc06"></a>How would you interact?<br /></li>
+</ol>
+</div>
+<div id="outline-container-org96e2e4d" class="outline-4">
+<h4 id="org96e2e4d"><span class="section-number-4">3.6.5.</span> Any of your thoughts after the conversation</h4>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: tiendil</p>
+<p class="date">Created: 2024-02-02 Fr 10:53</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
