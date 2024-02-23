@@ -3,9 +3,7 @@
 
 ### Cleaning data
 
-TODO: add links
-
-- ru:
+- ru: https://tiendil.org/ru/posts/making-a-fictional-universe-quantity-survey-cleaning
 - en:
 
 ### Processing data
