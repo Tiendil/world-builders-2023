@@ -34,8 +34,7 @@ class: top
 The urban legends world with an open future which displays our fears, hopes, and fantasies in all their variety.
 
 - A near future mystic sci-fi world.
-- Paranormal anomalies are starting manifest more frequently than anybody would want.
-- Science and technology are changing people and society.
+- Science and paranormal are changing people and society.
 - Free access to small-grade superpowers leads world to crisis of institutions and values.
 - Government, media, secret organizations, and business clash over new power sources.
 
@@ -48,16 +47,30 @@ The urban legends world with an open future which displays our fears, hopes, and
 ---
 class: top
 
-# Концепт продукта
+# Chief editor strategy
 
 <!-- - Концепт продукта на основе исследования -->
 
+<img src="./5.png" style="height: 30em; float: right; margin-top: -5em;"/>
 
-The best way to onboard sci-fi and mystery fans in his world is to create a tycoon/strategy game with strong rpg/story elements, where you have to manage the city newspaper, undertaking investigations of the mysteries and anomalies, making decisions to publish (or not) things you’ve uncovered, and dealing with the consequences in the form of legal, criminal, political, mystical and public pressure. Stories will introduce significant actors, and management will teach the rules of the world.
+- Steam, single-player
+- Modern news agency manager
+- Megalopolis
+- Manage everyday news flow, 25 +- (unique) workers, fight few competitors
+- Use different channels while newsmaking changes from 2000 to 2050
+- Deside what to publish, how to publish and what to hide
+- Change public opinion, influence politics => change the world
+
+<!-- The best way to onboard sci-fi and mystery fans in his world is to create a tycoon/strategy game with strong rpg/story elements, where you have to manage the city newspaper, undertaking investigations of the mysteries and anomalies, making decisions to publish (or not) things you’ve uncovered, and dealing with the consequences in the form of legal, criminal, political, mystical and public pressure. Stories will introduce significant actors, and management will teach the rules of the world. -->
 
 ---
 class: top
 
 # Демо
+
+- two channels
+- abstract public like people in square
+- flow of events -> react
+- 3-5 investigators
 
 <!-- - Описание демки, как мы её видим -->
