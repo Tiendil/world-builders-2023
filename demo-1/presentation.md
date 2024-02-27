@@ -35,8 +35,8 @@ The urban legends world with an open future that displays our fears, hopes, and 
 
 - A near future mystic sci-fi world.
 - Science and paranormal are changing people and society.
-- Free access to small-grade superpowers leads the world to the crisis of institutions and values.
-- Government, media, secret organizations, and business clash over new power sources.
+- Mass access to small-grade superpowers leads to a crisis of institutions and values.
+- Government, media, secret organizations, and businesses clash over new power sources.
 
 <div style="display: flex; justify-content: space-between;">
     <img src="./1.png" width="30%"/>
@@ -58,7 +58,7 @@ class: top
 
 Idea:
 
-- Take role of the chief editor
+- Take the role of the chief editor
 - Direct everyday news flow into multiple channels
 - Manipulate public opinion
 - Support relations with powers
@@ -71,17 +71,17 @@ Grounded:
 - City produces news
 - More news & public opinion
 - Less budget & office
-- Team of 25± journalists
+- A team of 25± journalists
 - Few competitors
 
 ---
 class: top
 
-## Potential big features / evolution directions
+## Potential big features/evolution directions
 
 - "News director" system (Left 4 Dead, RimWorld)
 - Complex news/story chains
-- Long historic period: from 1990 (newspaper-era) to 2040 (ai/myth-era)
+- Longer historical period: from 1990 (newspaper-era) to 2040 (ai/myth-era)
 - Single city ==> planet-scale simulation
 - Multiplayer: small, massive.
 
@@ -95,15 +95,15 @@ class: top
 - no city map
 - no competitors
 - the city is represented by a crowd of people
-- 2 news channels: classic newspaper and twitter
+- 2 news channels: classic newspaper and "Twitter"
 - 3-5 predefined journalists
 - 2-3 predefined power actors
-- predefined set of news with triggers
+- A predefined set of news with triggers
 - goal: "win" of one of the power actors
 
 Goal examples:
 
-- Decide the future of wasteland: build factory or park
+- Decide the future of wasteland: build a factory or a park
 - Elections: support one of the candidates
 - Provoke the lynching or prevent it
 
