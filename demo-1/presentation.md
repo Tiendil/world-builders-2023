@@ -1,35 +1,33 @@
 class: top
 
-# Елецкий Алексей (Tiendil)
+# Aliaksei Yaletski (Tiendil)
 
 <!-- - Бэкграунд (с прошлой презы) -->
 
 <img src="./avatara.jpg" style="height: 20em; float: right; margin-top: -5em;"/>
 
-Занимаюсь разработкой ПО:
+I am engaged in software development:
 
-- программированием/лидством;
-- всем остальным тоже, но чуть меньше;
-- в основном бэкенд и геймдев.
+- Programming/leading;
+- Everything else as well, but to a lesser extent;
+- Mainly backend and game development.
 
-Веду блог о разработке игр, мышлении и книгах.
+I run a blog about game development, thinking, and books.
 
-Хочу делать собственные качественные продукты и зарабатывать на них деньги.
+Blog: [tiendil.org](https://tiendil.org)
 
-В программе потому что:
+I want to create my own high-quality products and make money from them.
 
-- хочу подтянуть скилы;
-- она пересекается с моими интересами и планами;
-- почему бы и нет — одну вселенную сделал, следующая выйдет лучше.
+I am in this program because:
 
-<!-- Написать 3 предложения о себе. "Занимаюсь/увлекаюсь [тем-то], когда вырасту хочу делать [то-то], в программе потому что [вот так вот]".   -->
+- I want to improve my skills;
+- It aligns with my interests and plans;
+- Why not? I've created one universe, the next one will be better.
 
 ---
 class: top
 
 # Other Side Universe
-
-<!-- - Сеттинг (с прошлой презы) -->
 
 The urban legends world with an open future that displays our fears, hopes, and fantasies in all their variety.
 
