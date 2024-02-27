@@ -53,13 +53,29 @@ class: top
 
 <img src="./5.png" style="height: 30em; float: right; margin-top: -5em;"/>
 
-- Steam, single-player
-- Modern news agency manager
-- Megalopolis
-- Manage everyday news flow, 25 +- (unique) workers, fight few competitors
-- Use different channels while newsmaking changes from 2000 to 2050
-- Deside what to publish, how to publish and what to hide
-- Change public opinion, influence politics => change the world
+Steam, single-player
+
+Idea:
+
+- Take role of the chief editor
+- Direct everyday news flow into multiple channels
+- Manipulate public opinion
+- Support relations with powers
+- Take action in stories of the city
+
+Grounded:
+
+- megalopolis "playground"
+- simulated public opinion
+- public opinion changes the city
+- city parameters trigger stories
+- more stories, less budjet
+- 25 +- hired journalists
+- few competitors
+
+Optionally:
+
+- Adapt agency to changes from 1990 (newspaper-era) to 2040 (ai/myth-era)
 
 <!-- The best way to onboard sci-fi and mystery fans in his world is to create a tycoon/strategy game with strong rpg/story elements, where you have to manage the city newspaper, undertaking investigations of the mysteries and anomalies, making decisions to publish (or not) things you’ve uncovered, and dealing with the consequences in the form of legal, criminal, political, mystical and public pressure. Stories will introduce significant actors, and management will teach the rules of the world. -->
 
