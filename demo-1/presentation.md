@@ -63,7 +63,7 @@ Idea:
 
 Grounded:
 
-- Megalopolis "playground"
+- Megalopolis sandbox
 - Simulated public opinion
 - Public opinion changes the city
 - City produces news
@@ -79,7 +79,7 @@ class: top
 
 - "News director" system (Left 4 Dead, RimWorld)
 - Complex news/story chains
-- Longer historical period: from 1990 (newspaper-era) to 2040 (ai/myth-era)
+- Longer historical period: from 1980 (newspaper-era) to 2040 (ai/myth-era)
 - Single city ==> planet-scale simulation
 - Multiplayer: small, massive.
 
