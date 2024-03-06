@@ -4,12 +4,12 @@
 ### Cleaning data
 
 - ru: https://tiendil.org/ru/posts/making-a-fictional-universe-quantity-survey-cleaning
-- en:
+- en: https://tiendil.org/en/posts/making-a-fictional-universe-quantity-survey-cleaning
 
 ### Processing data
 
-- ru:
-- en:
+- ru: https://tiendil.org/ru/posts/making-a-fictional-universe-quantity-survey-processing
+- en: https://tiendil.org/en/posts/making-a-fictional-universe-quantity-survey-processing
 
 ## Data
 
