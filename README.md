@@ -20,7 +20,7 @@ Links are given to the rendered html files, see sources in this repository.
 
 - Questions for quality research: [ru](https://tiendil.github.io/world-builders-2023/quality-research/questinary.html), [en](https://tiendil.github.io/world-builders-2023/quality-research/questinary-en.html)
 - [Form for quantity research](https://docs.google.com/forms/d/e/1FAIpQLSeqhPItyFqUp3MrGyTiIC887q_vCXDV9OwwmK6H9PU-H-OX4Q/viewform?usp=sf_link)
-- HERE WILL BE LINK TO RESULTS OF QUANTITY RESEARCH
+- [Results of quantity research](https://tiendil.org/en/posts/making-a-fictional-universe-quantity-survey-processing)
 
 # Technical prototype
 
