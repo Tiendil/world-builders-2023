@@ -5,6 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/world-builders-2023/technical-prototype/dist/',
   plugins: [
     vue(),
   ],
