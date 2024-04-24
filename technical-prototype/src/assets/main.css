@@ -1,0 +1,141 @@
+@import 'primeicons/primeicons.css';
+
+@import "./headers.css";
+
+@layer tailwind-base, primevue, tailwind-utilities;
+
+@layer tailwind-base {
+    @tailwind base;
+}
+
+@layer tailwind-utilities {
+    @tailwind components;
+    @tailwind utilities;
+}
+
+/* @import "tailwindcss/base"; */
+/* @import "tailwindcss/components"; */
+/* @import "tailwindcss/utilities"; */
+
+:root {
+    --primary-50: 236 253 245;
+    --primary-100: 209 250 229;
+    --primary-200: 167 243 208;
+    --primary-300: 110 231 183;
+    --primary-400: 52 211 153;
+    --primary-500: 16 185 129;
+    --primary-600: 5 150 105;
+    --primary-700: 4 120 87;
+    --primary-800: 6 95 70;
+    --primary-900: 4 78 56;
+    --primary-950: 2 44 34;
+    --surface-0: 255 255 255;
+    --surface-50: 248 250 252;
+    --surface-100: 241 245 249;
+    --surface-200: 226 232 240;
+    --surface-300: 203 213 225;
+    --surface-400: 148 163 184;
+    --surface-500: 100 116 139;
+    --surface-600: 71 85 105;
+    --surface-700: 45 55 72;
+    --surface-800: 30 41 59;
+    --surface-900: 15 23 42;
+    --surface-950: 3 6 23;
+}
+
+
+/* @import "tailwindcss/base"; */
+/* @import "tailwindcss/components"; */
+/* @import "tailwindcss/utilities"; */
+
+
+
+/* @layer components { */
+
+/*     .game-panel { */
+/*         @apply border-solid rounded-md border-2 border-gray-400 p-2 m-2; */
+/*     } */
+
+/*     .game-button { */
+/*         @apply rounded-md bg-blue-500 text-white px-2 py-1 ml-2; */
+
+/*         &:hover { */
+/*             @apply bg-blue-700; */
+/*         } */
+
+/*         &:disabled { */
+/*             @apply bg-gray-400; */
+/*         } */
+/*     } */
+
+/*     .game-events { */
+/*         @apply max-h-96 overflow-y-auto; */
+/*     } */
+
+/*     .game-media { */
+/*         @apply flex flex-row items-start justify-between; */
+/*         .game-media-panel { */
+/*             @apply w-1/2 inline-block; */
+/*         } */
+/*     } */
+
+/*     .game-event { */
+/*         @apply flex flex-row items-start justify-between p-2 border-b-2 border-gray-400; */
+
+/*         .game-event-text { */
+/*             @apply text-lg flex-1 p-2 cursor-pointer; */
+/*         } */
+/*     } */
+
+
+/*     .game-dossiers { */
+/*         @apply flex flex-row items-start justify-between; */
+
+/*         .game-dossiers-list { */
+/*             @apply w-1/2; */
+/*         } */
+
+/*         .game-dossier-info { */
+/*             @apply w-1/2; */
+/*         } */
+/*     } */
+
+/*     .dossier-link { */
+/*         @apply font-semibold; */
+
+/*         &:hover { */
+/*             @apply bg-gray-200 cursor-pointer; */
+/*         } */
+/*     } */
+/* } */
+
+
+.game-person-avatar {
+    &:hover {
+        @apply cursor-pointer text-blue-800;
+    }
+}
+
+.game-organization-avater {
+    &:hover {
+        @apply cursor-pointer text-blue-800;
+    }
+}
+
+
+.game-simple-card {
+    @apply mb-2 bg-white rounded-xl;
+}
+
+
+[role="tablist"] {
+    [data-pc-section="navcontainer"] {
+        @apply mx-6;
+    }
+}
+
+[data-pc-name="card"] {
+    [data-pc-section="content"] {
+        @apply p-2;
+    }
+}
