@@ -25,6 +25,7 @@ Links are given to the rendered html files, see sources in this repository.
 # Technical prototype
 
 - [prototype](https://tiendil.github.io/world-builders-2023/technical-prototype/dist/)
+- [video](https://www.youtube.com/watch?v=nP8OOWgnjdI) (ru)
 - [source code](https://github.com/Tiendil/world-builders-2023/tree/main/technical-prototype)
 
 # Blog posts
