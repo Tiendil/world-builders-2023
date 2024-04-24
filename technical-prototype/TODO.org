@@ -1,0 +1,11 @@
+* Favicon
+* replace "investigatable" events with some fake events.
+* all "no smth" replace with prime-messages
+* public agenda MUST affect events/city
+* arcs MUST affect events/city
+
+
+*  Win/Lose conditions
+** Too low trust to the news agency
+** Too low trust to the chief editor
+** Everyone died
