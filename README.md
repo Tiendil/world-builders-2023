@@ -28,7 +28,11 @@ Links are given to the rendered html files, see sources in this repository.
 - [video](https://www.youtube.com/watch?v=nP8OOWgnjdI) (ru)
 - [source code](https://github.com/Tiendil/world-builders-2023/tree/main/technical-prototype)
 
+# Final presentation
+
+https://www.youtube.com/watch?v=_jEtyW3Oez8
+
 # Blog posts
 
-- [month 1](https://tiendil.org/making-a-fictional-universe-month-1/)
-- [month 2](https://tiendil.org/making-a-fictional-universe-month-2/)
+- Ru: [world builders](https://tiendil.org/ru/tags/world-builders/)
+- En: [world builders](https://tiendil.org/en/tags/world-builders/)
